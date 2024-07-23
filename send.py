@@ -1,57 +1,43 @@
 import can 
 import time 
+import logging
 
-bus = can.interface.Bus(channel='can0', bustype='socketcan') 
+# Set up logging
+logging.basicConfig(filename='sender_ecu_security.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
-def send_can_message(): 
+class SenderECU:
+    def __init__(self) -> None:
+        self.bus = can.interface.Bus(channel='can0', bustype='socketcan') 
+        self.role='admin' #role based access control, set to admin
+    
+    #check the access rights
+    def hasPermissions(self, permison):
+        roles={
+            'admin':['read','write','execute'],
+            'user':['read'],
+            'guest':[]
+        }
+        return permison in roles.get(self.role,[])
+    
 
-    msg = can.Message(arbitration_id=0x123, data=[0xDE, 0xAD, 0xBE, 0xEF], is_extended_id=False) 
+    def send_can_message(self, data): 
+        if not self. hasPermissions('write'):
+            logging.warning("Permission denied: Cannot send message")
+            print("Permission denied: Cannot send message")
+            return
+        
+        #generate can message
+        msg = can.Message(arbitration_id=0x123, data=[0xDE, 0xAD, 0xBE, 0xEF], is_extended_id=False) 
+        #send message
+        self.bus.send(msg) 
+        #record the log
+        logging.info(f"Message sent: {msg}")
 
-    bus.send(msg) 
-
-    print("Message sent on {}".format(bus.channel_info)) 
+        #output
+        print("Message sent on {}".format(self.bus.channel_info)) 
 
 
 if __name__ == "__main__": 
+    ecu1=SenderECU()
+    ecu1.send_can_message(b'Hello123') #Message example
 
-    count=0
-    while True: 
-        if count<10:
-            send_can_message() 
-            time.sleep(0.2)
-            count=+1
-        else:
-            print('--------First 10 messages send --------------')
-        time.sleep(10) 
-     
-
-# import can
-# import time
-# import RPi.GPIO as GPIO
-
-# # Setup CAN bus
-# bus = can.interface.Bus(channel='can0', bustype='socketcan')
-
-# # Setup GPIO
-# button_pin = 17  # Assuming the button is connected to GPIO pin 17
-# GPIO.setmode(GPIO.BCM)
-# GPIO.setup(button_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-
-# def send_can_message():
-#     msg = can.Message(arbitration_id=0x123, data=[0xDE, 0xAD, 0xBE, 0xEF], is_extended_id=False)
-#     bus.send(msg)
-#     print("Message sent on {}".format(bus.channel_info))
-
-# if __name__ == "__main__":
-#     try:
-#         while True:
-#             # Check if the button is pressed
-#             if GPIO.input(button_pin) == GPIO.LOW:
-#                 send_can_message()
-#                 # Debounce delay
-#                 time.sleep(0.2)
-#             time.sleep(0.1)  # Polling interval
-#     except KeyboardInterrupt:
-#         pass
-#     finally:
-#         GPIO.cleanup()  # Clean up GPIO on exit
