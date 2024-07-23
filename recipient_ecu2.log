@@ -1,0 +1,2079 @@
+2024-07-23 15:36:45,009 Created a socket
+2024-07-23 15:36:45,047 Message received: ID=975, Data=bytearray(b'A\x1a\xaa\xdbl')
+2024-07-23 15:36:45,048 Anomaly detected: Unexpected message ID 975
+2024-07-23 15:36:45,148 Message received: ID=998, Data=bytearray(b'\xbb\x8f')
+2024-07-23 15:36:45,149 Anomaly detected: Unexpected message ID 998
+2024-07-23 15:36:45,255 Message received: ID=1026, Data=bytearray(b'\xda')
+2024-07-23 15:36:45,256 Anomaly detected: Unexpected message ID 1026
+2024-07-23 15:36:45,356 Message received: ID=124, Data=bytearray(b'')
+2024-07-23 15:36:45,357 Anomaly detected: Unexpected message ID 124
+2024-07-23 15:36:45,459 Message received: ID=584, Data=bytearray(b'a\xab')
+2024-07-23 15:36:45,460 Anomaly detected: Unexpected message ID 584
+2024-07-23 15:36:45,561 Message received: ID=1757, Data=bytearray(b'|\xe6')
+2024-07-23 15:36:45,564 Anomaly detected: Unexpected message ID 1757
+2024-07-23 15:36:45,670 Message received: ID=1348, Data=bytearray(b'\x97h\xa3\xd8{\x82')
+2024-07-23 15:36:45,671 Anomaly detected: Unexpected message ID 1348
+2024-07-23 15:36:45,790 Message received: ID=77, Data=bytearray(b'\xc2<f\xd7')
+2024-07-23 15:36:45,791 Anomaly detected: Unexpected message ID 77
+2024-07-23 15:36:45,881 Message received: ID=1673, Data=bytearray(b'T\t\x10\xb9\xde')
+2024-07-23 15:36:45,882 Anomaly detected: Unexpected message ID 1673
+2024-07-23 15:36:45,984 Message received: ID=74, Data=bytearray(b'\x05\xfa\x89\xc9\nZ\x0b\xd1')
+2024-07-23 15:36:45,985 Anomaly detected: Unexpected message ID 74
+2024-07-23 15:36:46,085 Message received: ID=1951, Data=bytearray(b'<\x8d\xd5\x16V\x83\xc3n')
+2024-07-23 15:36:46,086 Anomaly detected: Unexpected message ID 1951
+2024-07-23 15:36:46,189 Message received: ID=499, Data=bytearray(b'')
+2024-07-23 15:36:46,189 Anomaly detected: Unexpected message ID 499
+2024-07-23 15:36:46,292 Message received: ID=493, Data=bytearray(b'>')
+2024-07-23 15:36:46,292 Anomaly detected: Unexpected message ID 493
+2024-07-23 15:36:46,394 Message received: ID=368, Data=bytearray(b'\xad\x0c\xccB\xc3')
+2024-07-23 15:36:46,402 Anomaly detected: Unexpected message ID 368
+2024-07-23 15:36:46,495 Message received: ID=1313, Data=bytearray(b'V\xfa\x89')
+2024-07-23 15:36:46,499 Anomaly detected: Unexpected message ID 1313
+2024-07-23 15:36:46,599 Message received: ID=215, Data=bytearray(b'\x16\\59\x92\xabq')
+2024-07-23 15:36:46,599 Anomaly detected: Unexpected message ID 215
+2024-07-23 15:36:46,708 Message received: ID=946, Data=bytearray(b'&0')
+2024-07-23 15:36:46,709 Anomaly detected: Unexpected message ID 946
+2024-07-23 15:36:46,816 Message received: ID=325, Data=bytearray(b'b\xd7\xc1k')
+2024-07-23 15:36:46,819 Anomaly detected: Unexpected message ID 325
+2024-07-23 15:36:46,917 Message received: ID=1241, Data=bytearray(b'u\xffwX\xe8\xd9\x9e\x02')
+2024-07-23 15:36:46,919 Anomaly detected: Unexpected message ID 1241
+2024-07-23 15:36:47,018 Message received: ID=168, Data=bytearray(b'\xa9')
+2024-07-23 15:36:47,019 Anomaly detected: Unexpected message ID 168
+2024-07-23 15:36:47,119 Message received: ID=1527, Data=bytearray(b'')
+2024-07-23 15:36:47,121 Anomaly detected: Unexpected message ID 1527
+2024-07-23 15:36:47,225 Message received: ID=1123, Data=bytearray(b'"\x81\x10`\xf5`\xf2')
+2024-07-23 15:36:47,229 Anomaly detected: Unexpected message ID 1123
+2024-07-23 15:36:47,325 Message received: ID=624, Data=bytearray(b'\n\xca')
+2024-07-23 15:36:47,328 Anomaly detected: Unexpected message ID 624
+2024-07-23 15:36:47,428 Message received: ID=811, Data=bytearray(b"\xf5TL\'\t\xc6\x84")
+2024-07-23 15:36:47,432 Anomaly detected: Unexpected message ID 811
+2024-07-23 15:36:47,532 Message received: ID=1080, Data=bytearray(b'\xed\xb0}\xa1')
+2024-07-23 15:36:47,533 Anomaly detected: Unexpected message ID 1080
+2024-07-23 15:36:47,634 Message received: ID=1363, Data=bytearray(b'K')
+2024-07-23 15:36:47,635 Anomaly detected: Unexpected message ID 1363
+2024-07-23 15:36:47,738 Message received: ID=369, Data=bytearray(b'@\xb0\x13')
+2024-07-23 15:36:47,739 Anomaly detected: Unexpected message ID 369
+2024-07-23 15:36:47,841 Message received: ID=1586, Data=bytearray(b'')
+2024-07-23 15:36:47,844 Anomaly detected: Unexpected message ID 1586
+2024-07-23 15:36:47,942 Message received: ID=789, Data=bytearray(b'')
+2024-07-23 15:36:47,944 Anomaly detected: Unexpected message ID 789
+2024-07-23 15:36:48,045 Message received: ID=1915, Data=bytearray(b'w\x9f\xe2\x91\xe0')
+2024-07-23 15:36:48,046 Anomaly detected: Unexpected message ID 1915
+2024-07-23 15:36:48,149 Message received: ID=916, Data=bytearray(b'')
+2024-07-23 15:36:48,150 Anomaly detected: Unexpected message ID 916
+2024-07-23 15:36:48,251 Message received: ID=1029, Data=bytearray(b'\xc5\x97;\xce')
+2024-07-23 15:36:48,252 Anomaly detected: Unexpected message ID 1029
+2024-07-23 15:36:48,353 Message received: ID=594, Data=bytearray(b'7\x05\x00\xd1\x97\xa8>')
+2024-07-23 15:36:48,354 Anomaly detected: Unexpected message ID 594
+2024-07-23 15:36:48,457 Message received: ID=141, Data=bytearray(b'\x87\xe2\x07\x06\x13\xbf\xc9\xcb')
+2024-07-23 15:36:48,459 Anomaly detected: Unexpected message ID 141
+2024-07-23 15:36:48,557 Message received: ID=655, Data=bytearray(b'')
+2024-07-23 15:36:48,559 Anomaly detected: Unexpected message ID 655
+2024-07-23 15:36:48,659 Message received: ID=494, Data=bytearray(b'N\xd5\x0b\xbed\t\x12')
+2024-07-23 15:36:48,659 Anomaly detected: Unexpected message ID 494
+2024-07-23 15:36:48,764 Message received: ID=1738, Data=bytearray(b'o\xbf3\xdd@kF')
+2024-07-23 15:36:48,764 Anomaly detected: Unexpected message ID 1738
+2024-07-23 15:36:48,865 Message received: ID=1691, Data=bytearray(b'!\x1bz\xad\xd7')
+2024-07-23 15:36:48,866 Anomaly detected: Unexpected message ID 1691
+2024-07-23 15:36:48,967 Message received: ID=987, Data=bytearray(b'')
+2024-07-23 15:36:48,967 Anomaly detected: Unexpected message ID 987
+2024-07-23 15:36:49,069 Message received: ID=823, Data=bytearray(b'\x18}\xa5\x1e')
+2024-07-23 15:36:49,071 Anomaly detected: Unexpected message ID 823
+2024-07-23 15:36:49,176 Message received: ID=1118, Data=bytearray(b'\x8c4\x95\x16a\x1f')
+2024-07-23 15:36:49,177 Anomaly detected: Unexpected message ID 1118
+2024-07-23 15:36:49,277 Message received: ID=979, Data=bytearray(b'MS\xab')
+2024-07-23 15:36:49,279 Anomaly detected: Unexpected message ID 979
+2024-07-23 15:36:49,379 Message received: ID=1946, Data=bytearray(b'')
+2024-07-23 15:36:49,382 Anomaly detected: Unexpected message ID 1946
+2024-07-23 15:36:49,483 Message received: ID=771, Data=bytearray(b'\xacl')
+2024-07-23 15:36:49,484 Anomaly detected: Unexpected message ID 771
+2024-07-23 15:36:49,591 Message received: ID=1276, Data=bytearray(b'J\x91\xda')
+2024-07-23 15:36:49,595 Anomaly detected: Unexpected message ID 1276
+2024-07-23 15:36:49,701 Message received: ID=1019, Data=bytearray(b'\x04uhb\xb7\xdc`')
+2024-07-23 15:36:49,701 Anomaly detected: Unexpected message ID 1019
+2024-07-23 15:36:49,840 Message received: ID=1974, Data=bytearray(b'\xcfQ\x80\rP\xf8e')
+2024-07-23 15:36:49,840 Anomaly detected: Unexpected message ID 1974
+2024-07-23 15:36:49,943 Message received: ID=228, Data=bytearray(b's\xb6\xaa\xb9\xa5!\x9a')
+2024-07-23 15:36:49,944 Anomaly detected: Unexpected message ID 228
+2024-07-23 15:36:50,048 Message received: ID=519, Data=bytearray(b'\x10\xb8')
+2024-07-23 15:36:50,048 Anomaly detected: Unexpected message ID 519
+2024-07-23 15:36:50,152 Message received: ID=1993, Data=bytearray(b'\x93\x90\xf6\x88')
+2024-07-23 15:36:50,154 Anomaly detected: Unexpected message ID 1993
+2024-07-23 15:36:50,255 Message received: ID=1604, Data=bytearray(b'2\xc5\x00\xe4]C')
+2024-07-23 15:36:50,256 Anomaly detected: Unexpected message ID 1604
+2024-07-23 15:36:50,360 Message received: ID=995, Data=bytearray(b'\xd2Q0')
+2024-07-23 15:36:50,361 Anomaly detected: Unexpected message ID 995
+2024-07-23 15:36:50,467 Message received: ID=1371, Data=bytearray(b'\xaf\x90L\x80\xe1;Bv')
+2024-07-23 15:36:50,467 Anomaly detected: Unexpected message ID 1371
+2024-07-23 15:36:50,573 Message received: ID=1320, Data=bytearray(b'"\x07U\x9b')
+2024-07-23 15:36:50,574 Anomaly detected: Unexpected message ID 1320
+2024-07-23 15:36:50,675 Message received: ID=799, Data=bytearray(b'\xf2\xec\xab\xe3\x01\xda')
+2024-07-23 15:36:50,675 Anomaly detected: Unexpected message ID 799
+2024-07-23 15:36:50,776 Message received: ID=142, Data=bytearray(b'\xa9\xa9i\x99')
+2024-07-23 15:36:50,777 Anomaly detected: Unexpected message ID 142
+2024-07-23 15:36:50,877 Message received: ID=183, Data=bytearray(b'\xee\xbf\xad\xa1')
+2024-07-23 15:36:50,877 Anomaly detected: Unexpected message ID 183
+2024-07-23 15:36:50,978 Message received: ID=1887, Data=bytearray(b'\xd0Hb\x87\xfd\xfc')
+2024-07-23 15:36:50,979 Anomaly detected: Unexpected message ID 1887
+2024-07-23 15:36:51,080 Message received: ID=104, Data=bytearray(b'q\x8a\xe2o\xf9\xaa\x18')
+2024-07-23 15:36:51,080 Anomaly detected: Unexpected message ID 104
+2024-07-23 15:36:51,183 Message received: ID=419, Data=bytearray(b'\x17C\xb3k\x8f\xf3\x1e\xda')
+2024-07-23 15:36:51,184 Anomaly detected: Unexpected message ID 419
+2024-07-23 15:36:51,285 Message received: ID=613, Data=bytearray(b'')
+2024-07-23 15:36:51,286 Anomaly detected: Unexpected message ID 613
+2024-07-23 15:36:51,387 Message received: ID=942, Data=bytearray(b'"')
+2024-07-23 15:36:51,388 Anomaly detected: Unexpected message ID 942
+2024-07-23 15:36:51,492 Message received: ID=1785, Data=bytearray(b'\rx\x11J\x8b\xa5B\xea')
+2024-07-23 15:36:51,492 Anomaly detected: Unexpected message ID 1785
+2024-07-23 15:36:51,593 Message received: ID=751, Data=bytearray(b'Q\x8b\x108')
+2024-07-23 15:36:51,593 Anomaly detected: Unexpected message ID 751
+2024-07-23 15:36:51,696 Message received: ID=1153, Data=bytearray(b'\xa8_]\x92\x01')
+2024-07-23 15:36:51,697 Anomaly detected: Unexpected message ID 1153
+2024-07-23 15:36:51,797 Message received: ID=1508, Data=bytearray(b'\x80\x8e')
+2024-07-23 15:36:51,798 Anomaly detected: Unexpected message ID 1508
+2024-07-23 15:36:51,901 Message received: ID=1975, Data=bytearray(b'kS\xe2\xd4\x06S\xdd')
+2024-07-23 15:36:51,908 Anomaly detected: Unexpected message ID 1975
+2024-07-23 15:36:52,002 Message received: ID=1601, Data=bytearray(b'}\xbf\x05\xde\x97I\xc3+')
+2024-07-23 15:36:52,002 Anomaly detected: Unexpected message ID 1601
+2024-07-23 15:36:52,106 Message received: ID=1420, Data=bytearray(b'$\\q\xfd')
+2024-07-23 15:36:52,106 Anomaly detected: Unexpected message ID 1420
+2024-07-23 15:36:52,208 Message received: ID=1806, Data=bytearray(b'\xdc\x05/\x02\x93QX')
+2024-07-23 15:36:52,208 Anomaly detected: Unexpected message ID 1806
+2024-07-23 15:36:52,309 Message received: ID=1505, Data=bytearray(b'mo\x94')
+2024-07-23 15:36:52,311 Anomaly detected: Unexpected message ID 1505
+2024-07-23 15:36:52,410 Message received: ID=1151, Data=bytearray(b',\x07\xffZ`')
+2024-07-23 15:36:52,412 Anomaly detected: Unexpected message ID 1151
+2024-07-23 15:36:52,513 Message received: ID=1129, Data=bytearray(b'\xc8\xfd\xa5\xaa\xaf\xbd0U')
+2024-07-23 15:36:52,514 Anomaly detected: Unexpected message ID 1129
+2024-07-23 15:36:52,615 Message received: ID=1678, Data=bytearray(b'\xddzx\x162\xa5(\xab')
+2024-07-23 15:36:52,616 Anomaly detected: Unexpected message ID 1678
+2024-07-23 15:36:52,719 Message received: ID=726, Data=bytearray(b'&\xf3@Q\x97\xe2_')
+2024-07-23 15:36:52,721 Anomaly detected: Unexpected message ID 726
+2024-07-23 15:36:52,823 Message received: ID=597, Data=bytearray(b'\xa6@\x02/\xcd\xf1\xdd')
+2024-07-23 15:36:52,823 Anomaly detected: Unexpected message ID 597
+2024-07-23 15:36:52,924 Message received: ID=1942, Data=bytearray(b'\x81 \x91\t\x01\xe5')
+2024-07-23 15:36:52,924 Anomaly detected: Unexpected message ID 1942
+2024-07-23 15:36:53,025 Message received: ID=451, Data=bytearray(b'\xd4\x1d\x9a\x1c2')
+2024-07-23 15:36:53,025 Anomaly detected: Unexpected message ID 451
+2024-07-23 15:36:53,132 Message received: ID=1343, Data=bytearray(b'\xf24\xcfrd')
+2024-07-23 15:36:53,133 Anomaly detected: Unexpected message ID 1343
+2024-07-23 15:36:53,232 Message received: ID=656, Data=bytearray(b'\xbd\x0e\xd6\xcc7B\xc0\xd5')
+2024-07-23 15:36:53,232 Anomaly detected: Unexpected message ID 656
+2024-07-23 15:36:53,331 Message received: ID=1227, Data=bytearray(b'\xb7\xe1E\xb0\x90!R\xf6')
+2024-07-23 15:36:53,333 Anomaly detected: Unexpected message ID 1227
+2024-07-23 15:36:53,437 Message received: ID=1478, Data=bytearray(b'5\xe2/\x80T')
+2024-07-23 15:36:53,438 Anomaly detected: Unexpected message ID 1478
+2024-07-23 15:36:53,536 Message received: ID=58, Data=bytearray(b'd\xd7\x01\xe7\xbe1u\x01')
+2024-07-23 15:36:53,537 Anomaly detected: Unexpected message ID 58
+2024-07-23 15:36:53,643 Message received: ID=794, Data=bytearray(b'\x8d\xb0\xc2\\')
+2024-07-23 15:36:53,644 Anomaly detected: Unexpected message ID 794
+2024-07-23 15:36:53,746 Message received: ID=100, Data=bytearray(b'K\xefSPa\xe6')
+2024-07-23 15:36:53,747 Anomaly detected: Unexpected message ID 100
+2024-07-23 15:36:53,848 Message received: ID=1497, Data=bytearray(b'\xe4o\xf4')
+2024-07-23 15:36:53,850 Anomaly detected: Unexpected message ID 1497
+2024-07-23 15:36:53,950 Message received: ID=1920, Data=bytearray(b'\xf7\xb8\x91\x08\x08)')
+2024-07-23 15:36:53,951 Anomaly detected: Unexpected message ID 1920
+2024-07-23 15:36:54,051 Message received: ID=251, Data=bytearray(b'o')
+2024-07-23 15:36:54,053 Anomaly detected: Unexpected message ID 251
+2024-07-23 15:36:54,156 Message received: ID=1945, Data=bytearray(b'\xbe\xc6\xbbws')
+2024-07-23 15:36:54,156 Anomaly detected: Unexpected message ID 1945
+2024-07-23 15:36:54,256 Message received: ID=1522, Data=bytearray(b'\x88`\xe6\xbf')
+2024-07-23 15:36:54,261 Anomaly detected: Unexpected message ID 1522
+2024-07-23 15:36:54,358 Message received: ID=1673, Data=bytearray(b'{\xaa\xd2r\x87^\xd2')
+2024-07-23 15:36:54,359 Anomaly detected: Unexpected message ID 1673
+2024-07-23 15:36:54,461 Message received: ID=1137, Data=bytearray(b"\'\x0e>\x96")
+2024-07-23 15:36:54,462 Anomaly detected: Unexpected message ID 1137
+2024-07-23 15:36:54,565 Message received: ID=919, Data=bytearray(b'\x8a;3\xcc')
+2024-07-23 15:36:54,566 Anomaly detected: Unexpected message ID 919
+2024-07-23 15:36:54,666 Message received: ID=142, Data=bytearray(b'\x0b\xf1\xad]\x99\x08\x83')
+2024-07-23 15:36:54,666 Anomaly detected: Unexpected message ID 142
+2024-07-23 15:36:54,767 Message received: ID=738, Data=bytearray(b'\x01/.')
+2024-07-23 15:36:54,768 Anomaly detected: Unexpected message ID 738
+2024-07-23 15:36:54,869 Message received: ID=1879, Data=bytearray(b'b')
+2024-07-23 15:36:54,870 Anomaly detected: Unexpected message ID 1879
+2024-07-23 15:36:54,971 Message received: ID=1375, Data=bytearray(b'\x94\xe8cLc')
+2024-07-23 15:36:54,975 Anomaly detected: Unexpected message ID 1375
+2024-07-23 15:36:55,073 Message received: ID=1525, Data=bytearray(b'\x94F\x19')
+2024-07-23 15:36:55,075 Anomaly detected: Unexpected message ID 1525
+2024-07-23 15:36:55,175 Message received: ID=1949, Data=bytearray(b'')
+2024-07-23 15:36:55,176 Anomaly detected: Unexpected message ID 1949
+2024-07-23 15:36:55,280 Message received: ID=227, Data=bytearray(b'\xba,\x8b\xeb\x9b\xd3')
+2024-07-23 15:36:55,281 Anomaly detected: Unexpected message ID 227
+2024-07-23 15:36:55,388 Message received: ID=969, Data=bytearray(b',\x159I\xd6')
+2024-07-23 15:36:55,391 Anomaly detected: Unexpected message ID 969
+2024-07-23 15:36:55,492 Message received: ID=1280, Data=bytearray(b'BR?#T\xf1')
+2024-07-23 15:36:55,495 Anomaly detected: Unexpected message ID 1280
+2024-07-23 15:36:55,596 Message received: ID=1924, Data=bytearray(b'w')
+2024-07-23 15:36:55,596 Anomaly detected: Unexpected message ID 1924
+2024-07-23 15:36:55,698 Message received: ID=850, Data=bytearray(b'l\xbc|<\xb8a\x1b')
+2024-07-23 15:36:55,698 Anomaly detected: Unexpected message ID 850
+2024-07-23 15:36:55,802 Message received: ID=61, Data=bytearray(b'\xe7\xed\xd4\xb1')
+2024-07-23 15:36:55,802 Anomaly detected: Unexpected message ID 61
+2024-07-23 15:36:55,908 Message received: ID=1180, Data=bytearray(b'o.Zm\xd1t')
+2024-07-23 15:36:55,909 Anomaly detected: Unexpected message ID 1180
+2024-07-23 15:36:56,013 Message received: ID=618, Data=bytearray(b'y\x0cI\xe87\xf6\x9c')
+2024-07-23 15:36:56,014 Anomaly detected: Unexpected message ID 618
+2024-07-23 15:36:56,114 Message received: ID=1752, Data=bytearray(b'\xb7\x10\xb4')
+2024-07-23 15:36:56,115 Anomaly detected: Unexpected message ID 1752
+2024-07-23 15:36:56,215 Message received: ID=1021, Data=bytearray(b'!\xe7J')
+2024-07-23 15:36:56,216 Anomaly detected: Unexpected message ID 1021
+2024-07-23 15:36:56,318 Message received: ID=1655, Data=bytearray(b':w\xd9\x81K\xd9\x08\xb9')
+2024-07-23 15:36:56,319 Anomaly detected: Unexpected message ID 1655
+2024-07-23 15:36:56,419 Message received: ID=1903, Data=bytearray(b'\xd2\x03r\xc1i')
+2024-07-23 15:36:56,420 Anomaly detected: Unexpected message ID 1903
+2024-07-23 15:36:56,520 Message received: ID=598, Data=bytearray(b'\xde')
+2024-07-23 15:36:56,521 Anomaly detected: Unexpected message ID 598
+2024-07-23 15:36:56,623 Message received: ID=42, Data=bytearray(b'')
+2024-07-23 15:36:56,623 Anomaly detected: Unexpected message ID 42
+2024-07-23 15:36:56,730 Message received: ID=693, Data=bytearray(b'\xc6 \xf8\x01h\x05')
+2024-07-23 15:36:56,732 Anomaly detected: Unexpected message ID 693
+2024-07-23 15:36:56,833 Message received: ID=143, Data=bytearray(b'\xa7\xc7\x07\x16\xd8\x8dF')
+2024-07-23 15:36:56,834 Anomaly detected: Unexpected message ID 143
+2024-07-23 15:36:56,934 Message received: ID=134, Data=bytearray(b'\x8f\x7fC')
+2024-07-23 15:36:56,935 Anomaly detected: Unexpected message ID 134
+2024-07-23 15:36:57,037 Message received: ID=1200, Data=bytearray(b'\xbc\xeb\xeb')
+2024-07-23 15:36:57,038 Anomaly detected: Unexpected message ID 1200
+2024-07-23 15:36:57,140 Message received: ID=234, Data=bytearray(b'\x85')
+2024-07-23 15:36:57,140 Anomaly detected: Unexpected message ID 234
+2024-07-23 15:36:57,242 Message received: ID=1852, Data=bytearray(b'\xc8\x94')
+2024-07-23 15:36:57,242 Anomaly detected: Unexpected message ID 1852
+2024-07-23 15:36:57,353 Message received: ID=99, Data=bytearray(b'\xab\xa6\xc4.z\xcd_')
+2024-07-23 15:36:57,355 Anomaly detected: Unexpected message ID 99
+2024-07-23 15:36:57,453 Message received: ID=1921, Data=bytearray(b'\xa2<\xb5D')
+2024-07-23 15:36:57,454 Anomaly detected: Unexpected message ID 1921
+2024-07-23 15:36:57,556 Message received: ID=169, Data=bytearray(b'\xa0\xbf\xdd\xc9i\x88\x9e')
+2024-07-23 15:36:57,556 Anomaly detected: Unexpected message ID 169
+2024-07-23 15:36:57,654 Message received: ID=1952, Data=bytearray(b'\x8c\x1c@\\\xe1')
+2024-07-23 15:36:57,654 Anomaly detected: Unexpected message ID 1952
+2024-07-23 15:36:57,763 Message received: ID=1317, Data=bytearray(b'\x07\xbc\x07\n')
+2024-07-23 15:36:57,763 Anomaly detected: Unexpected message ID 1317
+2024-07-23 15:36:57,860 Message received: ID=937, Data=bytearray(b'T\xb6\xa7a8\xcf\xe4\x98')
+2024-07-23 15:36:57,861 Anomaly detected: Unexpected message ID 937
+2024-07-23 15:36:57,962 Message received: ID=818, Data=bytearray(b'\xb3\xba\x8et\x12\xcd\xd9\xb4')
+2024-07-23 15:36:57,963 Anomaly detected: Unexpected message ID 818
+2024-07-23 15:36:58,066 Message received: ID=719, Data=bytearray(b'\xd4B?\xbar\xc0\xf7')
+2024-07-23 15:36:58,066 Anomaly detected: Unexpected message ID 719
+2024-07-23 15:36:58,166 Message received: ID=1977, Data=bytearray(b'\xda\xfa\xabJ')
+2024-07-23 15:36:58,168 Anomaly detected: Unexpected message ID 1977
+2024-07-23 15:36:58,266 Message received: ID=548, Data=bytearray(b'6\x024\xaem')
+2024-07-23 15:36:58,267 Anomaly detected: Unexpected message ID 548
+2024-07-23 15:36:58,368 Message received: ID=179, Data=bytearray(b'8\x93')
+2024-07-23 15:36:58,369 Anomaly detected: Unexpected message ID 179
+2024-07-23 15:36:58,478 Message received: ID=600, Data=bytearray(b'v&\xf1\x90$\\\x14')
+2024-07-23 15:36:58,480 Anomaly detected: Unexpected message ID 600
+2024-07-23 15:36:58,577 Message received: ID=1340, Data=bytearray(b'\xe8\xcfu')
+2024-07-23 15:36:58,579 Anomaly detected: Unexpected message ID 1340
+2024-07-23 15:36:58,674 Message received: ID=1328, Data=bytearray(b'%\xeeF\x87\x8f')
+2024-07-23 15:36:58,674 Anomaly detected: Unexpected message ID 1328
+2024-07-23 15:36:58,778 Message received: ID=1077, Data=bytearray(b'\x0f\nN')
+2024-07-23 15:36:58,785 Anomaly detected: Unexpected message ID 1077
+2024-07-23 15:36:58,878 Message received: ID=338, Data=bytearray(b'')
+2024-07-23 15:36:58,878 Anomaly detected: Unexpected message ID 338
+2024-07-23 15:36:58,981 Message received: ID=1523, Data=bytearray(b'\x8f\xc7\x8b\xf3YO\xf9')
+2024-07-23 15:36:58,982 Anomaly detected: Unexpected message ID 1523
+2024-07-23 15:36:59,085 Message received: ID=1269, Data=bytearray(b'EU\xe8L\x17\xf3l\xfa')
+2024-07-23 15:36:59,087 Anomaly detected: Unexpected message ID 1269
+2024-07-23 15:36:59,186 Message received: ID=1611, Data=bytearray(b'\xe5n\xfc8\xe8')
+2024-07-23 15:36:59,187 Anomaly detected: Unexpected message ID 1611
+2024-07-23 15:36:59,291 Message received: ID=1766, Data=bytearray(b'')
+2024-07-23 15:36:59,294 Anomaly detected: Unexpected message ID 1766
+2024-07-23 15:36:59,390 Message received: ID=216, Data=bytearray(b'\x8e\x98\x9aJ\xfcf\xeb\xe2')
+2024-07-23 15:36:59,391 Anomaly detected: Unexpected message ID 216
+2024-07-23 15:36:59,491 Message received: ID=184, Data=bytearray(b'')
+2024-07-23 15:36:59,494 Anomaly detected: Unexpected message ID 184
+2024-07-23 15:36:59,592 Message received: ID=931, Data=bytearray(b'')
+2024-07-23 15:36:59,593 Anomaly detected: Unexpected message ID 931
+2024-07-23 15:36:59,695 Message received: ID=1764, Data=bytearray(b'l\x10c#\x07\xbc\xce\xe4')
+2024-07-23 15:36:59,699 Anomaly detected: Unexpected message ID 1764
+2024-07-23 15:36:59,796 Message received: ID=627, Data=bytearray(b'\x8c')
+2024-07-23 15:36:59,797 Anomaly detected: Unexpected message ID 627
+2024-07-23 15:36:59,898 Message received: ID=367, Data=bytearray(b'\x182\xa0=w')
+2024-07-23 15:36:59,898 Anomaly detected: Unexpected message ID 367
+2024-07-23 15:36:59,999 Message received: ID=432, Data=bytearray(b'\xae\xc4')
+2024-07-23 15:37:00,001 Anomaly detected: Unexpected message ID 432
+2024-07-23 15:37:00,100 Message received: ID=1978, Data=bytearray(b'\x1cA\x05\xe8G\xaa')
+2024-07-23 15:37:00,105 Anomaly detected: Unexpected message ID 1978
+2024-07-23 15:37:00,203 Message received: ID=1718, Data=bytearray(b'\x03\xe8\xa8')
+2024-07-23 15:37:00,203 Anomaly detected: Unexpected message ID 1718
+2024-07-23 15:37:00,306 Message received: ID=1294, Data=bytearray(b'')
+2024-07-23 15:37:00,310 Anomaly detected: Unexpected message ID 1294
+2024-07-23 15:37:00,409 Message received: ID=922, Data=bytearray(b'3\xd8\xff')
+2024-07-23 15:37:00,410 Anomaly detected: Unexpected message ID 922
+2024-07-23 15:37:00,509 Message received: ID=176, Data=bytearray(b'6\xb0\x83\xae\x07\xc8\x80\xf8')
+2024-07-23 15:37:00,512 Anomaly detected: Unexpected message ID 176
+2024-07-23 15:37:00,614 Message received: ID=1593, Data=bytearray(b'\xbb6\x08\xf9\xf0.\xa04')
+2024-07-23 15:37:00,615 Anomaly detected: Unexpected message ID 1593
+2024-07-23 15:37:00,713 Message received: ID=53, Data=bytearray(b'\xb0\xec\xeaR')
+2024-07-23 15:37:00,715 Anomaly detected: Unexpected message ID 53
+2024-07-23 15:37:00,819 Message received: ID=760, Data=bytearray(b'\x17v\x9b\x9c\xff}')
+2024-07-23 15:37:00,821 Anomaly detected: Unexpected message ID 760
+2024-07-23 15:37:00,924 Message received: ID=1906, Data=bytearray(b'\x9f\xdd\xa8\xd5')
+2024-07-23 15:37:00,925 Anomaly detected: Unexpected message ID 1906
+2024-07-23 15:37:01,025 Message received: ID=1158, Data=bytearray(b'\x96\xc1\x1fr\xd4\xe3\xf8')
+2024-07-23 15:37:01,026 Anomaly detected: Unexpected message ID 1158
+2024-07-23 15:37:01,126 Message received: ID=271, Data=bytearray(b'4\x10')
+2024-07-23 15:37:01,127 Anomaly detected: Unexpected message ID 271
+2024-07-23 15:37:01,231 Message received: ID=1812, Data=bytearray(b'\xcc\x93\xd3\xf3\xadO!\xad')
+2024-07-23 15:37:01,232 Anomaly detected: Unexpected message ID 1812
+2024-07-23 15:37:01,334 Message received: ID=595, Data=bytearray(b'w@\x1f')
+2024-07-23 15:37:01,334 Anomaly detected: Unexpected message ID 595
+2024-07-23 15:37:01,434 Message received: ID=579, Data=bytearray(b'3M\xd6')
+2024-07-23 15:37:01,435 Anomaly detected: Unexpected message ID 579
+2024-07-23 15:37:01,545 Message received: ID=1908, Data=bytearray(b'?T\x06W\xc3ap\xa9')
+2024-07-23 15:37:01,547 Anomaly detected: Unexpected message ID 1908
+2024-07-23 15:37:01,651 Message received: ID=158, Data=bytearray(b'X\x0c\xee\x84\xd7')
+2024-07-23 15:37:01,652 Anomaly detected: Unexpected message ID 158
+2024-07-23 15:37:01,753 Message received: ID=1429, Data=bytearray(b'\xf9t')
+2024-07-23 15:37:01,755 Anomaly detected: Unexpected message ID 1429
+2024-07-23 15:37:01,859 Message received: ID=137, Data=bytearray(b'\\\xb6')
+2024-07-23 15:37:01,859 Anomaly detected: Unexpected message ID 137
+2024-07-23 15:37:01,957 Message received: ID=1159, Data=bytearray(b'N\x89f\xe0\x91\xfd\xe4')
+2024-07-23 15:37:01,961 Anomaly detected: Unexpected message ID 1159
+2024-07-23 15:37:02,060 Message received: ID=835, Data=bytearray(b'')
+2024-07-23 15:37:02,062 Anomaly detected: Unexpected message ID 835
+2024-07-23 15:37:02,167 Message received: ID=162, Data=bytearray(b'\xb9\xb6\xc0\x85\xae')
+2024-07-23 15:37:02,167 Anomaly detected: Unexpected message ID 162
+2024-07-23 15:37:02,269 Message received: ID=1285, Data=bytearray(b'')
+2024-07-23 15:37:02,270 Anomaly detected: Unexpected message ID 1285
+2024-07-23 15:37:02,378 Message received: ID=1658, Data=bytearray(b'"\xc7\xf6D\x1f02')
+2024-07-23 15:37:02,382 Anomaly detected: Unexpected message ID 1658
+2024-07-23 15:37:02,479 Message received: ID=135, Data=bytearray(b'_\x0e&\x0ff')
+2024-07-23 15:37:02,479 Anomaly detected: Unexpected message ID 135
+2024-07-23 15:37:02,583 Message received: ID=1958, Data=bytearray(b'\x87a\x8e\xa3\xfd')
+2024-07-23 15:37:02,584 Anomaly detected: Unexpected message ID 1958
+2024-07-23 15:37:02,691 Message received: ID=1836, Data=bytearray(b'DDRd')
+2024-07-23 15:37:02,693 Anomaly detected: Unexpected message ID 1836
+2024-07-23 15:37:02,795 Message received: ID=606, Data=bytearray(b'\x02JH')
+2024-07-23 15:37:02,795 Anomaly detected: Unexpected message ID 606
+2024-07-23 15:37:02,897 Message received: ID=1290, Data=bytearray(b'')
+2024-07-23 15:37:02,900 Anomaly detected: Unexpected message ID 1290
+2024-07-23 15:37:03,001 Message received: ID=1513, Data=bytearray(b'\xe6\xf9Nk')
+2024-07-23 15:37:03,001 Anomaly detected: Unexpected message ID 1513
+2024-07-23 15:37:03,104 Message received: ID=1094, Data=bytearray(b'\xe2\xbf\x86\xe7\x0c\xb9')
+2024-07-23 15:37:03,105 Anomaly detected: Unexpected message ID 1094
+2024-07-23 15:37:03,207 Message received: ID=66, Data=bytearray(b'\x1aN')
+2024-07-23 15:37:03,208 Anomaly detected: Unexpected message ID 66
+2024-07-23 15:37:03,314 Message received: ID=559, Data=bytearray(b'\x95\xa1\xdd')
+2024-07-23 15:37:03,315 Anomaly detected: Unexpected message ID 559
+2024-07-23 15:37:03,411 Message received: ID=1348, Data=bytearray(b'\x1eO\x9f')
+2024-07-23 15:37:03,412 Anomaly detected: Unexpected message ID 1348
+2024-07-23 15:37:03,517 Message received: ID=990, Data=bytearray(b'\x86')
+2024-07-23 15:37:03,518 Anomaly detected: Unexpected message ID 990
+2024-07-23 15:37:03,627 Message received: ID=947, Data=bytearray(b'4\x8f\xec\x95\xd3\xbd')
+2024-07-23 15:37:03,628 Anomaly detected: Unexpected message ID 947
+2024-07-23 15:37:03,723 Message received: ID=1048, Data=bytearray(b'~Q')
+2024-07-23 15:37:03,725 Anomaly detected: Unexpected message ID 1048
+2024-07-23 15:37:03,825 Message received: ID=814, Data=bytearray(b'')
+2024-07-23 15:37:03,826 Anomaly detected: Unexpected message ID 814
+2024-07-23 15:37:03,927 Message received: ID=857, Data=bytearray(b'\x158')
+2024-07-23 15:37:03,928 Anomaly detected: Unexpected message ID 857
+2024-07-23 15:37:04,028 Message received: ID=318, Data=bytearray(b'O\xa8[\x16)')
+2024-07-23 15:37:04,031 Anomaly detected: Unexpected message ID 318
+2024-07-23 15:37:04,130 Message received: ID=757, Data=bytearray(b'\xb7\xedf\xc3\x8d?.\x91')
+2024-07-23 15:37:04,130 Anomaly detected: Unexpected message ID 757
+2024-07-23 15:37:04,233 Message received: ID=1856, Data=bytearray(b'\x05\xbf\x80')
+2024-07-23 15:37:04,233 Anomaly detected: Unexpected message ID 1856
+2024-07-23 15:37:04,335 Message received: ID=1906, Data=bytearray(b'8')
+2024-07-23 15:37:04,335 Anomaly detected: Unexpected message ID 1906
+2024-07-23 15:37:04,439 Message received: ID=1733, Data=bytearray(b'Z\xae\x83\xd3\xdb.3')
+2024-07-23 15:37:04,441 Anomaly detected: Unexpected message ID 1733
+2024-07-23 15:37:04,542 Message received: ID=247, Data=bytearray(b'\xd3eH')
+2024-07-23 15:37:04,544 Anomaly detected: Unexpected message ID 247
+2024-07-23 15:37:04,645 Message received: ID=1393, Data=bytearray(b'\x0b\xac\xfa\xaa/5\xe8y')
+2024-07-23 15:37:04,651 Anomaly detected: Unexpected message ID 1393
+2024-07-23 15:37:04,746 Message received: ID=736, Data=bytearray(b'\x90z')
+2024-07-23 15:37:04,747 Anomaly detected: Unexpected message ID 736
+2024-07-23 15:37:04,849 Message received: ID=508, Data=bytearray(b'\n\x89\x0b4I')
+2024-07-23 15:37:04,850 Anomaly detected: Unexpected message ID 508
+2024-07-23 15:37:04,952 Message received: ID=443, Data=bytearray(b'\xb2;\x8f\xee')
+2024-07-23 15:37:04,953 Anomaly detected: Unexpected message ID 443
+2024-07-23 15:37:05,053 Message received: ID=71, Data=bytearray(b'^')
+2024-07-23 15:37:05,054 Anomaly detected: Unexpected message ID 71
+2024-07-23 15:37:05,158 Message received: ID=239, Data=bytearray(b'g\xdf\x94\xc2\x16\xac')
+2024-07-23 15:37:05,160 Anomaly detected: Unexpected message ID 239
+2024-07-23 15:37:05,257 Message received: ID=112, Data=bytearray(b"&\xadJ\x07\x90\'\x81")
+2024-07-23 15:37:05,258 Anomaly detected: Unexpected message ID 112
+2024-07-23 15:37:05,358 Message received: ID=1919, Data=bytearray(b'')
+2024-07-23 15:37:05,361 Anomaly detected: Unexpected message ID 1919
+2024-07-23 15:37:05,461 Message received: ID=207, Data=bytearray(b'\xe6\xd2')
+2024-07-23 15:37:05,462 Anomaly detected: Unexpected message ID 207
+2024-07-23 15:37:05,563 Message received: ID=1061, Data=bytearray(b'\xfcf\xf7jah\xff')
+2024-07-23 15:37:05,564 Anomaly detected: Unexpected message ID 1061
+2024-07-23 15:37:05,664 Message received: ID=32, Data=bytearray(b'C\xbd')
+2024-07-23 15:37:05,665 Anomaly detected: Unexpected message ID 32
+2024-07-23 15:37:05,768 Message received: ID=236, Data=bytearray(b'p\xfbR"\x1d\xda\xc7\x9b')
+2024-07-23 15:37:05,768 Anomaly detected: Unexpected message ID 236
+2024-07-23 15:37:05,871 Message received: ID=1138, Data=bytearray(b'o\x1b')
+2024-07-23 15:37:05,871 Anomaly detected: Unexpected message ID 1138
+2024-07-23 15:37:05,972 Message received: ID=426, Data=bytearray(b'!\xc1x\x9f\xa5\x0b\xe2\xfe')
+2024-07-23 15:37:05,974 Anomaly detected: Unexpected message ID 426
+2024-07-23 15:37:06,074 Message received: ID=1213, Data=bytearray(b'\xa9\xbb\xfe\xab')
+2024-07-23 15:37:06,075 Anomaly detected: Unexpected message ID 1213
+2024-07-23 15:37:06,177 Message received: ID=1970, Data=bytearray(b'\x97\xdf\xd5\xa0\x8f\xc5\xf6')
+2024-07-23 15:37:06,178 Anomaly detected: Unexpected message ID 1970
+2024-07-23 15:37:06,281 Message received: ID=402, Data=bytearray(b'Fv\r')
+2024-07-23 15:37:06,281 Anomaly detected: Unexpected message ID 402
+2024-07-23 15:37:06,387 Message received: ID=605, Data=bytearray(b'J1\xcb\xe2')
+2024-07-23 15:37:06,388 Anomaly detected: Unexpected message ID 605
+2024-07-23 15:37:06,487 Message received: ID=1423, Data=bytearray(b'\xa9\x92l\xf6^')
+2024-07-23 15:37:06,488 Anomaly detected: Unexpected message ID 1423
+2024-07-23 15:37:06,593 Message received: ID=1006, Data=bytearray(b'G&\xca')
+2024-07-23 15:37:06,597 Anomaly detected: Unexpected message ID 1006
+2024-07-23 15:37:06,698 Message received: ID=1029, Data=bytearray(b'x')
+2024-07-23 15:37:06,700 Anomaly detected: Unexpected message ID 1029
+2024-07-23 15:37:06,801 Message received: ID=1850, Data=bytearray(b'\x94|F\x05\x16\x06\xbc\xeb')
+2024-07-23 15:37:06,805 Anomaly detected: Unexpected message ID 1850
+2024-07-23 15:37:06,905 Message received: ID=1992, Data=bytearray(b'')
+2024-07-23 15:37:06,910 Anomaly detected: Unexpected message ID 1992
+2024-07-23 15:37:07,006 Message received: ID=1493, Data=bytearray(b'Y\x97')
+2024-07-23 15:37:07,010 Anomaly detected: Unexpected message ID 1493
+2024-07-23 15:37:07,109 Message received: ID=657, Data=bytearray(b'\x8c')
+2024-07-23 15:37:07,110 Anomaly detected: Unexpected message ID 657
+2024-07-23 15:37:07,211 Message received: ID=54, Data=bytearray(b'\x06(\x15u4\xf4\x0c')
+2024-07-23 15:37:07,212 Anomaly detected: Unexpected message ID 54
+2024-07-23 15:37:07,312 Message received: ID=66, Data=bytearray(b'|\x10')
+2024-07-23 15:37:07,313 Anomaly detected: Unexpected message ID 66
+2024-07-23 15:37:07,416 Message received: ID=1662, Data=bytearray(b',\xb4\x91-\xae')
+2024-07-23 15:37:07,418 Anomaly detected: Unexpected message ID 1662
+2024-07-23 15:37:07,524 Message received: ID=280, Data=bytearray(b'\xb0R\x9a')
+2024-07-23 15:37:07,525 Anomaly detected: Unexpected message ID 280
+2024-07-23 15:37:07,623 Message received: ID=81, Data=bytearray(b'"Ib\xfcp\xf4\xbd')
+2024-07-23 15:37:07,624 Anomaly detected: Unexpected message ID 81
+2024-07-23 15:37:07,727 Message received: ID=20, Data=bytearray(b'J')
+2024-07-23 15:37:07,728 Anomaly detected: Unexpected message ID 20
+2024-07-23 15:37:07,829 Message received: ID=1079, Data=bytearray(b'')
+2024-07-23 15:37:07,830 Anomaly detected: Unexpected message ID 1079
+2024-07-23 15:37:07,931 Message received: ID=1827, Data=bytearray(b'')
+2024-07-23 15:37:07,932 Anomaly detected: Unexpected message ID 1827
+2024-07-23 15:37:08,032 Message received: ID=1639, Data=bytearray(b'\x8f')
+2024-07-23 15:37:08,032 Anomaly detected: Unexpected message ID 1639
+2024-07-23 15:37:08,135 Message received: ID=1340, Data=bytearray(b'\r\x0c\xec\x16')
+2024-07-23 15:37:08,136 Anomaly detected: Unexpected message ID 1340
+2024-07-23 15:37:08,239 Message received: ID=810, Data=bytearray(b'\x81\x9e\x99:+')
+2024-07-23 15:37:08,242 Anomaly detected: Unexpected message ID 810
+2024-07-23 15:37:08,339 Message received: ID=38, Data=bytearray(b'\x04{')
+2024-07-23 15:37:08,343 Anomaly detected: Unexpected message ID 38
+2024-07-23 15:37:08,440 Message received: ID=1946, Data=bytearray(b'\x89q')
+2024-07-23 15:37:08,441 Anomaly detected: Unexpected message ID 1946
+2024-07-23 15:37:08,544 Message received: ID=738, Data=bytearray(b';eza\n1\xac\x7f')
+2024-07-23 15:37:08,545 Anomaly detected: Unexpected message ID 738
+2024-07-23 15:37:08,646 Message received: ID=492, Data=bytearray(b'')
+2024-07-23 15:37:08,646 Anomaly detected: Unexpected message ID 492
+2024-07-23 15:37:08,749 Message received: ID=593, Data=bytearray(b'\xe8J\x98')
+2024-07-23 15:37:08,750 Anomaly detected: Unexpected message ID 593
+2024-07-23 15:37:08,851 Message received: ID=1026, Data=bytearray(b'\xa0/qX\xca')
+2024-07-23 15:37:08,852 Anomaly detected: Unexpected message ID 1026
+2024-07-23 15:37:08,961 Message received: ID=1073, Data=bytearray(b'\xd4l')
+2024-07-23 15:37:08,965 Anomaly detected: Unexpected message ID 1073
+2024-07-23 15:37:09,064 Message received: ID=1709, Data=bytearray(b'\x92ik')
+2024-07-23 15:37:09,066 Anomaly detected: Unexpected message ID 1709
+2024-07-23 15:37:09,172 Message received: ID=626, Data=bytearray(b'\xc8')
+2024-07-23 15:37:09,173 Anomaly detected: Unexpected message ID 626
+2024-07-23 15:37:09,275 Message received: ID=251, Data=bytearray(b'9\xaa"D-\x1dx')
+2024-07-23 15:37:09,275 Anomaly detected: Unexpected message ID 251
+2024-07-23 15:37:09,378 Message received: ID=1803, Data=bytearray(b'\x8b\xc8')
+2024-07-23 15:37:09,378 Anomaly detected: Unexpected message ID 1803
+2024-07-23 15:37:09,508 Message received: ID=1052, Data=bytearray(b']\xe7')
+2024-07-23 15:37:09,509 Anomaly detected: Unexpected message ID 1052
+2024-07-23 15:37:09,609 Message received: ID=1007, Data=bytearray(b'')
+2024-07-23 15:37:09,611 Anomaly detected: Unexpected message ID 1007
+2024-07-23 15:37:09,715 Message received: ID=289, Data=bytearray(b'%\x81D3\xfa')
+2024-07-23 15:37:09,716 Anomaly detected: Unexpected message ID 289
+2024-07-23 15:37:09,817 Message received: ID=162, Data=bytearray(b':-\xe6}')
+2024-07-23 15:37:09,818 Anomaly detected: Unexpected message ID 162
+2024-07-23 15:37:09,924 Message received: ID=1626, Data=bytearray(b'\xc4b\x8c')
+2024-07-23 15:37:09,932 Anomaly detected: Unexpected message ID 1626
+2024-07-23 15:37:10,027 Message received: ID=326, Data=bytearray(b'H\x03[\xcf\x0f\xdb7')
+2024-07-23 15:37:10,030 Anomaly detected: Unexpected message ID 326
+2024-07-23 15:37:10,128 Message received: ID=1508, Data=bytearray(b'\x0eD\xfab\x00\xbc\x08')
+2024-07-23 15:37:10,129 Anomaly detected: Unexpected message ID 1508
+2024-07-23 15:37:10,234 Message received: ID=1142, Data=bytearray(b'\x8bx')
+2024-07-23 15:37:10,235 Anomaly detected: Unexpected message ID 1142
+2024-07-23 15:37:10,338 Message received: ID=905, Data=bytearray(b'\x94\xba\x80\xa2Z')
+2024-07-23 15:37:10,339 Anomaly detected: Unexpected message ID 905
+2024-07-23 15:37:10,444 Message received: ID=1992, Data=bytearray(b'')
+2024-07-23 15:37:10,446 Anomaly detected: Unexpected message ID 1992
+2024-07-23 15:37:10,556 Message received: ID=360, Data=bytearray(b'+/Nq\xce\xb4')
+2024-07-23 15:37:10,558 Anomaly detected: Unexpected message ID 360
+2024-07-23 15:37:10,664 Message received: ID=1245, Data=bytearray(b"G0\xa6\xb8\'\x1e[\xad")
+2024-07-23 15:37:10,664 Anomaly detected: Unexpected message ID 1245
+2024-07-23 15:37:10,767 Message received: ID=106, Data=bytearray(b'\xe9')
+2024-07-23 15:37:10,771 Anomaly detected: Unexpected message ID 106
+2024-07-23 15:37:10,874 Message received: ID=1746, Data=bytearray(b'\x1e\xe6p')
+2024-07-23 15:37:10,874 Anomaly detected: Unexpected message ID 1746
+2024-07-23 15:37:10,976 Message received: ID=1307, Data=bytearray(b'')
+2024-07-23 15:37:10,982 Anomaly detected: Unexpected message ID 1307
+2024-07-23 15:37:11,077 Message received: ID=1246, Data=bytearray(b'')
+2024-07-23 15:37:11,078 Anomaly detected: Unexpected message ID 1246
+2024-07-23 15:37:11,182 Message received: ID=18, Data=bytearray(b'\xa2\x87\x80a')
+2024-07-23 15:37:11,183 Anomaly detected: Unexpected message ID 18
+2024-07-23 15:37:11,284 Message received: ID=287, Data=bytearray(b'\x00\xb3')
+2024-07-23 15:37:11,285 Anomaly detected: Unexpected message ID 287
+2024-07-23 15:37:11,388 Message received: ID=717, Data=bytearray(b'@\xf3\xb9')
+2024-07-23 15:37:11,389 Anomaly detected: Unexpected message ID 717
+2024-07-23 15:37:11,495 Message received: ID=871, Data=bytearray(b'\x01nqk')
+2024-07-23 15:37:11,495 Anomaly detected: Unexpected message ID 871
+2024-07-23 15:37:11,609 Message received: ID=1042, Data=bytearray(b'N|x:\x81I\xb9')
+2024-07-23 15:37:11,610 Anomaly detected: Unexpected message ID 1042
+2024-07-23 15:37:11,713 Message received: ID=711, Data=bytearray(b'\xa7\xd7\xa0')
+2024-07-23 15:37:11,713 Anomaly detected: Unexpected message ID 711
+2024-07-23 15:37:11,816 Message received: ID=1110, Data=bytearray(b'\xc7\xf6\xc7\xf1O\x1d\xc7\xd4')
+2024-07-23 15:37:11,818 Anomaly detected: Unexpected message ID 1110
+2024-07-23 15:37:11,919 Message received: ID=1817, Data=bytearray(b"\xc94,C\xd3\'\x1d2")
+2024-07-23 15:37:11,920 Anomaly detected: Unexpected message ID 1817
+2024-07-23 15:37:12,019 Message received: ID=2031, Data=bytearray(b'M\xfe')
+2024-07-23 15:37:12,023 Anomaly detected: Unexpected message ID 2031
+2024-07-23 15:37:12,125 Message received: ID=1342, Data=bytearray(b'\x14\xc9\xfc\x83\xc6\xc0\xc3\xbf')
+2024-07-23 15:37:12,126 Anomaly detected: Unexpected message ID 1342
+2024-07-23 15:37:12,227 Message received: ID=613, Data=bytearray(b'\x99')
+2024-07-23 15:37:12,230 Anomaly detected: Unexpected message ID 613
+2024-07-23 15:37:12,334 Message received: ID=860, Data=bytearray(b'\x19\x8d:h')
+2024-07-23 15:37:12,334 Anomaly detected: Unexpected message ID 860
+2024-07-23 15:37:12,434 Message received: ID=124, Data=bytearray(b'a\x0cF')
+2024-07-23 15:37:12,435 Anomaly detected: Unexpected message ID 124
+2024-07-23 15:37:12,538 Message received: ID=203, Data=bytearray(b'')
+2024-07-23 15:37:12,539 Anomaly detected: Unexpected message ID 203
+2024-07-23 15:37:12,638 Message received: ID=373, Data=bytearray(b'')
+2024-07-23 15:37:12,639 Anomaly detected: Unexpected message ID 373
+2024-07-23 15:37:12,739 Message received: ID=1004, Data=bytearray(b'|Z\t\xf0e{\xd25')
+2024-07-23 15:37:12,739 Anomaly detected: Unexpected message ID 1004
+2024-07-23 15:37:12,844 Message received: ID=1949, Data=bytearray(b'\x93\xc3n')
+2024-07-23 15:37:12,845 Anomaly detected: Unexpected message ID 1949
+2024-07-23 15:37:12,951 Message received: ID=753, Data=bytearray(b'\x08\x06')
+2024-07-23 15:37:12,951 Anomaly detected: Unexpected message ID 753
+2024-07-23 15:37:13,050 Message received: ID=643, Data=bytearray(b'e\x8f\xc29')
+2024-07-23 15:37:13,054 Anomaly detected: Unexpected message ID 643
+2024-07-23 15:37:13,152 Message received: ID=1758, Data=bytearray(b'{\x15\xa2f\x0c\xba\xa5\xf9')
+2024-07-23 15:37:13,153 Anomaly detected: Unexpected message ID 1758
+2024-07-23 15:37:13,254 Message received: ID=544, Data=bytearray(b'iCe')
+2024-07-23 15:37:13,254 Anomaly detected: Unexpected message ID 544
+2024-07-23 15:37:13,355 Message received: ID=1591, Data=bytearray(b'\xadKr')
+2024-07-23 15:37:13,356 Anomaly detected: Unexpected message ID 1591
+2024-07-23 15:37:13,459 Message received: ID=1177, Data=bytearray(b'\xaf\x8d]\xa6U\x91\xb3')
+2024-07-23 15:37:13,461 Anomaly detected: Unexpected message ID 1177
+2024-07-23 15:37:13,560 Message received: ID=1329, Data=bytearray(b'\x0c\xc3S\xb5!\xe1\x93U')
+2024-07-23 15:37:13,563 Anomaly detected: Unexpected message ID 1329
+2024-07-23 15:37:13,660 Message received: ID=679, Data=bytearray(b'\xc2')
+2024-07-23 15:37:13,663 Anomaly detected: Unexpected message ID 679
+2024-07-23 15:37:13,766 Message received: ID=1154, Data=bytearray(b')')
+2024-07-23 15:37:13,771 Anomaly detected: Unexpected message ID 1154
+2024-07-23 15:37:13,870 Message received: ID=1846, Data=bytearray(b'\xd0)\x01\xc9}\x12')
+2024-07-23 15:37:13,873 Anomaly detected: Unexpected message ID 1846
+2024-07-23 15:37:13,971 Message received: ID=888, Data=bytearray(b"\xae\'\xf4")
+2024-07-23 15:37:13,972 Anomaly detected: Unexpected message ID 888
+2024-07-23 15:37:14,073 Message received: ID=669, Data=bytearray(b'')
+2024-07-23 15:37:14,083 Anomaly detected: Unexpected message ID 669
+2024-07-23 15:37:14,175 Message received: ID=100, Data=bytearray(b'\t\xebp\x82\xa4\xc6\x05\xc8')
+2024-07-23 15:37:14,176 Anomaly detected: Unexpected message ID 100
+2024-07-23 15:37:14,279 Message received: ID=846, Data=bytearray(b'=')
+2024-07-23 15:37:14,280 Anomaly detected: Unexpected message ID 846
+2024-07-23 15:37:14,380 Message received: ID=240, Data=bytearray(b'\xb7U\xae')
+2024-07-23 15:37:14,381 Anomaly detected: Unexpected message ID 240
+2024-07-23 15:37:14,485 Message received: ID=1664, Data=bytearray(b'TK)9N\x90H\xc8')
+2024-07-23 15:37:14,486 Anomaly detected: Unexpected message ID 1664
+2024-07-23 15:37:14,588 Message received: ID=781, Data=bytearray(b'\x9b|\xe6\xc5o,')
+2024-07-23 15:37:14,589 Anomaly detected: Unexpected message ID 781
+2024-07-23 15:37:14,689 Message received: ID=1364, Data=bytearray(b'S<y\xbd\x14\x10')
+2024-07-23 15:37:14,690 Anomaly detected: Unexpected message ID 1364
+2024-07-23 15:37:14,791 Message received: ID=1797, Data=bytearray(b'\x07\xf3\x91\t7')
+2024-07-23 15:37:14,792 Anomaly detected: Unexpected message ID 1797
+2024-07-23 15:37:14,895 Message received: ID=88, Data=bytearray(b'\xb3w\xb5|')
+2024-07-23 15:37:14,895 Anomaly detected: Unexpected message ID 88
+2024-07-23 15:37:14,993 Message received: ID=76, Data=bytearray(b'l\xa4\x93\xec\x9c\xb9B\xbf')
+2024-07-23 15:37:14,996 Anomaly detected: Unexpected message ID 76
+2024-07-23 15:37:15,093 Message received: ID=1236, Data=bytearray(b'\xb4\xb8{\xc7\x80')
+2024-07-23 15:37:15,097 Anomaly detected: Unexpected message ID 1236
+2024-07-23 15:37:15,200 Message received: ID=1490, Data=bytearray(b'b\xe9\x92\xe9\xd9K')
+2024-07-23 15:37:15,201 Anomaly detected: Unexpected message ID 1490
+2024-07-23 15:37:15,298 Message received: ID=765, Data=bytearray(b'\x8f\xdes[')
+2024-07-23 15:37:15,299 Anomaly detected: Unexpected message ID 765
+2024-07-23 15:37:15,399 Message received: ID=740, Data=bytearray(b'\x80\x04\x91\x07J$\xec\xfc')
+2024-07-23 15:37:15,400 Anomaly detected: Unexpected message ID 740
+2024-07-23 15:37:15,507 Message received: ID=1367, Data=bytearray(b',\x14\x89\xfcpp,')
+2024-07-23 15:37:15,512 Anomaly detected: Unexpected message ID 1367
+2024-07-23 15:37:15,602 Message received: ID=1997, Data=bytearray(b'\xb1\xa6\xa9\x11\x1c\xecz')
+2024-07-23 15:37:15,602 Anomaly detected: Unexpected message ID 1997
+2024-07-23 15:37:15,701 Message received: ID=1016, Data=bytearray(b'\xab')
+2024-07-23 15:37:15,702 Anomaly detected: Unexpected message ID 1016
+2024-07-23 15:37:15,801 Message received: ID=1553, Data=bytearray(b'\xec')
+2024-07-23 15:37:15,802 Anomaly detected: Unexpected message ID 1553
+2024-07-23 15:37:15,908 Message received: ID=1194, Data=bytearray(b'Z2?\xe8\x9d\x08')
+2024-07-23 15:37:15,911 Anomaly detected: Unexpected message ID 1194
+2024-07-23 15:37:16,009 Message received: ID=331, Data=bytearray(b'\xd3\x07')
+2024-07-23 15:37:16,012 Anomaly detected: Unexpected message ID 331
+2024-07-23 15:37:16,113 Message received: ID=2005, Data=bytearray(b'(/r\x8b\xc1')
+2024-07-23 15:37:16,115 Anomaly detected: Unexpected message ID 2005
+2024-07-23 15:37:16,218 Message received: ID=1132, Data=bytearray(b'SSW\x88')
+2024-07-23 15:37:16,219 Anomaly detected: Unexpected message ID 1132
+2024-07-23 15:37:16,325 Message received: ID=1688, Data=bytearray(b'\x10^\xcf')
+2024-07-23 15:37:16,328 Anomaly detected: Unexpected message ID 1688
+2024-07-23 15:37:16,435 Message received: ID=1717, Data=bytearray(b'\x9eL')
+2024-07-23 15:37:16,436 Anomaly detected: Unexpected message ID 1717
+2024-07-23 15:37:16,540 Message received: ID=1770, Data=bytearray(b'D\x02\xbc')
+2024-07-23 15:37:16,540 Anomaly detected: Unexpected message ID 1770
+2024-07-23 15:37:16,653 Message received: ID=1783, Data=bytearray(b'O7\x93\xbe')
+2024-07-23 15:37:16,654 Anomaly detected: Unexpected message ID 1783
+2024-07-23 15:37:16,747 Message received: ID=868, Data=bytearray(b'\x03Z\\\xbc\x7fkn')
+2024-07-23 15:37:16,748 Anomaly detected: Unexpected message ID 868
+2024-07-23 15:37:16,852 Message received: ID=437, Data=bytearray(b'J\xb1\x9f\x1cc')
+2024-07-23 15:37:16,852 Anomaly detected: Unexpected message ID 437
+2024-07-23 15:37:16,950 Message received: ID=162, Data=bytearray(b'')
+2024-07-23 15:37:16,951 Anomaly detected: Unexpected message ID 162
+2024-07-23 15:37:17,050 Message received: ID=1319, Data=bytearray(b'\xf6\x9b\xd2')
+2024-07-23 15:37:17,051 Anomaly detected: Unexpected message ID 1319
+2024-07-23 15:37:17,150 Message received: ID=561, Data=bytearray(b'S\x18\x99\x18Q\x86\xf0')
+2024-07-23 15:37:17,154 Anomaly detected: Unexpected message ID 561
+2024-07-23 15:37:17,251 Message received: ID=1302, Data=bytearray(b'\x8eL~\xa6\xb0Z\xc6')
+2024-07-23 15:37:17,251 Anomaly detected: Unexpected message ID 1302
+2024-07-23 15:37:17,352 Message received: ID=1711, Data=bytearray(b'\x9e')
+2024-07-23 15:37:17,355 Anomaly detected: Unexpected message ID 1711
+2024-07-23 15:37:17,453 Message received: ID=1251, Data=bytearray(b'\x81')
+2024-07-23 15:37:17,453 Anomaly detected: Unexpected message ID 1251
+2024-07-23 15:37:17,554 Message received: ID=1775, Data=bytearray(b'\xd1\xf7\xe9\xb2^')
+2024-07-23 15:37:17,555 Anomaly detected: Unexpected message ID 1775
+2024-07-23 15:37:17,658 Message received: ID=1588, Data=bytearray(b'\xda')
+2024-07-23 15:37:17,665 Anomaly detected: Unexpected message ID 1588
+2024-07-23 15:37:17,759 Message received: ID=1400, Data=bytearray(b'\xc8/\x03*T\xd4)')
+2024-07-23 15:37:17,759 Anomaly detected: Unexpected message ID 1400
+2024-07-23 15:37:17,859 Message received: ID=1295, Data=bytearray(b'\x0f\\:3#\x8d')
+2024-07-23 15:37:17,864 Anomaly detected: Unexpected message ID 1295
+2024-07-23 15:37:17,959 Message received: ID=1665, Data=bytearray(b'\x0e\x0e')
+2024-07-23 15:37:17,968 Anomaly detected: Unexpected message ID 1665
+2024-07-23 15:37:18,062 Message received: ID=582, Data=bytearray(b'\x1c\xee\x1c\x83\xcb\xea\xe5\x04')
+2024-07-23 15:37:18,063 Anomaly detected: Unexpected message ID 582
+2024-07-23 15:37:18,160 Message received: ID=1737, Data=bytearray(b'\x17\xe9\x98R\xac\xd6')
+2024-07-23 15:37:18,164 Anomaly detected: Unexpected message ID 1737
+2024-07-23 15:37:18,264 Message received: ID=2030, Data=bytearray(b'\xacyw4\xc5~\x17')
+2024-07-23 15:37:18,265 Anomaly detected: Unexpected message ID 2030
+2024-07-23 15:37:18,363 Message received: ID=915, Data=bytearray(b'\xfe\x96Y_j')
+2024-07-23 15:37:18,364 Anomaly detected: Unexpected message ID 915
+2024-07-23 15:37:18,470 Message received: ID=580, Data=bytearray(b'`\x06\xab\xaf\x02<\xed')
+2024-07-23 15:37:18,471 Anomaly detected: Unexpected message ID 580
+2024-07-23 15:37:18,564 Message received: ID=1035, Data=bytearray(b'')
+2024-07-23 15:37:18,567 Anomaly detected: Unexpected message ID 1035
+2024-07-23 15:37:18,669 Message received: ID=471, Data=bytearray(b'n\x95W\x88\xc2\x07#\x12')
+2024-07-23 15:37:18,672 Anomaly detected: Unexpected message ID 471
+2024-07-23 15:37:18,769 Message received: ID=1016, Data=bytearray(b'')
+2024-07-23 15:37:18,769 Anomaly detected: Unexpected message ID 1016
+2024-07-23 15:37:18,870 Message received: ID=1326, Data=bytearray(b'\xc0')
+2024-07-23 15:37:18,871 Anomaly detected: Unexpected message ID 1326
+2024-07-23 15:37:18,972 Message received: ID=1839, Data=bytearray(b'\x0c\x02v0/\x168')
+2024-07-23 15:37:18,973 Anomaly detected: Unexpected message ID 1839
+2024-07-23 15:37:19,075 Message received: ID=530, Data=bytearray(b'\xfb')
+2024-07-23 15:37:19,076 Anomaly detected: Unexpected message ID 530
+2024-07-23 15:37:19,173 Message received: ID=431, Data=bytearray(b'`C')
+2024-07-23 15:37:19,174 Anomaly detected: Unexpected message ID 431
+2024-07-23 15:37:19,274 Message received: ID=1216, Data=bytearray(b'B}\xf6')
+2024-07-23 15:37:19,276 Anomaly detected: Unexpected message ID 1216
+2024-07-23 15:37:19,376 Message received: ID=399, Data=bytearray(b'\x16\xa5')
+2024-07-23 15:37:19,378 Anomaly detected: Unexpected message ID 399
+2024-07-23 15:37:19,477 Message received: ID=216, Data=bytearray(b'R{\xdbY\xac')
+2024-07-23 15:37:19,477 Anomaly detected: Unexpected message ID 216
+2024-07-23 15:37:19,581 Message received: ID=45, Data=bytearray(b'\xb6[J/(\x03')
+2024-07-23 15:37:19,582 Anomaly detected: Unexpected message ID 45
+2024-07-23 15:37:19,679 Message received: ID=1178, Data=bytearray(b'\xcd1<')
+2024-07-23 15:37:19,684 Anomaly detected: Unexpected message ID 1178
+2024-07-23 15:37:19,780 Message received: ID=322, Data=bytearray(b'\xe9\x9ab\x08l#{\xf2')
+2024-07-23 15:37:19,781 Anomaly detected: Unexpected message ID 322
+2024-07-23 15:37:19,883 Message received: ID=788, Data=bytearray(b'3\xf0\xc4')
+2024-07-23 15:37:19,883 Anomaly detected: Unexpected message ID 788
+2024-07-23 15:37:19,983 Message received: ID=193, Data=bytearray(b'7+N}')
+2024-07-23 15:37:19,984 Anomaly detected: Unexpected message ID 193
+2024-07-23 15:37:20,084 Message received: ID=571, Data=bytearray(b'\x86\xb8r\x82\x1dS')
+2024-07-23 15:37:20,084 Anomaly detected: Unexpected message ID 571
+2024-07-23 15:37:20,185 Message received: ID=823, Data=bytearray(b'\xbel\xban')
+2024-07-23 15:37:20,187 Anomaly detected: Unexpected message ID 823
+2024-07-23 15:37:20,286 Message received: ID=209, Data=bytearray(b'\x0eyP')
+2024-07-23 15:37:20,293 Anomaly detected: Unexpected message ID 209
+2024-07-23 15:37:20,391 Message received: ID=1177, Data=bytearray(b'\x0c2')
+2024-07-23 15:37:20,394 Anomaly detected: Unexpected message ID 1177
+2024-07-23 15:37:20,487 Message received: ID=1448, Data=bytearray(b'\x96')
+2024-07-23 15:37:20,487 Anomaly detected: Unexpected message ID 1448
+2024-07-23 15:37:20,589 Message received: ID=1398, Data=bytearray(b'\xf9\xfa')
+2024-07-23 15:37:20,590 Anomaly detected: Unexpected message ID 1398
+2024-07-23 15:37:20,689 Message received: ID=1462, Data=bytearray(b'')
+2024-07-23 15:37:20,690 Anomaly detected: Unexpected message ID 1462
+2024-07-23 15:37:20,791 Message received: ID=37, Data=bytearray(b'\x0b\x9f\x04]\x82')
+2024-07-23 15:37:20,794 Anomaly detected: Unexpected message ID 37
+2024-07-23 15:37:20,898 Message received: ID=1652, Data=bytearray(b'<\xd3\xafx\x06')
+2024-07-23 15:37:20,899 Anomaly detected: Unexpected message ID 1652
+2024-07-23 15:37:20,998 Message received: ID=1674, Data=bytearray(b'\xaf\x05:')
+2024-07-23 15:37:20,999 Anomaly detected: Unexpected message ID 1674
+2024-07-23 15:37:21,095 Message received: ID=586, Data=bytearray(b'')
+2024-07-23 15:37:21,095 Anomaly detected: Unexpected message ID 586
+2024-07-23 15:37:21,195 Message received: ID=1900, Data=bytearray(b'qT\xb5\x01\x8a')
+2024-07-23 15:37:21,197 Anomaly detected: Unexpected message ID 1900
+2024-07-23 15:37:21,298 Message received: ID=2004, Data=bytearray(b'\xd1o\x9b\x03_')
+2024-07-23 15:37:21,299 Anomaly detected: Unexpected message ID 2004
+2024-07-23 15:37:21,398 Message received: ID=1216, Data=bytearray(b'\xeb')
+2024-07-23 15:37:21,402 Anomaly detected: Unexpected message ID 1216
+2024-07-23 15:37:21,499 Message received: ID=1769, Data=bytearray(b'\x9f&\xb5n')
+2024-07-23 15:37:21,502 Anomaly detected: Unexpected message ID 1769
+2024-07-23 15:37:21,600 Message received: ID=1456, Data=bytearray(b"\'\x8a\x92")
+2024-07-23 15:37:21,600 Anomaly detected: Unexpected message ID 1456
+2024-07-23 15:37:21,701 Message received: ID=773, Data=bytearray(b'X<\xcf\xf1H\xbf,E')
+2024-07-23 15:37:21,703 Anomaly detected: Unexpected message ID 773
+2024-07-23 15:37:21,803 Message received: ID=1363, Data=bytearray(b'\xac\xcb\xa4')
+2024-07-23 15:37:21,806 Anomaly detected: Unexpected message ID 1363
+2024-07-23 15:37:21,904 Message received: ID=678, Data=bytearray(b'\xbd')
+2024-07-23 15:37:21,906 Anomaly detected: Unexpected message ID 678
+2024-07-23 15:37:22,004 Message received: ID=5, Data=bytearray(b'G')
+2024-07-23 15:37:22,004 Anomaly detected: Unexpected message ID 5
+2024-07-23 15:37:22,105 Message received: ID=1023, Data=bytearray(b']\xe5g')
+2024-07-23 15:37:22,106 Anomaly detected: Unexpected message ID 1023
+2024-07-23 15:37:22,206 Message received: ID=693, Data=bytearray(b'\xb0%')
+2024-07-23 15:37:22,207 Anomaly detected: Unexpected message ID 693
+2024-07-23 15:37:22,309 Message received: ID=790, Data=bytearray(b'\xcf9\x14\xcfS\xf38r')
+2024-07-23 15:37:22,309 Anomaly detected: Unexpected message ID 790
+2024-07-23 15:37:22,410 Message received: ID=544, Data=bytearray(b'\x85\xde')
+2024-07-23 15:37:22,412 Anomaly detected: Unexpected message ID 544
+2024-07-23 15:37:22,510 Message received: ID=2, Data=bytearray(b'\tf')
+2024-07-23 15:37:22,515 Anomaly detected: Unexpected message ID 2
+2024-07-23 15:37:22,615 Message received: ID=200, Data=bytearray(b'\r%vh\x1e\x8d:')
+2024-07-23 15:37:22,615 Anomaly detected: Unexpected message ID 200
+2024-07-23 15:37:22,743 Message received: ID=1008, Data=bytearray(b'=')
+2024-07-23 15:37:22,743 Anomaly detected: Unexpected message ID 1008
+2024-07-23 15:37:22,845 Message received: ID=1871, Data=bytearray(b'Q+\xd0\xca')
+2024-07-23 15:37:22,846 Anomaly detected: Unexpected message ID 1871
+2024-07-23 15:37:22,948 Message received: ID=1968, Data=bytearray(b'\xdc{\xbeBY\xe7')
+2024-07-23 15:37:22,949 Anomaly detected: Unexpected message ID 1968
+2024-07-23 15:37:23,055 Message received: ID=310, Data=bytearray(b'')
+2024-07-23 15:37:23,055 Anomaly detected: Unexpected message ID 310
+2024-07-23 15:37:23,158 Message received: ID=1405, Data=bytearray(b'\xf6A\xba\x8b\xd7\x9esG')
+2024-07-23 15:37:23,159 Anomaly detected: Unexpected message ID 1405
+2024-07-23 15:37:23,259 Message received: ID=600, Data=bytearray(b'\xf4n')
+2024-07-23 15:37:23,260 Anomaly detected: Unexpected message ID 600
+2024-07-23 15:37:23,361 Message received: ID=304, Data=bytearray(b'')
+2024-07-23 15:37:23,365 Anomaly detected: Unexpected message ID 304
+2024-07-23 15:37:23,464 Message received: ID=944, Data=bytearray(b'\xe4}\x0b')
+2024-07-23 15:37:23,465 Anomaly detected: Unexpected message ID 944
+2024-07-23 15:37:23,561 Message received: ID=988, Data=bytearray(b'\x9aX:\x94w\xf4')
+2024-07-23 15:37:23,562 Anomaly detected: Unexpected message ID 988
+2024-07-23 15:37:23,666 Message received: ID=1965, Data=bytearray(b'')
+2024-07-23 15:37:23,667 Anomaly detected: Unexpected message ID 1965
+2024-07-23 15:37:23,763 Message received: ID=939, Data=bytearray(b'\x11\x86\xc7G')
+2024-07-23 15:37:23,764 Anomaly detected: Unexpected message ID 939
+2024-07-23 15:37:23,865 Message received: ID=348, Data=bytearray(b'\xe1\xb3\xafE\xed{I')
+2024-07-23 15:37:23,866 Anomaly detected: Unexpected message ID 348
+2024-07-23 15:37:23,967 Message received: ID=1421, Data=bytearray(b'\x12[')
+2024-07-23 15:37:23,971 Anomaly detected: Unexpected message ID 1421
+2024-07-23 15:37:24,068 Message received: ID=1812, Data=bytearray(b'')
+2024-07-23 15:37:24,069 Anomaly detected: Unexpected message ID 1812
+2024-07-23 15:37:24,166 Message received: ID=1410, Data=bytearray(b'\x05\xc7G\xcc')
+2024-07-23 15:37:24,167 Anomaly detected: Unexpected message ID 1410
+2024-07-23 15:37:24,268 Message received: ID=1313, Data=bytearray(b'\xf8')
+2024-07-23 15:37:24,274 Anomaly detected: Unexpected message ID 1313
+2024-07-23 15:37:24,368 Message received: ID=547, Data=bytearray(b'\xa70\x8b\x87')
+2024-07-23 15:37:24,369 Anomaly detected: Unexpected message ID 547
+2024-07-23 15:37:24,469 Message received: ID=1733, Data=bytearray(b'-')
+2024-07-23 15:37:24,470 Anomaly detected: Unexpected message ID 1733
+2024-07-23 15:37:24,570 Message received: ID=1357, Data=bytearray(b')\xff_\x8b<')
+2024-07-23 15:37:24,572 Anomaly detected: Unexpected message ID 1357
+2024-07-23 15:37:24,675 Message received: ID=105, Data=bytearray(b'\xb7\x0c\xfa')
+2024-07-23 15:37:24,677 Anomaly detected: Unexpected message ID 105
+2024-07-23 15:37:24,773 Message received: ID=1059, Data=bytearray(b'\x85')
+2024-07-23 15:37:24,773 Anomaly detected: Unexpected message ID 1059
+2024-07-23 15:37:24,879 Message received: ID=1058, Data=bytearray(b'\x19\x03')
+2024-07-23 15:37:24,880 Anomaly detected: Unexpected message ID 1058
+2024-07-23 15:37:24,976 Message received: ID=281, Data=bytearray(b'\xe1.Bq')
+2024-07-23 15:37:24,977 Anomaly detected: Unexpected message ID 281
+2024-07-23 15:37:25,075 Message received: ID=1349, Data=bytearray(b'\xfd\x97\x98\xfa^')
+2024-07-23 15:37:25,076 Anomaly detected: Unexpected message ID 1349
+2024-07-23 15:37:25,178 Message received: ID=609, Data=bytearray(b'\x0fX\x91\xfd')
+2024-07-23 15:37:25,179 Anomaly detected: Unexpected message ID 609
+2024-07-23 15:37:25,279 Message received: ID=11, Data=bytearray(b'\xfb\x8a\xf4\xce')
+2024-07-23 15:37:25,282 Anomaly detected: Unexpected message ID 11
+2024-07-23 15:37:25,379 Message received: ID=1645, Data=bytearray(b'm\xdb')
+2024-07-23 15:37:25,383 Anomaly detected: Unexpected message ID 1645
+2024-07-23 15:37:25,480 Message received: ID=346, Data=bytearray(b'aSl\xe3')
+2024-07-23 15:37:25,480 Anomaly detected: Unexpected message ID 346
+2024-07-23 15:37:25,582 Message received: ID=623, Data=bytearray(b'\xcb\xbd\xc8q\x00')
+2024-07-23 15:37:25,588 Anomaly detected: Unexpected message ID 623
+2024-07-23 15:37:25,695 Message received: ID=585, Data=bytearray(b'\xa8\x03\x08\xd1')
+2024-07-23 15:37:25,695 Anomaly detected: Unexpected message ID 585
+2024-07-23 15:37:25,787 Message received: ID=98, Data=bytearray(b'Y\x93t\xee\x80\xa3\xba')
+2024-07-23 15:37:25,793 Anomaly detected: Unexpected message ID 98
+2024-07-23 15:37:25,889 Message received: ID=1308, Data=bytearray(b'\xe9\x1d\xd6\x18\xa1\xe8 m')
+2024-07-23 15:37:25,890 Anomaly detected: Unexpected message ID 1308
+2024-07-23 15:37:25,988 Message received: ID=2022, Data=bytearray(b'\xf4\xa5')
+2024-07-23 15:37:25,989 Anomaly detected: Unexpected message ID 2022
+2024-07-23 15:37:26,088 Message received: ID=398, Data=bytearray(b'\x08+\xbf')
+2024-07-23 15:37:26,088 Anomaly detected: Unexpected message ID 398
+2024-07-23 15:37:26,191 Message received: ID=1857, Data=bytearray(b'')
+2024-07-23 15:37:26,191 Anomaly detected: Unexpected message ID 1857
+2024-07-23 15:37:26,327 Message received: ID=521, Data=bytearray(b'=\xbf\x85')
+2024-07-23 15:37:26,328 Anomaly detected: Unexpected message ID 521
+2024-07-23 15:37:26,393 Message received: ID=507, Data=bytearray(b'\xac8\xf5+#\xf0')
+2024-07-23 15:37:26,394 Anomaly detected: Unexpected message ID 507
+2024-07-23 15:37:26,493 Message received: ID=1989, Data=bytearray(b'@29')
+2024-07-23 15:37:26,494 Anomaly detected: Unexpected message ID 1989
+2024-07-23 15:37:26,596 Message received: ID=1510, Data=bytearray(b'')
+2024-07-23 15:37:26,597 Anomaly detected: Unexpected message ID 1510
+2024-07-23 15:37:26,697 Message received: ID=1035, Data=bytearray(b'\x06\x7f')
+2024-07-23 15:37:26,699 Anomaly detected: Unexpected message ID 1035
+2024-07-23 15:37:26,803 Message received: ID=941, Data=bytearray(b'\t\xbc\xda\x1c')
+2024-07-23 15:37:26,804 Anomaly detected: Unexpected message ID 941
+2024-07-23 15:37:26,901 Message received: ID=52, Data=bytearray(b'')
+2024-07-23 15:37:26,901 Anomaly detected: Unexpected message ID 52
+2024-07-23 15:37:27,002 Message received: ID=1874, Data=bytearray(b'\xab\x8e\xe8\xad\x18x,\xf0')
+2024-07-23 15:37:27,003 Anomaly detected: Unexpected message ID 1874
+2024-07-23 15:37:27,103 Message received: ID=59, Data=bytearray(b'\xf4\xe6\xe0_1')
+2024-07-23 15:37:27,104 Anomaly detected: Unexpected message ID 59
+2024-07-23 15:37:27,202 Message received: ID=806, Data=bytearray(b'')
+2024-07-23 15:37:27,203 Anomaly detected: Unexpected message ID 806
+2024-07-23 15:37:27,303 Message received: ID=1087, Data=bytearray(b'')
+2024-07-23 15:37:27,304 Anomaly detected: Unexpected message ID 1087
+2024-07-23 15:37:27,405 Message received: ID=902, Data=bytearray(b'\x1f\xa4\xb0)\xfb\xcb')
+2024-07-23 15:37:27,408 Anomaly detected: Unexpected message ID 902
+2024-07-23 15:37:27,506 Message received: ID=965, Data=bytearray(b':\xe4/')
+2024-07-23 15:37:27,508 Anomaly detected: Unexpected message ID 965
+2024-07-23 15:37:27,610 Message received: ID=1206, Data=bytearray(b'\x18\xc8o\xa5\x92\x9c')
+2024-07-23 15:37:27,612 Anomaly detected: Unexpected message ID 1206
+2024-07-23 15:37:27,709 Message received: ID=1783, Data=bytearray(b'\x81v\x95HV\xb1l;')
+2024-07-23 15:37:27,713 Anomaly detected: Unexpected message ID 1783
+2024-07-23 15:37:27,808 Message received: ID=782, Data=bytearray(b'+\x0f\x054\xb2%')
+2024-07-23 15:37:27,812 Anomaly detected: Unexpected message ID 782
+2024-07-23 15:37:27,911 Message received: ID=15, Data=bytearray(b'\t\xc2\xfe\x8a\xaa')
+2024-07-23 15:37:27,918 Anomaly detected: Unexpected message ID 15
+2024-07-23 15:37:28,010 Message received: ID=74, Data=bytearray(b'\xe2kT\x97')
+2024-07-23 15:37:28,011 Anomaly detected: Unexpected message ID 74
+2024-07-23 15:37:28,113 Message received: ID=1174, Data=bytearray(b'\x9d\x9f`\xc2')
+2024-07-23 15:37:28,113 Anomaly detected: Unexpected message ID 1174
+2024-07-23 15:37:28,214 Message received: ID=425, Data=bytearray(b'h\x81\xcc\xfe\x8c\xdc')
+2024-07-23 15:37:28,220 Anomaly detected: Unexpected message ID 425
+2024-07-23 15:37:28,317 Message received: ID=508, Data=bytearray(b'\xc1\x029\xbc')
+2024-07-23 15:37:28,317 Anomaly detected: Unexpected message ID 508
+2024-07-23 15:37:28,419 Message received: ID=1321, Data=bytearray(b'\xab\xa6r?')
+2024-07-23 15:37:28,420 Anomaly detected: Unexpected message ID 1321
+2024-07-23 15:37:28,518 Message received: ID=613, Data=bytearray(b'\xf4*!\xa2b')
+2024-07-23 15:37:28,520 Anomaly detected: Unexpected message ID 613
+2024-07-23 15:37:28,619 Message received: ID=275, Data=bytearray(b'\xa2\x81M\xca')
+2024-07-23 15:37:28,620 Anomaly detected: Unexpected message ID 275
+2024-07-23 15:37:28,722 Message received: ID=598, Data=bytearray(b'A+\xa7\xe6I\xae\xcb')
+2024-07-23 15:37:28,723 Anomaly detected: Unexpected message ID 598
+2024-07-23 15:37:28,822 Message received: ID=1456, Data=bytearray(b'\xbc0%\xf4*\xb9\xff\xdb')
+2024-07-23 15:37:28,823 Anomaly detected: Unexpected message ID 1456
+2024-07-23 15:37:28,922 Message received: ID=1827, Data=bytearray(b'')
+2024-07-23 15:37:28,923 Anomaly detected: Unexpected message ID 1827
+2024-07-23 15:37:29,023 Message received: ID=329, Data=bytearray(b'\xbb\xfd\x8cU\x07')
+2024-07-23 15:37:29,023 Anomaly detected: Unexpected message ID 329
+2024-07-23 15:37:29,127 Message received: ID=2044, Data=bytearray(b'\xc2\xc5\xd9\xef\x9bw\x94')
+2024-07-23 15:37:29,128 Anomaly detected: Unexpected message ID 2044
+2024-07-23 15:37:29,226 Message received: ID=459, Data=bytearray(b'\x1d\xa0\xa4')
+2024-07-23 15:37:29,227 Anomaly detected: Unexpected message ID 459
+2024-07-23 15:37:29,327 Message received: ID=1501, Data=bytearray(b'\x1d')
+2024-07-23 15:37:29,327 Anomaly detected: Unexpected message ID 1501
+2024-07-23 15:37:29,431 Message received: ID=249, Data=bytearray(b'\xe4nlw\x0f\x02\xc1')
+2024-07-23 15:37:29,432 Anomaly detected: Unexpected message ID 249
+2024-07-23 15:37:29,531 Message received: ID=935, Data=bytearray(b'\x17\xa1\x98V')
+2024-07-23 15:37:29,532 Anomaly detected: Unexpected message ID 935
+2024-07-23 15:37:29,640 Message received: ID=1869, Data=bytearray(b'7V5\x8b\xf8\x19[\xec')
+2024-07-23 15:37:29,645 Anomaly detected: Unexpected message ID 1869
+2024-07-23 15:37:29,739 Message received: ID=1157, Data=bytearray(b'~\xbf!')
+2024-07-23 15:37:29,744 Anomaly detected: Unexpected message ID 1157
+2024-07-23 15:37:29,851 Message received: ID=1601, Data=bytearray(b'"\xf3\x96')
+2024-07-23 15:37:29,851 Anomaly detected: Unexpected message ID 1601
+2024-07-23 15:37:29,952 Message received: ID=445, Data=bytearray(b'\xbfWu4\xd49')
+2024-07-23 15:37:29,954 Anomaly detected: Unexpected message ID 445
+2024-07-23 15:37:30,053 Message received: ID=1203, Data=bytearray(b'\xa1\x05')
+2024-07-23 15:37:30,058 Anomaly detected: Unexpected message ID 1203
+2024-07-23 15:37:30,154 Message received: ID=1768, Data=bytearray(b'')
+2024-07-23 15:37:30,155 Anomaly detected: Unexpected message ID 1768
+2024-07-23 15:37:30,256 Message received: ID=471, Data=bytearray(b'\xc5')
+2024-07-23 15:37:30,258 Anomaly detected: Unexpected message ID 471
+2024-07-23 15:37:30,357 Message received: ID=816, Data=bytearray(b'M?\xd9\x1e\xe0\x97\xa4r')
+2024-07-23 15:37:30,359 Anomaly detected: Unexpected message ID 816
+2024-07-23 15:37:30,459 Message received: ID=1016, Data=bytearray(b'\xc7\xcf\x04\xb8')
+2024-07-23 15:37:30,460 Anomaly detected: Unexpected message ID 1016
+2024-07-23 15:37:30,559 Message received: ID=996, Data=bytearray(b'~\xd6\x9aG:\x00')
+2024-07-23 15:37:30,560 Anomaly detected: Unexpected message ID 996
+2024-07-23 15:37:30,660 Message received: ID=2002, Data=bytearray(b'_\xdd\xd3')
+2024-07-23 15:37:30,662 Anomaly detected: Unexpected message ID 2002
+2024-07-23 15:37:30,760 Message received: ID=1063, Data=bytearray(b'Y\x8f`$e6')
+2024-07-23 15:37:30,761 Anomaly detected: Unexpected message ID 1063
+2024-07-23 15:37:30,865 Message received: ID=1185, Data=bytearray(b'\xf7o\x8eT\x0b\xf4')
+2024-07-23 15:37:30,866 Anomaly detected: Unexpected message ID 1185
+2024-07-23 15:37:30,964 Message received: ID=1981, Data=bytearray(b'\x14\xebf\xdb\xe4K!\x08')
+2024-07-23 15:37:30,964 Anomaly detected: Unexpected message ID 1981
+2024-07-23 15:37:31,065 Message received: ID=284, Data=bytearray(b'B')
+2024-07-23 15:37:31,065 Anomaly detected: Unexpected message ID 284
+2024-07-23 15:37:31,170 Message received: ID=1561, Data=bytearray(b'\xdf')
+2024-07-23 15:37:31,171 Anomaly detected: Unexpected message ID 1561
+2024-07-23 15:37:31,266 Message received: ID=276, Data=bytearray(b'')
+2024-07-23 15:37:31,267 Anomaly detected: Unexpected message ID 276
+2024-07-23 15:37:31,370 Message received: ID=739, Data=bytearray(b'\x9c\xa8H\xdb\xe2o')
+2024-07-23 15:37:31,371 Anomaly detected: Unexpected message ID 739
+2024-07-23 15:37:31,472 Message received: ID=507, Data=bytearray(b'<w')
+2024-07-23 15:37:31,474 Anomaly detected: Unexpected message ID 507
+2024-07-23 15:37:31,572 Message received: ID=1681, Data=bytearray(b'\x02\x89\xd4\xc7')
+2024-07-23 15:37:31,573 Anomaly detected: Unexpected message ID 1681
+2024-07-23 15:40:41,940 Message received: ID=611, Data=bytearray(b'Hello123')
+2024-07-23 15:40:41,941 Anomaly detected: Unexpected message ID 611
+2024-07-23 15:40:42,041 Message received: ID=1767, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,041 Anomaly detected: Unexpected message ID 1767
+2024-07-23 15:40:42,142 Message received: ID=1904, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,142 Anomaly detected: Unexpected message ID 1904
+2024-07-23 15:40:42,244 Message received: ID=964, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,244 Anomaly detected: Unexpected message ID 964
+2024-07-23 15:40:42,346 Message received: ID=28, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,347 Anomaly detected: Unexpected message ID 28
+2024-07-23 15:40:42,447 Message received: ID=1002, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,448 Anomaly detected: Unexpected message ID 1002
+2024-07-23 15:40:42,550 Message received: ID=1796, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,550 Anomaly detected: Unexpected message ID 1796
+2024-07-23 15:40:42,651 Message received: ID=573, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,651 Anomaly detected: Unexpected message ID 573
+2024-07-23 15:40:42,752 Message received: ID=1626, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,752 Anomaly detected: Unexpected message ID 1626
+2024-07-23 15:40:42,853 Message received: ID=943, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,853 Anomaly detected: Unexpected message ID 943
+2024-07-23 15:40:42,954 Message received: ID=229, Data=bytearray(b'Hello123')
+2024-07-23 15:40:42,955 Anomaly detected: Unexpected message ID 229
+2024-07-23 15:40:43,055 Message received: ID=151, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,833 Anomaly detected: Unexpected message ID 151
+2024-07-23 15:40:43,835 Message received: ID=1528, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,836 Anomaly detected: Unexpected message ID 1528
+2024-07-23 15:40:43,838 Message received: ID=1515, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,838 Anomaly detected: Unexpected message ID 1515
+2024-07-23 15:40:43,839 Message received: ID=1019, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,839 Anomaly detected: Unexpected message ID 1019
+2024-07-23 15:40:43,840 Message received: ID=416, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,840 Anomaly detected: Unexpected message ID 416
+2024-07-23 15:40:43,842 Message received: ID=1695, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,842 Anomaly detected: Unexpected message ID 1695
+2024-07-23 15:40:43,843 Message received: ID=493, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,843 Anomaly detected: Unexpected message ID 493
+2024-07-23 15:40:43,844 Message received: ID=1232, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,844 Anomaly detected: Unexpected message ID 1232
+2024-07-23 15:40:43,881 Message received: ID=1962, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,881 Anomaly detected: Unexpected message ID 1962
+2024-07-23 15:40:43,983 Message received: ID=1520, Data=bytearray(b'Hello123')
+2024-07-23 15:40:43,984 Anomaly detected: Unexpected message ID 1520
+2024-07-23 15:40:44,085 Message received: ID=1297, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,085 Anomaly detected: Unexpected message ID 1297
+2024-07-23 15:40:44,188 Message received: ID=1231, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,188 Anomaly detected: Unexpected message ID 1231
+2024-07-23 15:40:44,292 Message received: ID=1512, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,292 Anomaly detected: Unexpected message ID 1512
+2024-07-23 15:40:44,393 Message received: ID=1264, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,394 Anomaly detected: Unexpected message ID 1264
+2024-07-23 15:40:44,498 Message received: ID=787, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,499 Anomaly detected: Unexpected message ID 787
+2024-07-23 15:40:44,604 Message received: ID=1117, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,604 Anomaly detected: Unexpected message ID 1117
+2024-07-23 15:40:44,706 Message received: ID=1406, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,707 Anomaly detected: Unexpected message ID 1406
+2024-07-23 15:40:44,808 Message received: ID=523, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,808 Anomaly detected: Unexpected message ID 523
+2024-07-23 15:40:44,916 Message received: ID=740, Data=bytearray(b'Hello123')
+2024-07-23 15:40:44,916 Anomaly detected: Unexpected message ID 740
+2024-07-23 15:40:45,017 Message received: ID=1334, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,017 Anomaly detected: Unexpected message ID 1334
+2024-07-23 15:40:45,119 Message received: ID=621, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,119 Anomaly detected: Unexpected message ID 621
+2024-07-23 15:40:45,225 Message received: ID=967, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,225 Anomaly detected: Unexpected message ID 967
+2024-07-23 15:40:45,333 Message received: ID=1178, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,333 Anomaly detected: Unexpected message ID 1178
+2024-07-23 15:40:45,440 Message received: ID=2040, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,441 Anomaly detected: Unexpected message ID 2040
+2024-07-23 15:40:45,541 Message received: ID=1004, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,542 Anomaly detected: Unexpected message ID 1004
+2024-07-23 15:40:45,644 Message received: ID=2033, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,645 Anomaly detected: Unexpected message ID 2033
+2024-07-23 15:40:45,747 Message received: ID=1144, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,748 Anomaly detected: Unexpected message ID 1144
+2024-07-23 15:40:45,852 Message received: ID=650, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,852 Anomaly detected: Unexpected message ID 650
+2024-07-23 15:40:45,954 Message received: ID=1798, Data=bytearray(b'Hello123')
+2024-07-23 15:40:45,955 Anomaly detected: Unexpected message ID 1798
+2024-07-23 15:40:46,057 Message received: ID=994, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,057 Anomaly detected: Unexpected message ID 994
+2024-07-23 15:40:46,160 Message received: ID=1361, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,160 Anomaly detected: Unexpected message ID 1361
+2024-07-23 15:40:46,264 Message received: ID=41, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,264 Anomaly detected: Unexpected message ID 41
+2024-07-23 15:40:46,367 Message received: ID=383, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,367 Anomaly detected: Unexpected message ID 383
+2024-07-23 15:40:46,469 Message received: ID=1371, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,470 Anomaly detected: Unexpected message ID 1371
+2024-07-23 15:40:46,578 Message received: ID=1879, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,579 Anomaly detected: Unexpected message ID 1879
+2024-07-23 15:40:46,682 Message received: ID=925, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,683 Anomaly detected: Unexpected message ID 925
+2024-07-23 15:40:46,781 Message received: ID=1275, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,781 Anomaly detected: Unexpected message ID 1275
+2024-07-23 15:40:46,882 Message received: ID=651, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,883 Anomaly detected: Unexpected message ID 651
+2024-07-23 15:40:46,985 Message received: ID=1113, Data=bytearray(b'Hello123')
+2024-07-23 15:40:46,985 Anomaly detected: Unexpected message ID 1113
+2024-07-23 15:40:47,087 Message received: ID=1283, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,088 Anomaly detected: Unexpected message ID 1283
+2024-07-23 15:40:47,189 Message received: ID=1579, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,190 Anomaly detected: Unexpected message ID 1579
+2024-07-23 15:40:47,290 Message received: ID=1646, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,291 Anomaly detected: Unexpected message ID 1646
+2024-07-23 15:40:47,393 Message received: ID=1947, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,393 Anomaly detected: Unexpected message ID 1947
+2024-07-23 15:40:47,496 Message received: ID=53, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,496 Anomaly detected: Unexpected message ID 53
+2024-07-23 15:40:47,597 Message received: ID=687, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,597 Anomaly detected: Unexpected message ID 687
+2024-07-23 15:40:47,700 Message received: ID=433, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,700 Anomaly detected: Unexpected message ID 433
+2024-07-23 15:40:47,805 Message received: ID=1927, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,805 Anomaly detected: Unexpected message ID 1927
+2024-07-23 15:40:47,906 Message received: ID=1008, Data=bytearray(b'Hello123')
+2024-07-23 15:40:47,907 Anomaly detected: Unexpected message ID 1008
+2024-07-23 15:40:48,010 Message received: ID=1778, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,010 Anomaly detected: Unexpected message ID 1778
+2024-07-23 15:40:48,111 Message received: ID=1998, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,111 Anomaly detected: Unexpected message ID 1998
+2024-07-23 15:40:48,214 Message received: ID=1166, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,214 Anomaly detected: Unexpected message ID 1166
+2024-07-23 15:40:48,314 Message received: ID=1221, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,314 Anomaly detected: Unexpected message ID 1221
+2024-07-23 15:40:48,416 Message received: ID=94, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,417 Anomaly detected: Unexpected message ID 94
+2024-07-23 15:40:48,517 Message received: ID=1778, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,518 Anomaly detected: Unexpected message ID 1778
+2024-07-23 15:40:48,626 Message received: ID=1718, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,626 Anomaly detected: Unexpected message ID 1718
+2024-07-23 15:40:48,724 Message received: ID=1837, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,724 Anomaly detected: Unexpected message ID 1837
+2024-07-23 15:40:48,825 Message received: ID=256, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,929 Message received: ID=215, Data=bytearray(b'Hello123')
+2024-07-23 15:40:48,930 Anomaly detected: Unexpected message ID 215
+2024-07-23 15:40:49,032 Message received: ID=558, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,032 Anomaly detected: Unexpected message ID 558
+2024-07-23 15:40:49,135 Message received: ID=1420, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,135 Anomaly detected: Unexpected message ID 1420
+2024-07-23 15:40:49,238 Message received: ID=1262, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,238 Anomaly detected: Unexpected message ID 1262
+2024-07-23 15:40:49,339 Message received: ID=1906, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,339 Anomaly detected: Unexpected message ID 1906
+2024-07-23 15:40:49,440 Message received: ID=49, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,441 Anomaly detected: Unexpected message ID 49
+2024-07-23 15:40:49,543 Message received: ID=1363, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,543 Anomaly detected: Unexpected message ID 1363
+2024-07-23 15:40:49,644 Message received: ID=377, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,644 Anomaly detected: Unexpected message ID 377
+2024-07-23 15:40:49,747 Message received: ID=19, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,748 Anomaly detected: Unexpected message ID 19
+2024-07-23 15:40:49,849 Message received: ID=982, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,850 Anomaly detected: Unexpected message ID 982
+2024-07-23 15:40:49,954 Message received: ID=1956, Data=bytearray(b'Hello123')
+2024-07-23 15:40:49,955 Anomaly detected: Unexpected message ID 1956
+2024-07-23 15:40:50,054 Message received: ID=201, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,054 Anomaly detected: Unexpected message ID 201
+2024-07-23 15:40:50,158 Message received: ID=1607, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,159 Anomaly detected: Unexpected message ID 1607
+2024-07-23 15:40:50,259 Message received: ID=1006, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,259 Anomaly detected: Unexpected message ID 1006
+2024-07-23 15:40:50,360 Message received: ID=786, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,361 Anomaly detected: Unexpected message ID 786
+2024-07-23 15:40:50,462 Message received: ID=1993, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,463 Anomaly detected: Unexpected message ID 1993
+2024-07-23 15:40:50,566 Message received: ID=824, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,567 Anomaly detected: Unexpected message ID 824
+2024-07-23 15:40:50,666 Message received: ID=29, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,667 Anomaly detected: Unexpected message ID 29
+2024-07-23 15:40:50,768 Message received: ID=647, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,768 Anomaly detected: Unexpected message ID 647
+2024-07-23 15:40:50,870 Message received: ID=1865, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,871 Anomaly detected: Unexpected message ID 1865
+2024-07-23 15:40:50,972 Message received: ID=607, Data=bytearray(b'Hello123')
+2024-07-23 15:40:50,973 Anomaly detected: Unexpected message ID 607
+2024-07-23 15:40:51,075 Message received: ID=576, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,076 Anomaly detected: Unexpected message ID 576
+2024-07-23 15:40:51,177 Message received: ID=763, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,178 Anomaly detected: Unexpected message ID 763
+2024-07-23 15:40:51,278 Message received: ID=508, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,278 Anomaly detected: Unexpected message ID 508
+2024-07-23 15:40:51,379 Message received: ID=281, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,381 Anomaly detected: Unexpected message ID 281
+2024-07-23 15:40:51,491 Message received: ID=1140, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,491 Anomaly detected: Unexpected message ID 1140
+2024-07-23 15:40:51,595 Message received: ID=1113, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,595 Anomaly detected: Unexpected message ID 1113
+2024-07-23 15:40:51,701 Message received: ID=169, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,702 Anomaly detected: Unexpected message ID 169
+2024-07-23 15:40:51,805 Message received: ID=97, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,805 Anomaly detected: Unexpected message ID 97
+2024-07-23 15:40:51,909 Message received: ID=342, Data=bytearray(b'Hello123')
+2024-07-23 15:40:51,909 Anomaly detected: Unexpected message ID 342
+2024-07-23 15:40:52,010 Message received: ID=1226, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,010 Anomaly detected: Unexpected message ID 1226
+2024-07-23 15:40:52,112 Message received: ID=1769, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,112 Anomaly detected: Unexpected message ID 1769
+2024-07-23 15:40:52,218 Message received: ID=1026, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,218 Anomaly detected: Unexpected message ID 1026
+2024-07-23 15:40:52,320 Message received: ID=253, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,321 Anomaly detected: Unexpected message ID 253
+2024-07-23 15:40:52,422 Message received: ID=1835, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,423 Anomaly detected: Unexpected message ID 1835
+2024-07-23 15:40:52,524 Message received: ID=1039, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,525 Anomaly detected: Unexpected message ID 1039
+2024-07-23 15:40:52,626 Message received: ID=1845, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,627 Anomaly detected: Unexpected message ID 1845
+2024-07-23 15:40:52,733 Message received: ID=558, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,733 Anomaly detected: Unexpected message ID 558
+2024-07-23 15:40:52,831 Message received: ID=1321, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,831 Anomaly detected: Unexpected message ID 1321
+2024-07-23 15:40:52,934 Message received: ID=121, Data=bytearray(b'Hello123')
+2024-07-23 15:40:52,935 Anomaly detected: Unexpected message ID 121
+2024-07-23 15:40:53,035 Message received: ID=500, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,037 Anomaly detected: Unexpected message ID 500
+2024-07-23 15:40:53,139 Message received: ID=113, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,139 Anomaly detected: Unexpected message ID 113
+2024-07-23 15:40:53,245 Message received: ID=37, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,245 Anomaly detected: Unexpected message ID 37
+2024-07-23 15:40:53,347 Message received: ID=2038, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,348 Anomaly detected: Unexpected message ID 2038
+2024-07-23 15:40:53,448 Message received: ID=546, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,449 Anomaly detected: Unexpected message ID 546
+2024-07-23 15:40:53,552 Message received: ID=951, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,552 Anomaly detected: Unexpected message ID 951
+2024-07-23 15:40:53,653 Message received: ID=1955, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,653 Anomaly detected: Unexpected message ID 1955
+2024-07-23 15:40:53,755 Message received: ID=1865, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,755 Anomaly detected: Unexpected message ID 1865
+2024-07-23 15:40:53,859 Message received: ID=488, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,860 Anomaly detected: Unexpected message ID 488
+2024-07-23 15:40:53,962 Message received: ID=651, Data=bytearray(b'Hello123')
+2024-07-23 15:40:53,963 Anomaly detected: Unexpected message ID 651
+2024-07-23 15:40:54,064 Message received: ID=404, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,064 Anomaly detected: Unexpected message ID 404
+2024-07-23 15:40:54,165 Message received: ID=346, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,166 Anomaly detected: Unexpected message ID 346
+2024-07-23 15:40:54,267 Message received: ID=831, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,268 Anomaly detected: Unexpected message ID 831
+2024-07-23 15:40:54,371 Message received: ID=1646, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,373 Anomaly detected: Unexpected message ID 1646
+2024-07-23 15:40:54,474 Message received: ID=1924, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,475 Anomaly detected: Unexpected message ID 1924
+2024-07-23 15:40:54,575 Message received: ID=1776, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,576 Anomaly detected: Unexpected message ID 1776
+2024-07-23 15:40:54,678 Message received: ID=871, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,679 Anomaly detected: Unexpected message ID 871
+2024-07-23 15:40:54,784 Message received: ID=9, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,784 Anomaly detected: Unexpected message ID 9
+2024-07-23 15:40:54,886 Message received: ID=940, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,886 Anomaly detected: Unexpected message ID 940
+2024-07-23 15:40:54,990 Message received: ID=1979, Data=bytearray(b'Hello123')
+2024-07-23 15:40:54,990 Anomaly detected: Unexpected message ID 1979
+2024-07-23 15:40:55,093 Message received: ID=745, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,093 Anomaly detected: Unexpected message ID 745
+2024-07-23 15:40:55,198 Message received: ID=89, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,198 Anomaly detected: Unexpected message ID 89
+2024-07-23 15:40:55,303 Message received: ID=154, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,303 Anomaly detected: Unexpected message ID 154
+2024-07-23 15:40:55,405 Message received: ID=832, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,405 Anomaly detected: Unexpected message ID 832
+2024-07-23 15:40:55,505 Message received: ID=649, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,506 Anomaly detected: Unexpected message ID 649
+2024-07-23 15:40:55,607 Message received: ID=567, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,608 Anomaly detected: Unexpected message ID 567
+2024-07-23 15:40:55,711 Message received: ID=776, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,712 Anomaly detected: Unexpected message ID 776
+2024-07-23 15:40:55,817 Message received: ID=1768, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,819 Anomaly detected: Unexpected message ID 1768
+2024-07-23 15:40:55,917 Message received: ID=1681, Data=bytearray(b'Hello123')
+2024-07-23 15:40:55,918 Anomaly detected: Unexpected message ID 1681
+2024-07-23 15:40:56,020 Message received: ID=886, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,021 Anomaly detected: Unexpected message ID 886
+2024-07-23 15:40:56,124 Message received: ID=1618, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,126 Anomaly detected: Unexpected message ID 1618
+2024-07-23 15:40:56,230 Message received: ID=72, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,231 Anomaly detected: Unexpected message ID 72
+2024-07-23 15:40:56,325 Message received: ID=826, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,326 Anomaly detected: Unexpected message ID 826
+2024-07-23 15:40:56,430 Message received: ID=639, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,431 Anomaly detected: Unexpected message ID 639
+2024-07-23 15:40:56,534 Message received: ID=1569, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,535 Anomaly detected: Unexpected message ID 1569
+2024-07-23 15:40:56,634 Message received: ID=1889, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,634 Anomaly detected: Unexpected message ID 1889
+2024-07-23 15:40:56,737 Message received: ID=374, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,738 Anomaly detected: Unexpected message ID 374
+2024-07-23 15:40:56,844 Message received: ID=1240, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,844 Anomaly detected: Unexpected message ID 1240
+2024-07-23 15:40:56,945 Message received: ID=637, Data=bytearray(b'Hello123')
+2024-07-23 15:40:56,946 Anomaly detected: Unexpected message ID 637
+2024-07-23 15:40:57,047 Message received: ID=1288, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,050 Anomaly detected: Unexpected message ID 1288
+2024-07-23 15:40:57,148 Message received: ID=2042, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,149 Anomaly detected: Unexpected message ID 2042
+2024-07-23 15:40:57,250 Message received: ID=422, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,253 Anomaly detected: Unexpected message ID 422
+2024-07-23 15:40:57,351 Message received: ID=161, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,352 Anomaly detected: Unexpected message ID 161
+2024-07-23 15:40:57,457 Message received: ID=1880, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,458 Anomaly detected: Unexpected message ID 1880
+2024-07-23 15:40:57,557 Message received: ID=1906, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,558 Anomaly detected: Unexpected message ID 1906
+2024-07-23 15:40:57,660 Message received: ID=1633, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,661 Anomaly detected: Unexpected message ID 1633
+2024-07-23 15:40:57,763 Message received: ID=77, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,764 Anomaly detected: Unexpected message ID 77
+2024-07-23 15:40:57,868 Message received: ID=769, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,868 Anomaly detected: Unexpected message ID 769
+2024-07-23 15:40:57,971 Message received: ID=1878, Data=bytearray(b'Hello123')
+2024-07-23 15:40:57,976 Anomaly detected: Unexpected message ID 1878
+2024-07-23 15:40:58,073 Message received: ID=904, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,073 Anomaly detected: Unexpected message ID 904
+2024-07-23 15:40:58,180 Message received: ID=1492, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,181 Anomaly detected: Unexpected message ID 1492
+2024-07-23 15:40:58,285 Message received: ID=725, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,285 Anomaly detected: Unexpected message ID 725
+2024-07-23 15:40:58,388 Message received: ID=1648, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,390 Anomaly detected: Unexpected message ID 1648
+2024-07-23 15:40:58,492 Message received: ID=1444, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,493 Anomaly detected: Unexpected message ID 1444
+2024-07-23 15:40:58,599 Message received: ID=1489, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,600 Anomaly detected: Unexpected message ID 1489
+2024-07-23 15:40:58,705 Message received: ID=1990, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,707 Anomaly detected: Unexpected message ID 1990
+2024-07-23 15:40:58,811 Message received: ID=380, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,812 Anomaly detected: Unexpected message ID 380
+2024-07-23 15:40:58,916 Message received: ID=1930, Data=bytearray(b'Hello123')
+2024-07-23 15:40:58,917 Anomaly detected: Unexpected message ID 1930
+2024-07-23 15:40:59,014 Message received: ID=545, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,015 Anomaly detected: Unexpected message ID 545
+2024-07-23 15:40:59,117 Message received: ID=1513, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,120 Anomaly detected: Unexpected message ID 1513
+2024-07-23 15:40:59,218 Message received: ID=1168, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,222 Anomaly detected: Unexpected message ID 1168
+2024-07-23 15:40:59,323 Message received: ID=560, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,324 Anomaly detected: Unexpected message ID 560
+2024-07-23 15:40:59,430 Message received: ID=440, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,431 Anomaly detected: Unexpected message ID 440
+2024-07-23 15:40:59,534 Message received: ID=1246, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,534 Anomaly detected: Unexpected message ID 1246
+2024-07-23 15:40:59,632 Message received: ID=1584, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,632 Anomaly detected: Unexpected message ID 1584
+2024-07-23 15:40:59,735 Message received: ID=2019, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,737 Anomaly detected: Unexpected message ID 2019
+2024-07-23 15:40:59,840 Message received: ID=778, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,841 Anomaly detected: Unexpected message ID 778
+2024-07-23 15:40:59,938 Message received: ID=1283, Data=bytearray(b'Hello123')
+2024-07-23 15:40:59,941 Anomaly detected: Unexpected message ID 1283
+2024-07-23 15:41:00,041 Message received: ID=1653, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,042 Anomaly detected: Unexpected message ID 1653
+2024-07-23 15:41:00,145 Message received: ID=1714, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,145 Anomaly detected: Unexpected message ID 1714
+2024-07-23 15:41:00,247 Message received: ID=447, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,251 Anomaly detected: Unexpected message ID 447
+2024-07-23 15:41:00,346 Message received: ID=1738, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,346 Anomaly detected: Unexpected message ID 1738
+2024-07-23 15:41:00,449 Message received: ID=1007, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,450 Anomaly detected: Unexpected message ID 1007
+2024-07-23 15:41:00,549 Message received: ID=830, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,550 Anomaly detected: Unexpected message ID 830
+2024-07-23 15:41:00,653 Message received: ID=1428, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,656 Anomaly detected: Unexpected message ID 1428
+2024-07-23 15:41:00,753 Message received: ID=2028, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,754 Anomaly detected: Unexpected message ID 2028
+2024-07-23 15:41:00,856 Message received: ID=477, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,857 Anomaly detected: Unexpected message ID 477
+2024-07-23 15:41:00,957 Message received: ID=802, Data=bytearray(b'Hello123')
+2024-07-23 15:41:00,958 Anomaly detected: Unexpected message ID 802
+2024-07-23 15:41:01,060 Message received: ID=654, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,061 Anomaly detected: Unexpected message ID 654
+2024-07-23 15:41:01,164 Message received: ID=841, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,164 Anomaly detected: Unexpected message ID 841
+2024-07-23 15:41:01,267 Message received: ID=1627, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,267 Anomaly detected: Unexpected message ID 1627
+2024-07-23 15:41:01,367 Message received: ID=1320, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,370 Anomaly detected: Unexpected message ID 1320
+2024-07-23 15:41:01,472 Message received: ID=935, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,472 Anomaly detected: Unexpected message ID 935
+2024-07-23 15:41:01,570 Message received: ID=1150, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,571 Anomaly detected: Unexpected message ID 1150
+2024-07-23 15:41:01,675 Message received: ID=1111, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,678 Anomaly detected: Unexpected message ID 1111
+2024-07-23 15:41:01,779 Message received: ID=874, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,781 Anomaly detected: Unexpected message ID 874
+2024-07-23 15:41:01,879 Message received: ID=1302, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,880 Anomaly detected: Unexpected message ID 1302
+2024-07-23 15:41:01,987 Message received: ID=518, Data=bytearray(b'Hello123')
+2024-07-23 15:41:01,988 Anomaly detected: Unexpected message ID 518
+2024-07-23 15:41:02,084 Message received: ID=1848, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,085 Anomaly detected: Unexpected message ID 1848
+2024-07-23 15:41:02,188 Message received: ID=1914, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,190 Anomaly detected: Unexpected message ID 1914
+2024-07-23 15:41:02,298 Message received: ID=543, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,299 Anomaly detected: Unexpected message ID 543
+2024-07-23 15:41:02,403 Message received: ID=1251, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,404 Anomaly detected: Unexpected message ID 1251
+2024-07-23 15:41:02,501 Message received: ID=483, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,502 Anomaly detected: Unexpected message ID 483
+2024-07-23 15:41:02,603 Message received: ID=1421, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,603 Anomaly detected: Unexpected message ID 1421
+2024-07-23 15:41:02,705 Message received: ID=1097, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,705 Anomaly detected: Unexpected message ID 1097
+2024-07-23 15:41:02,806 Message received: ID=1780, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,810 Anomaly detected: Unexpected message ID 1780
+2024-07-23 15:41:02,909 Message received: ID=1940, Data=bytearray(b'Hello123')
+2024-07-23 15:41:02,914 Anomaly detected: Unexpected message ID 1940
+2024-07-23 15:41:03,010 Message received: ID=1481, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,011 Anomaly detected: Unexpected message ID 1481
+2024-07-23 15:41:03,120 Message received: ID=1988, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,120 Anomaly detected: Unexpected message ID 1988
+2024-07-23 15:41:03,219 Message received: ID=330, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,220 Anomaly detected: Unexpected message ID 330
+2024-07-23 15:41:03,320 Message received: ID=150, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,321 Anomaly detected: Unexpected message ID 150
+2024-07-23 15:41:03,421 Message received: ID=851, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,423 Anomaly detected: Unexpected message ID 851
+2024-07-23 15:41:03,527 Message received: ID=1982, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,528 Anomaly detected: Unexpected message ID 1982
+2024-07-23 15:41:03,654 Message received: ID=1496, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,656 Anomaly detected: Unexpected message ID 1496
+2024-07-23 15:41:03,736 Message received: ID=386, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,741 Anomaly detected: Unexpected message ID 386
+2024-07-23 15:41:03,836 Message received: ID=1201, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,837 Anomaly detected: Unexpected message ID 1201
+2024-07-23 15:41:03,938 Message received: ID=391, Data=bytearray(b'Hello123')
+2024-07-23 15:41:03,940 Anomaly detected: Unexpected message ID 391
+2024-07-23 15:41:04,040 Message received: ID=85, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,041 Anomaly detected: Unexpected message ID 85
+2024-07-23 15:41:04,146 Message received: ID=955, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,147 Anomaly detected: Unexpected message ID 955
+2024-07-23 15:41:04,244 Message received: ID=1369, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,244 Anomaly detected: Unexpected message ID 1369
+2024-07-23 15:41:04,351 Message received: ID=2016, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,352 Anomaly detected: Unexpected message ID 2016
+2024-07-23 15:41:04,451 Message received: ID=924, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,451 Anomaly detected: Unexpected message ID 924
+2024-07-23 15:41:04,554 Message received: ID=1137, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,555 Anomaly detected: Unexpected message ID 1137
+2024-07-23 15:41:04,654 Message received: ID=1380, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,658 Anomaly detected: Unexpected message ID 1380
+2024-07-23 15:41:04,759 Message received: ID=1303, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,761 Anomaly detected: Unexpected message ID 1303
+2024-07-23 15:41:04,858 Message received: ID=1653, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,861 Anomaly detected: Unexpected message ID 1653
+2024-07-23 15:41:04,958 Message received: ID=681, Data=bytearray(b'Hello123')
+2024-07-23 15:41:04,959 Anomaly detected: Unexpected message ID 681
+2024-07-23 15:41:05,061 Message received: ID=365, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,064 Anomaly detected: Unexpected message ID 365
+2024-07-23 15:41:05,164 Message received: ID=1158, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,165 Anomaly detected: Unexpected message ID 1158
+2024-07-23 15:41:05,266 Message received: ID=1639, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,267 Anomaly detected: Unexpected message ID 1639
+2024-07-23 15:41:05,369 Message received: ID=486, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,373 Anomaly detected: Unexpected message ID 486
+2024-07-23 15:41:05,469 Message received: ID=1305, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,470 Anomaly detected: Unexpected message ID 1305
+2024-07-23 15:41:05,572 Message received: ID=1903, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,575 Anomaly detected: Unexpected message ID 1903
+2024-07-23 15:41:05,675 Message received: ID=69, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,675 Anomaly detected: Unexpected message ID 69
+2024-07-23 15:41:05,778 Message received: ID=1928, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,778 Anomaly detected: Unexpected message ID 1928
+2024-07-23 15:41:05,880 Message received: ID=700, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,881 Anomaly detected: Unexpected message ID 700
+2024-07-23 15:41:05,982 Message received: ID=998, Data=bytearray(b'Hello123')
+2024-07-23 15:41:05,984 Anomaly detected: Unexpected message ID 998
+2024-07-23 15:41:06,085 Message received: ID=68, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,085 Anomaly detected: Unexpected message ID 68
+2024-07-23 15:41:06,190 Message received: ID=1543, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,191 Anomaly detected: Unexpected message ID 1543
+2024-07-23 15:41:06,289 Message received: ID=1046, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,290 Anomaly detected: Unexpected message ID 1046
+2024-07-23 15:41:06,389 Message received: ID=1567, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,391 Anomaly detected: Unexpected message ID 1567
+2024-07-23 15:41:06,493 Message received: ID=393, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,493 Anomaly detected: Unexpected message ID 393
+2024-07-23 15:41:06,595 Message received: ID=2044, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,597 Anomaly detected: Unexpected message ID 2044
+2024-07-23 15:41:06,698 Message received: ID=1495, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,698 Anomaly detected: Unexpected message ID 1495
+2024-07-23 15:41:06,800 Message received: ID=258, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,801 Anomaly detected: Unexpected message ID 258
+2024-07-23 15:41:06,904 Message received: ID=678, Data=bytearray(b'Hello123')
+2024-07-23 15:41:06,904 Anomaly detected: Unexpected message ID 678
+2024-07-23 15:41:07,011 Message received: ID=909, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,011 Anomaly detected: Unexpected message ID 909
+2024-07-23 15:41:07,117 Message received: ID=182, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,117 Anomaly detected: Unexpected message ID 182
+2024-07-23 15:41:07,209 Message received: ID=841, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,209 Anomaly detected: Unexpected message ID 841
+2024-07-23 15:41:07,318 Message received: ID=1181, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,319 Anomaly detected: Unexpected message ID 1181
+2024-07-23 15:41:07,419 Message received: ID=984, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,436 Anomaly detected: Unexpected message ID 984
+2024-07-23 15:41:07,525 Message received: ID=1208, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,526 Anomaly detected: Unexpected message ID 1208
+2024-07-23 15:41:07,625 Message received: ID=939, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,625 Anomaly detected: Unexpected message ID 939
+2024-07-23 15:41:07,729 Message received: ID=27, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,730 Anomaly detected: Unexpected message ID 27
+2024-07-23 15:41:07,828 Message received: ID=1902, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,829 Anomaly detected: Unexpected message ID 1902
+2024-07-23 15:41:07,930 Message received: ID=1386, Data=bytearray(b'Hello123')
+2024-07-23 15:41:07,932 Anomaly detected: Unexpected message ID 1386
+2024-07-23 15:41:08,033 Message received: ID=2008, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,034 Anomaly detected: Unexpected message ID 2008
+2024-07-23 15:41:08,133 Message received: ID=1778, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,134 Anomaly detected: Unexpected message ID 1778
+2024-07-23 15:41:08,234 Message received: ID=1063, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,235 Anomaly detected: Unexpected message ID 1063
+2024-07-23 15:41:08,338 Message received: ID=360, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,338 Anomaly detected: Unexpected message ID 360
+2024-07-23 15:41:08,437 Message received: ID=1192, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,438 Anomaly detected: Unexpected message ID 1192
+2024-07-23 15:41:08,540 Message received: ID=1417, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,547 Anomaly detected: Unexpected message ID 1417
+2024-07-23 15:41:08,640 Message received: ID=1870, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,645 Anomaly detected: Unexpected message ID 1870
+2024-07-23 15:41:08,743 Message received: ID=1651, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,748 Anomaly detected: Unexpected message ID 1651
+2024-07-23 15:41:08,845 Message received: ID=1011, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,847 Anomaly detected: Unexpected message ID 1011
+2024-07-23 15:41:08,951 Message received: ID=1635, Data=bytearray(b'Hello123')
+2024-07-23 15:41:08,951 Anomaly detected: Unexpected message ID 1635
+2024-07-23 15:41:09,052 Message received: ID=1767, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,052 Anomaly detected: Unexpected message ID 1767
+2024-07-23 15:41:09,152 Message received: ID=217, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,152 Anomaly detected: Unexpected message ID 217
+2024-07-23 15:41:09,256 Message received: ID=1250, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,261 Anomaly detected: Unexpected message ID 1250
+2024-07-23 15:41:09,360 Message received: ID=1113, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,361 Anomaly detected: Unexpected message ID 1113
+2024-07-23 15:41:09,460 Message received: ID=76, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,461 Anomaly detected: Unexpected message ID 76
+2024-07-23 15:41:09,566 Message received: ID=62, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,569 Anomaly detected: Unexpected message ID 62
+2024-07-23 15:41:09,664 Message received: ID=703, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,665 Anomaly detected: Unexpected message ID 703
+2024-07-23 15:41:09,765 Message received: ID=560, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,766 Anomaly detected: Unexpected message ID 560
+2024-07-23 15:41:09,867 Message received: ID=147, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,870 Anomaly detected: Unexpected message ID 147
+2024-07-23 15:41:09,974 Message received: ID=1557, Data=bytearray(b'Hello123')
+2024-07-23 15:41:09,980 Anomaly detected: Unexpected message ID 1557
+2024-07-23 15:41:10,078 Message received: ID=1043, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,079 Anomaly detected: Unexpected message ID 1043
+2024-07-23 15:41:10,179 Message received: ID=1123, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,180 Anomaly detected: Unexpected message ID 1123
+2024-07-23 15:41:10,283 Message received: ID=1787, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,284 Anomaly detected: Unexpected message ID 1787
+2024-07-23 15:41:10,400 Message received: ID=1517, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,400 Anomaly detected: Unexpected message ID 1517
+2024-07-23 15:41:10,491 Message received: ID=1636, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,492 Anomaly detected: Unexpected message ID 1636
+2024-07-23 15:41:10,599 Message received: ID=1741, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,600 Anomaly detected: Unexpected message ID 1741
+2024-07-23 15:41:10,702 Message received: ID=730, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,703 Anomaly detected: Unexpected message ID 730
+2024-07-23 15:41:10,805 Message received: ID=757, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,806 Anomaly detected: Unexpected message ID 757
+2024-07-23 15:41:10,905 Message received: ID=1103, Data=bytearray(b'Hello123')
+2024-07-23 15:41:10,906 Anomaly detected: Unexpected message ID 1103
+2024-07-23 15:41:11,008 Message received: ID=1500, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,009 Anomaly detected: Unexpected message ID 1500
+2024-07-23 15:41:11,112 Message received: ID=226, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,112 Anomaly detected: Unexpected message ID 226
+2024-07-23 15:41:11,215 Message received: ID=1356, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,216 Anomaly detected: Unexpected message ID 1356
+2024-07-23 15:41:11,318 Message received: ID=929, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,319 Anomaly detected: Unexpected message ID 929
+2024-07-23 15:41:11,417 Message received: ID=1897, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,417 Anomaly detected: Unexpected message ID 1897
+2024-07-23 15:41:11,521 Message received: ID=1947, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,522 Anomaly detected: Unexpected message ID 1947
+2024-07-23 15:41:11,622 Message received: ID=1945, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,624 Anomaly detected: Unexpected message ID 1945
+2024-07-23 15:41:11,725 Message received: ID=2003, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,726 Anomaly detected: Unexpected message ID 2003
+2024-07-23 15:41:11,827 Message received: ID=2045, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,827 Anomaly detected: Unexpected message ID 2045
+2024-07-23 15:41:11,928 Message received: ID=1518, Data=bytearray(b'Hello123')
+2024-07-23 15:41:11,930 Anomaly detected: Unexpected message ID 1518
+2024-07-23 15:41:12,032 Message received: ID=868, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,034 Anomaly detected: Unexpected message ID 868
+2024-07-23 15:41:12,133 Message received: ID=1533, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,135 Anomaly detected: Unexpected message ID 1533
+2024-07-23 15:41:12,239 Message received: ID=1658, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,240 Anomaly detected: Unexpected message ID 1658
+2024-07-23 15:41:12,342 Message received: ID=891, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,342 Anomaly detected: Unexpected message ID 891
+2024-07-23 15:41:12,444 Message received: ID=1409, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,447 Anomaly detected: Unexpected message ID 1409
+2024-07-23 15:41:12,546 Message received: ID=169, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,549 Anomaly detected: Unexpected message ID 169
+2024-07-23 15:41:12,647 Message received: ID=737, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,649 Anomaly detected: Unexpected message ID 737
+2024-07-23 15:41:12,752 Message received: ID=719, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,752 Anomaly detected: Unexpected message ID 719
+2024-07-23 15:41:12,853 Message received: ID=1831, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,854 Anomaly detected: Unexpected message ID 1831
+2024-07-23 15:41:12,963 Message received: ID=24, Data=bytearray(b'Hello123')
+2024-07-23 15:41:12,964 Anomaly detected: Unexpected message ID 24
+2024-07-23 15:41:13,058 Message received: ID=249, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,062 Anomaly detected: Unexpected message ID 249
+2024-07-23 15:41:13,164 Message received: ID=1886, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,165 Anomaly detected: Unexpected message ID 1886
+2024-07-23 15:41:13,262 Message received: ID=792, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,265 Anomaly detected: Unexpected message ID 792
+2024-07-23 15:41:13,363 Message received: ID=1537, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,364 Anomaly detected: Unexpected message ID 1537
+2024-07-23 15:41:13,465 Message received: ID=277, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,465 Anomaly detected: Unexpected message ID 277
+2024-07-23 15:41:13,569 Message received: ID=1923, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,570 Anomaly detected: Unexpected message ID 1923
+2024-07-23 15:41:13,672 Message received: ID=82, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,673 Anomaly detected: Unexpected message ID 82
+2024-07-23 15:41:13,776 Message received: ID=998, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,777 Anomaly detected: Unexpected message ID 998
+2024-07-23 15:41:13,879 Message received: ID=1711, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,884 Anomaly detected: Unexpected message ID 1711
+2024-07-23 15:41:13,979 Message received: ID=633, Data=bytearray(b'Hello123')
+2024-07-23 15:41:13,980 Anomaly detected: Unexpected message ID 633
+2024-07-23 15:41:14,081 Message received: ID=33, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,083 Anomaly detected: Unexpected message ID 33
+2024-07-23 15:41:14,184 Message received: ID=1011, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,191 Anomaly detected: Unexpected message ID 1011
+2024-07-23 15:41:14,286 Message received: ID=1600, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,290 Anomaly detected: Unexpected message ID 1600
+2024-07-23 15:41:14,392 Message received: ID=1935, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,393 Anomaly detected: Unexpected message ID 1935
+2024-07-23 15:41:14,488 Message received: ID=1530, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,489 Anomaly detected: Unexpected message ID 1530
+2024-07-23 15:41:14,591 Message received: ID=478, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,593 Anomaly detected: Unexpected message ID 478
+2024-07-23 15:41:14,695 Message received: ID=282, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,696 Anomaly detected: Unexpected message ID 282
+2024-07-23 15:41:14,796 Message received: ID=454, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,805 Anomaly detected: Unexpected message ID 454
+2024-07-23 15:41:14,900 Message received: ID=791, Data=bytearray(b'Hello123')
+2024-07-23 15:41:14,900 Anomaly detected: Unexpected message ID 791
+2024-07-23 15:41:15,003 Message received: ID=1506, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,006 Anomaly detected: Unexpected message ID 1506
+2024-07-23 15:41:15,103 Message received: ID=1855, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,104 Anomaly detected: Unexpected message ID 1855
+2024-07-23 15:41:15,205 Message received: ID=380, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,205 Anomaly detected: Unexpected message ID 380
+2024-07-23 15:41:15,319 Message received: ID=621, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,320 Anomaly detected: Unexpected message ID 621
+2024-07-23 15:41:15,410 Message received: ID=1684, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,410 Anomaly detected: Unexpected message ID 1684
+2024-07-23 15:41:15,513 Message received: ID=398, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,514 Anomaly detected: Unexpected message ID 398
+2024-07-23 15:41:15,614 Message received: ID=1225, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,615 Anomaly detected: Unexpected message ID 1225
+2024-07-23 15:41:15,718 Message received: ID=321, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,718 Anomaly detected: Unexpected message ID 321
+2024-07-23 15:41:15,819 Message received: ID=892, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,820 Anomaly detected: Unexpected message ID 892
+2024-07-23 15:41:15,923 Message received: ID=1497, Data=bytearray(b'Hello123')
+2024-07-23 15:41:15,928 Anomaly detected: Unexpected message ID 1497
+2024-07-23 15:41:16,035 Message received: ID=1097, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,036 Anomaly detected: Unexpected message ID 1097
+2024-07-23 15:41:16,128 Message received: ID=1089, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,134 Anomaly detected: Unexpected message ID 1089
+2024-07-23 15:41:16,247 Message received: ID=2043, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,254 Anomaly detected: Unexpected message ID 2043
+2024-07-23 15:41:16,335 Message received: ID=1802, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,336 Anomaly detected: Unexpected message ID 1802
+2024-07-23 15:41:16,439 Message received: ID=1016, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,442 Anomaly detected: Unexpected message ID 1016
+2024-07-23 15:41:16,540 Message received: ID=320, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,542 Anomaly detected: Unexpected message ID 320
+2024-07-23 15:41:16,643 Message received: ID=991, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,644 Anomaly detected: Unexpected message ID 991
+2024-07-23 15:41:16,746 Message received: ID=1053, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,747 Anomaly detected: Unexpected message ID 1053
+2024-07-23 15:41:16,849 Message received: ID=808, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,849 Anomaly detected: Unexpected message ID 808
+2024-07-23 15:41:16,955 Message received: ID=1574, Data=bytearray(b'Hello123')
+2024-07-23 15:41:16,955 Anomaly detected: Unexpected message ID 1574
+2024-07-23 15:41:17,057 Message received: ID=710, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,057 Anomaly detected: Unexpected message ID 710
+2024-07-23 15:41:17,159 Message received: ID=648, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,160 Anomaly detected: Unexpected message ID 648
+2024-07-23 15:41:17,264 Message received: ID=1298, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,265 Anomaly detected: Unexpected message ID 1298
+2024-07-23 15:41:17,368 Message received: ID=838, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,368 Anomaly detected: Unexpected message ID 838
+2024-07-23 15:41:17,470 Message received: ID=1377, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,471 Anomaly detected: Unexpected message ID 1377
+2024-07-23 15:41:17,574 Message received: ID=613, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,577 Anomaly detected: Unexpected message ID 613
+2024-07-23 15:41:17,676 Message received: ID=1335, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,677 Anomaly detected: Unexpected message ID 1335
+2024-07-23 15:41:17,782 Message received: ID=1554, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,784 Anomaly detected: Unexpected message ID 1554
+2024-07-23 15:41:17,883 Message received: ID=49, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,883 Anomaly detected: Unexpected message ID 49
+2024-07-23 15:41:17,987 Message received: ID=1773, Data=bytearray(b'Hello123')
+2024-07-23 15:41:17,988 Anomaly detected: Unexpected message ID 1773
+2024-07-23 15:41:18,090 Message received: ID=81, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,091 Anomaly detected: Unexpected message ID 81
+2024-07-23 15:41:18,192 Message received: ID=304, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,195 Anomaly detected: Unexpected message ID 304
+2024-07-23 15:41:18,305 Message received: ID=684, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,307 Anomaly detected: Unexpected message ID 684
+2024-07-23 15:41:18,396 Message received: ID=244, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,397 Anomaly detected: Unexpected message ID 244
+2024-07-23 15:41:18,499 Message received: ID=266, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,500 Anomaly detected: Unexpected message ID 266
+2024-07-23 15:41:18,597 Message received: ID=927, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,599 Anomaly detected: Unexpected message ID 927
+2024-07-23 15:41:18,702 Message received: ID=1586, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,703 Anomaly detected: Unexpected message ID 1586
+2024-07-23 15:41:18,803 Message received: ID=395, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,804 Anomaly detected: Unexpected message ID 395
+2024-07-23 15:41:18,905 Message received: ID=1526, Data=bytearray(b'Hello123')
+2024-07-23 15:41:18,905 Anomaly detected: Unexpected message ID 1526
+2024-07-23 15:41:19,006 Message received: ID=1700, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,007 Anomaly detected: Unexpected message ID 1700
+2024-07-23 15:41:19,109 Message received: ID=1690, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,110 Anomaly detected: Unexpected message ID 1690
+2024-07-23 15:41:19,211 Message received: ID=609, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,213 Anomaly detected: Unexpected message ID 609
+2024-07-23 15:41:19,313 Message received: ID=1635, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,313 Anomaly detected: Unexpected message ID 1635
+2024-07-23 15:41:19,415 Message received: ID=1431, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,415 Anomaly detected: Unexpected message ID 1431
+2024-07-23 15:41:19,517 Message received: ID=922, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,517 Anomaly detected: Unexpected message ID 922
+2024-07-23 15:41:19,620 Message received: ID=1279, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,623 Anomaly detected: Unexpected message ID 1279
+2024-07-23 15:41:19,723 Message received: ID=1201, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,724 Anomaly detected: Unexpected message ID 1201
+2024-07-23 15:41:19,825 Message received: ID=1802, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,826 Anomaly detected: Unexpected message ID 1802
+2024-07-23 15:41:19,928 Message received: ID=1219, Data=bytearray(b'Hello123')
+2024-07-23 15:41:19,930 Anomaly detected: Unexpected message ID 1219
+2024-07-23 15:41:20,029 Message received: ID=96, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,030 Anomaly detected: Unexpected message ID 96
+2024-07-23 15:41:20,131 Message received: ID=1790, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,134 Anomaly detected: Unexpected message ID 1790
+2024-07-23 15:41:20,234 Message received: ID=208, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,236 Anomaly detected: Unexpected message ID 208
+2024-07-23 15:41:20,334 Message received: ID=1620, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,337 Anomaly detected: Unexpected message ID 1620
+2024-07-23 15:41:20,435 Message received: ID=87, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,435 Anomaly detected: Unexpected message ID 87
+2024-07-23 15:41:20,635 Message received: ID=588, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,640 Anomaly detected: Unexpected message ID 588
+2024-07-23 15:41:20,641 Message received: ID=1290, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,641 Anomaly detected: Unexpected message ID 1290
+2024-07-23 15:41:20,742 Message received: ID=1775, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,743 Anomaly detected: Unexpected message ID 1775
+2024-07-23 15:41:20,844 Message received: ID=194, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,844 Anomaly detected: Unexpected message ID 194
+2024-07-23 15:41:20,947 Message received: ID=1661, Data=bytearray(b'Hello123')
+2024-07-23 15:41:20,947 Anomaly detected: Unexpected message ID 1661
+2024-07-23 15:41:21,048 Message received: ID=55, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,049 Anomaly detected: Unexpected message ID 55
+2024-07-23 15:41:21,150 Message received: ID=2025, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,150 Anomaly detected: Unexpected message ID 2025
+2024-07-23 15:41:21,252 Message received: ID=1720, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,253 Anomaly detected: Unexpected message ID 1720
+2024-07-23 15:41:21,354 Message received: ID=1457, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,356 Anomaly detected: Unexpected message ID 1457
+2024-07-23 15:41:21,458 Message received: ID=1848, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,459 Anomaly detected: Unexpected message ID 1848
+2024-07-23 15:41:21,565 Message received: ID=960, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,569 Anomaly detected: Unexpected message ID 960
+2024-07-23 15:41:21,675 Message received: ID=239, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,676 Anomaly detected: Unexpected message ID 239
+2024-07-23 15:41:21,767 Message received: ID=1045, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,767 Anomaly detected: Unexpected message ID 1045
+2024-07-23 15:41:21,877 Message received: ID=1979, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,878 Anomaly detected: Unexpected message ID 1979
+2024-07-23 15:41:21,977 Message received: ID=107, Data=bytearray(b'Hello123')
+2024-07-23 15:41:21,978 Anomaly detected: Unexpected message ID 107
+2024-07-23 15:41:22,076 Message received: ID=226, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,077 Anomaly detected: Unexpected message ID 226
+2024-07-23 15:41:22,208 Message received: ID=2027, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,209 Anomaly detected: Unexpected message ID 2027
+2024-07-23 15:41:22,282 Message received: ID=576, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,284 Anomaly detected: Unexpected message ID 576
+2024-07-23 15:41:22,385 Message received: ID=1831, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,395 Anomaly detected: Unexpected message ID 1831
+2024-07-23 15:41:22,488 Message received: ID=1902, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,489 Anomaly detected: Unexpected message ID 1902
+2024-07-23 15:41:22,591 Message received: ID=1612, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,592 Anomaly detected: Unexpected message ID 1612
+2024-07-23 15:41:22,692 Message received: ID=1298, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,695 Anomaly detected: Unexpected message ID 1298
+2024-07-23 15:41:22,793 Message received: ID=1798, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,795 Anomaly detected: Unexpected message ID 1798
+2024-07-23 15:41:22,898 Message received: ID=1384, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,900 Anomaly detected: Unexpected message ID 1384
+2024-07-23 15:41:22,998 Message received: ID=320, Data=bytearray(b'Hello123')
+2024-07-23 15:41:22,999 Anomaly detected: Unexpected message ID 320
+2024-07-23 15:41:23,103 Message received: ID=852, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,104 Anomaly detected: Unexpected message ID 852
+2024-07-23 15:41:23,206 Message received: ID=508, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,210 Anomaly detected: Unexpected message ID 508
+2024-07-23 15:41:23,307 Message received: ID=740, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,310 Anomaly detected: Unexpected message ID 740
+2024-07-23 15:41:23,415 Message received: ID=1861, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,418 Anomaly detected: Unexpected message ID 1861
+2024-07-23 15:41:23,524 Message received: ID=1796, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,525 Anomaly detected: Unexpected message ID 1796
+2024-07-23 15:41:23,626 Message received: ID=952, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,627 Anomaly detected: Unexpected message ID 952
+2024-07-23 15:41:23,728 Message received: ID=1140, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,729 Anomaly detected: Unexpected message ID 1140
+2024-07-23 15:41:23,839 Message received: ID=307, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,840 Anomaly detected: Unexpected message ID 307
+2024-07-23 15:41:23,943 Message received: ID=1245, Data=bytearray(b'Hello123')
+2024-07-23 15:41:23,944 Anomaly detected: Unexpected message ID 1245
+2024-07-23 15:41:24,047 Message received: ID=26, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,047 Anomaly detected: Unexpected message ID 26
+2024-07-23 15:41:24,147 Message received: ID=800, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,147 Anomaly detected: Unexpected message ID 800
+2024-07-23 15:41:24,251 Message received: ID=981, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,254 Anomaly detected: Unexpected message ID 981
+2024-07-23 15:41:24,355 Message received: ID=537, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,359 Anomaly detected: Unexpected message ID 537
+2024-07-23 15:41:24,454 Message received: ID=1412, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,456 Anomaly detected: Unexpected message ID 1412
+2024-07-23 15:41:24,556 Message received: ID=1408, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,557 Anomaly detected: Unexpected message ID 1408
+2024-07-23 15:41:24,658 Message received: ID=812, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,660 Anomaly detected: Unexpected message ID 812
+2024-07-23 15:41:24,765 Message received: ID=745, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,766 Anomaly detected: Unexpected message ID 745
+2024-07-23 15:41:24,867 Message received: ID=1679, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,867 Anomaly detected: Unexpected message ID 1679
+2024-07-23 15:41:24,966 Message received: ID=1750, Data=bytearray(b'Hello123')
+2024-07-23 15:41:24,968 Anomaly detected: Unexpected message ID 1750
+2024-07-23 15:41:25,069 Message received: ID=585, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,069 Anomaly detected: Unexpected message ID 585
+2024-07-23 15:41:25,171 Message received: ID=1397, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,172 Anomaly detected: Unexpected message ID 1397
+2024-07-23 15:41:25,273 Message received: ID=1688, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,277 Anomaly detected: Unexpected message ID 1688
+2024-07-23 15:41:25,376 Message received: ID=1073, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,379 Anomaly detected: Unexpected message ID 1073
+2024-07-23 15:41:25,477 Message received: ID=658, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,478 Anomaly detected: Unexpected message ID 658
+2024-07-23 15:41:25,580 Message received: ID=743, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,581 Anomaly detected: Unexpected message ID 743
+2024-07-23 15:41:25,685 Message received: ID=1697, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,687 Anomaly detected: Unexpected message ID 1697
+2024-07-23 15:41:25,790 Message received: ID=40, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,792 Anomaly detected: Unexpected message ID 40
+2024-07-23 15:41:25,893 Message received: ID=758, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,893 Anomaly detected: Unexpected message ID 758
+2024-07-23 15:41:25,993 Message received: ID=1211, Data=bytearray(b'Hello123')
+2024-07-23 15:41:25,994 Anomaly detected: Unexpected message ID 1211
+2024-07-23 15:41:26,096 Message received: ID=1239, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,097 Anomaly detected: Unexpected message ID 1239
+2024-07-23 15:41:26,200 Message received: ID=430, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,203 Anomaly detected: Unexpected message ID 430
+2024-07-23 15:41:26,300 Message received: ID=1805, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,301 Anomaly detected: Unexpected message ID 1805
+2024-07-23 15:41:26,404 Message received: ID=894, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,405 Anomaly detected: Unexpected message ID 894
+2024-07-23 15:41:26,508 Message received: ID=117, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,509 Anomaly detected: Unexpected message ID 117
+2024-07-23 15:41:26,611 Message received: ID=313, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,612 Anomaly detected: Unexpected message ID 313
+2024-07-23 15:41:26,711 Message received: ID=990, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,717 Anomaly detected: Unexpected message ID 990
+2024-07-23 15:41:26,814 Message received: ID=397, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,814 Anomaly detected: Unexpected message ID 397
+2024-07-23 15:41:26,918 Message received: ID=849, Data=bytearray(b'Hello123')
+2024-07-23 15:41:26,919 Anomaly detected: Unexpected message ID 849
+2024-07-23 15:41:27,020 Message received: ID=1849, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,021 Anomaly detected: Unexpected message ID 1849
+2024-07-23 15:41:27,124 Message received: ID=1447, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,127 Anomaly detected: Unexpected message ID 1447
+2024-07-23 15:41:27,227 Message received: ID=1636, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,228 Anomaly detected: Unexpected message ID 1636
+2024-07-23 15:41:27,327 Message received: ID=1456, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,328 Anomaly detected: Unexpected message ID 1456
+2024-07-23 15:41:27,429 Message received: ID=1424, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,429 Anomaly detected: Unexpected message ID 1424
+2024-07-23 15:41:27,532 Message received: ID=709, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,533 Anomaly detected: Unexpected message ID 709
+2024-07-23 15:41:27,633 Message received: ID=122, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,637 Anomaly detected: Unexpected message ID 122
+2024-07-23 15:41:27,734 Message received: ID=290, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,736 Anomaly detected: Unexpected message ID 290
+2024-07-23 15:41:27,840 Message received: ID=1466, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,840 Anomaly detected: Unexpected message ID 1466
+2024-07-23 15:41:27,939 Message received: ID=1849, Data=bytearray(b'Hello123')
+2024-07-23 15:41:27,939 Anomaly detected: Unexpected message ID 1849
+2024-07-23 15:41:28,042 Message received: ID=777, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,043 Anomaly detected: Unexpected message ID 777
+2024-07-23 15:41:28,142 Message received: ID=1898, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,143 Anomaly detected: Unexpected message ID 1898
+2024-07-23 15:41:28,250 Message received: ID=1893, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,258 Anomaly detected: Unexpected message ID 1893
+2024-07-23 15:41:28,347 Message received: ID=1395, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,348 Anomaly detected: Unexpected message ID 1395
+2024-07-23 15:41:28,452 Message received: ID=247, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,453 Anomaly detected: Unexpected message ID 247
+2024-07-23 15:41:28,554 Message received: ID=40, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,555 Anomaly detected: Unexpected message ID 40
+2024-07-23 15:41:28,657 Message received: ID=1932, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,658 Anomaly detected: Unexpected message ID 1932
+2024-07-23 15:41:28,757 Message received: ID=1295, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,758 Anomaly detected: Unexpected message ID 1295
+2024-07-23 15:41:28,861 Message received: ID=703, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,866 Anomaly detected: Unexpected message ID 703
+2024-07-23 15:41:28,961 Message received: ID=107, Data=bytearray(b'Hello123')
+2024-07-23 15:41:28,963 Anomaly detected: Unexpected message ID 107
+2024-07-23 15:41:29,066 Message received: ID=483, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,070 Anomaly detected: Unexpected message ID 483
+2024-07-23 15:41:29,168 Message received: ID=306, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,169 Anomaly detected: Unexpected message ID 306
+2024-07-23 15:41:29,273 Message received: ID=1061, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,274 Anomaly detected: Unexpected message ID 1061
+2024-07-23 15:41:29,371 Message received: ID=26, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,371 Anomaly detected: Unexpected message ID 26
+2024-07-23 15:41:29,472 Message received: ID=874, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,473 Anomaly detected: Unexpected message ID 874
+2024-07-23 15:41:29,574 Message received: ID=748, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,579 Anomaly detected: Unexpected message ID 748
+2024-07-23 15:41:29,683 Message received: ID=720, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,684 Anomaly detected: Unexpected message ID 720
+2024-07-23 15:41:29,784 Message received: ID=921, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,786 Anomaly detected: Unexpected message ID 921
+2024-07-23 15:41:29,887 Message received: ID=1967, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,888 Anomaly detected: Unexpected message ID 1967
+2024-07-23 15:41:29,990 Message received: ID=1793, Data=bytearray(b'Hello123')
+2024-07-23 15:41:29,994 Anomaly detected: Unexpected message ID 1793
+2024-07-23 15:41:30,101 Message received: ID=1863, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,102 Anomaly detected: Unexpected message ID 1863
+2024-07-23 15:41:30,203 Message received: ID=1096, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,204 Anomaly detected: Unexpected message ID 1096
+2024-07-23 15:41:30,312 Message received: ID=449, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,312 Anomaly detected: Unexpected message ID 449
+2024-07-23 15:41:30,416 Message received: ID=534, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,416 Anomaly detected: Unexpected message ID 534
+2024-07-23 15:41:30,521 Message received: ID=118, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,522 Anomaly detected: Unexpected message ID 118
+2024-07-23 15:41:30,629 Message received: ID=1088, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,630 Anomaly detected: Unexpected message ID 1088
+2024-07-23 15:41:30,730 Message received: ID=1741, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,732 Anomaly detected: Unexpected message ID 1741
+2024-07-23 15:41:30,838 Message received: ID=146, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,839 Anomaly detected: Unexpected message ID 146
+2024-07-23 15:41:30,946 Message received: ID=1490, Data=bytearray(b'Hello123')
+2024-07-23 15:41:30,947 Anomaly detected: Unexpected message ID 1490
+2024-07-23 15:41:31,042 Message received: ID=517, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,046 Anomaly detected: Unexpected message ID 517
+2024-07-23 15:41:31,148 Message received: ID=1545, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,148 Anomaly detected: Unexpected message ID 1545
+2024-07-23 15:41:31,246 Message received: ID=1073, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,251 Anomaly detected: Unexpected message ID 1073
+2024-07-23 15:41:31,365 Message received: ID=1375, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,366 Anomaly detected: Unexpected message ID 1375
+2024-07-23 15:41:31,449 Message received: ID=853, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,451 Anomaly detected: Unexpected message ID 853
+2024-07-23 15:41:31,558 Message received: ID=1547, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,559 Anomaly detected: Unexpected message ID 1547
+2024-07-23 15:41:31,660 Message received: ID=1709, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,661 Anomaly detected: Unexpected message ID 1709
+2024-07-23 15:41:31,760 Message received: ID=1730, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,761 Anomaly detected: Unexpected message ID 1730
+2024-07-23 15:41:31,863 Message received: ID=159, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,864 Anomaly detected: Unexpected message ID 159
+2024-07-23 15:41:31,966 Message received: ID=859, Data=bytearray(b'Hello123')
+2024-07-23 15:41:31,971 Anomaly detected: Unexpected message ID 859
+2024-07-23 15:41:32,067 Message received: ID=392, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,068 Anomaly detected: Unexpected message ID 392
+2024-07-23 15:41:32,169 Message received: ID=1513, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,170 Anomaly detected: Unexpected message ID 1513
+2024-07-23 15:41:32,271 Message received: ID=33, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,271 Anomaly detected: Unexpected message ID 33
+2024-07-23 15:41:32,372 Message received: ID=1704, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,373 Anomaly detected: Unexpected message ID 1704
+2024-07-23 15:41:32,477 Message received: ID=1668, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,479 Anomaly detected: Unexpected message ID 1668
+2024-07-23 15:41:32,576 Message received: ID=906, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,577 Anomaly detected: Unexpected message ID 906
+2024-07-23 15:41:32,679 Message received: ID=97, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,679 Anomaly detected: Unexpected message ID 97
+2024-07-23 15:41:32,781 Message received: ID=1608, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,781 Anomaly detected: Unexpected message ID 1608
+2024-07-23 15:41:32,890 Message received: ID=1126, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,890 Anomaly detected: Unexpected message ID 1126
+2024-07-23 15:41:32,987 Message received: ID=1243, Data=bytearray(b'Hello123')
+2024-07-23 15:41:32,990 Anomaly detected: Unexpected message ID 1243
+2024-07-23 15:41:33,092 Message received: ID=1438, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,093 Anomaly detected: Unexpected message ID 1438
+2024-07-23 15:41:33,197 Message received: ID=913, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,198 Anomaly detected: Unexpected message ID 913
+2024-07-23 15:41:33,295 Message received: ID=1039, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,299 Anomaly detected: Unexpected message ID 1039
+2024-07-23 15:41:33,398 Message received: ID=289, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,400 Anomaly detected: Unexpected message ID 289
+2024-07-23 15:41:33,501 Message received: ID=1988, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,505 Anomaly detected: Unexpected message ID 1988
+2024-07-23 15:41:33,601 Message received: ID=1913, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,608 Anomaly detected: Unexpected message ID 1913
+2024-07-23 15:41:33,707 Message received: ID=1217, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,712 Anomaly detected: Unexpected message ID 1217
+2024-07-23 15:41:33,808 Message received: ID=669, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,810 Anomaly detected: Unexpected message ID 669
+2024-07-23 15:41:33,908 Message received: ID=1634, Data=bytearray(b'Hello123')
+2024-07-23 15:41:33,910 Anomaly detected: Unexpected message ID 1634
+2024-07-23 15:41:34,014 Message received: ID=687, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,015 Anomaly detected: Unexpected message ID 687
+2024-07-23 15:41:34,113 Message received: ID=1527, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,114 Anomaly detected: Unexpected message ID 1527
+2024-07-23 15:41:34,213 Message received: ID=72, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,214 Anomaly detected: Unexpected message ID 72
+2024-07-23 15:41:34,316 Message received: ID=697, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,317 Anomaly detected: Unexpected message ID 697
+2024-07-23 15:41:34,419 Message received: ID=1676, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,420 Anomaly detected: Unexpected message ID 1676
+2024-07-23 15:41:34,524 Message received: ID=385, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,527 Anomaly detected: Unexpected message ID 385
+2024-07-23 15:41:34,625 Message received: ID=432, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,630 Anomaly detected: Unexpected message ID 432
+2024-07-23 15:41:34,726 Message received: ID=914, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,730 Anomaly detected: Unexpected message ID 914
+2024-07-23 15:41:34,828 Message received: ID=1422, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,828 Anomaly detected: Unexpected message ID 1422
+2024-07-23 15:41:34,931 Message received: ID=1079, Data=bytearray(b'Hello123')
+2024-07-23 15:41:34,931 Anomaly detected: Unexpected message ID 1079
+2024-07-23 15:41:35,031 Message received: ID=797, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,033 Anomaly detected: Unexpected message ID 797
+2024-07-23 15:41:35,135 Message received: ID=1897, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,137 Anomaly detected: Unexpected message ID 1897
+2024-07-23 15:41:35,237 Message received: ID=817, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,238 Anomaly detected: Unexpected message ID 817
+2024-07-23 15:41:35,340 Message received: ID=1142, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,341 Anomaly detected: Unexpected message ID 1142
+2024-07-23 15:41:35,443 Message received: ID=685, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,444 Anomaly detected: Unexpected message ID 685
+2024-07-23 15:41:35,547 Message received: ID=1852, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,548 Anomaly detected: Unexpected message ID 1852
+2024-07-23 15:41:35,646 Message received: ID=334, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,647 Anomaly detected: Unexpected message ID 334
+2024-07-23 15:41:35,750 Message received: ID=1535, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,750 Anomaly detected: Unexpected message ID 1535
+2024-07-23 15:41:35,853 Message received: ID=1523, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,854 Anomaly detected: Unexpected message ID 1523
+2024-07-23 15:41:35,956 Message received: ID=675, Data=bytearray(b'Hello123')
+2024-07-23 15:41:35,958 Anomaly detected: Unexpected message ID 675
+2024-07-23 15:41:36,056 Message received: ID=506, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,057 Anomaly detected: Unexpected message ID 506
+2024-07-23 15:41:36,158 Message received: ID=878, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,159 Anomaly detected: Unexpected message ID 878
+2024-07-23 15:41:36,263 Message received: ID=15, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,264 Anomaly detected: Unexpected message ID 15
+2024-07-23 15:41:36,362 Message received: ID=1470, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,362 Anomaly detected: Unexpected message ID 1470
+2024-07-23 15:41:36,465 Message received: ID=442, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,466 Anomaly detected: Unexpected message ID 442
+2024-07-23 15:41:36,568 Message received: ID=860, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,570 Anomaly detected: Unexpected message ID 860
+2024-07-23 15:41:36,668 Message received: ID=672, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,668 Anomaly detected: Unexpected message ID 672
+2024-07-23 15:41:36,774 Message received: ID=701, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,775 Anomaly detected: Unexpected message ID 701
+2024-07-23 15:41:36,879 Message received: ID=895, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,880 Anomaly detected: Unexpected message ID 895
+2024-07-23 15:41:36,976 Message received: ID=1139, Data=bytearray(b'Hello123')
+2024-07-23 15:41:36,977 Anomaly detected: Unexpected message ID 1139
+2024-07-23 15:41:37,079 Message received: ID=53, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,080 Anomaly detected: Unexpected message ID 53
+2024-07-23 15:41:37,183 Message received: ID=917, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,187 Anomaly detected: Unexpected message ID 917
+2024-07-23 15:41:37,291 Message received: ID=413, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,292 Anomaly detected: Unexpected message ID 413
+2024-07-23 15:41:37,391 Message received: ID=609, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,391 Anomaly detected: Unexpected message ID 609
+2024-07-23 15:41:37,492 Message received: ID=67, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,494 Anomaly detected: Unexpected message ID 67
+2024-07-23 15:41:37,596 Message received: ID=258, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,599 Anomaly detected: Unexpected message ID 258
+2024-07-23 15:41:37,699 Message received: ID=1683, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,700 Anomaly detected: Unexpected message ID 1683
+2024-07-23 15:41:37,803 Message received: ID=39, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,804 Anomaly detected: Unexpected message ID 39
+2024-07-23 15:41:37,906 Message received: ID=9, Data=bytearray(b'Hello123')
+2024-07-23 15:41:37,912 Anomaly detected: Unexpected message ID 9
+2024-07-23 15:41:38,004 Message received: ID=160, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,004 Anomaly detected: Unexpected message ID 160
+2024-07-23 15:41:38,107 Message received: ID=659, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,107 Anomaly detected: Unexpected message ID 659
+2024-07-23 15:41:38,204 Message received: ID=760, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,204 Anomaly detected: Unexpected message ID 760
+2024-07-23 15:41:38,306 Message received: ID=2031, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,306 Anomaly detected: Unexpected message ID 2031
+2024-07-23 15:41:38,407 Message received: ID=698, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,409 Anomaly detected: Unexpected message ID 698
+2024-07-23 15:41:38,510 Message received: ID=1764, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,510 Anomaly detected: Unexpected message ID 1764
+2024-07-23 15:41:38,610 Message received: ID=1235, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,611 Anomaly detected: Unexpected message ID 1235
+2024-07-23 15:41:38,714 Message received: ID=1465, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,716 Anomaly detected: Unexpected message ID 1465
+2024-07-23 15:41:38,827 Message received: ID=314, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,833 Anomaly detected: Unexpected message ID 314
+2024-07-23 15:41:38,928 Message received: ID=238, Data=bytearray(b'Hello123')
+2024-07-23 15:41:38,929 Anomaly detected: Unexpected message ID 238
+2024-07-23 15:41:39,030 Message received: ID=1945, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,035 Anomaly detected: Unexpected message ID 1945
+2024-07-23 15:41:39,132 Message received: ID=1919, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,132 Anomaly detected: Unexpected message ID 1919
+2024-07-23 15:41:39,233 Message received: ID=811, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,235 Anomaly detected: Unexpected message ID 811
+2024-07-23 15:41:39,339 Message received: ID=1953, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,339 Anomaly detected: Unexpected message ID 1953
+2024-07-23 15:41:39,439 Message received: ID=595, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,440 Anomaly detected: Unexpected message ID 595
+2024-07-23 15:41:39,540 Message received: ID=391, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,543 Anomaly detected: Unexpected message ID 391
+2024-07-23 15:41:39,641 Message received: ID=1980, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,643 Anomaly detected: Unexpected message ID 1980
+2024-07-23 15:41:39,744 Message received: ID=815, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,745 Anomaly detected: Unexpected message ID 815
+2024-07-23 15:41:39,846 Message received: ID=292, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,850 Anomaly detected: Unexpected message ID 292
+2024-07-23 15:41:39,948 Message received: ID=376, Data=bytearray(b'Hello123')
+2024-07-23 15:41:39,948 Anomaly detected: Unexpected message ID 376
+2024-07-23 15:41:40,049 Message received: ID=2005, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,052 Anomaly detected: Unexpected message ID 2005
+2024-07-23 15:41:40,154 Message received: ID=371, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,155 Anomaly detected: Unexpected message ID 371
+2024-07-23 15:41:40,254 Message received: ID=1513, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,255 Anomaly detected: Unexpected message ID 1513
+2024-07-23 15:41:40,359 Message received: ID=2017, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,360 Anomaly detected: Unexpected message ID 2017
+2024-07-23 15:41:40,470 Message received: ID=1184, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,474 Anomaly detected: Unexpected message ID 1184
+2024-07-23 15:41:40,577 Message received: ID=414, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,579 Anomaly detected: Unexpected message ID 414
+2024-07-23 15:41:40,686 Message received: ID=1727, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,687 Anomaly detected: Unexpected message ID 1727
+2024-07-23 15:41:40,796 Message received: ID=1636, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,796 Anomaly detected: Unexpected message ID 1636
+2024-07-23 15:41:40,900 Message received: ID=1949, Data=bytearray(b'Hello123')
+2024-07-23 15:41:40,901 Anomaly detected: Unexpected message ID 1949
+2024-07-23 15:41:41,010 Message received: ID=1803, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,011 Anomaly detected: Unexpected message ID 1803
+2024-07-23 15:41:41,106 Message received: ID=386, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,106 Anomaly detected: Unexpected message ID 386
+2024-07-23 15:41:41,209 Message received: ID=1714, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,210 Anomaly detected: Unexpected message ID 1714
+2024-07-23 15:41:41,311 Message received: ID=1016, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,312 Anomaly detected: Unexpected message ID 1016
+2024-07-23 15:41:41,414 Message received: ID=1910, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,415 Anomaly detected: Unexpected message ID 1910
+2024-07-23 15:41:41,519 Message received: ID=1197, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,520 Anomaly detected: Unexpected message ID 1197
+2024-07-23 15:41:41,618 Message received: ID=892, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,634 Anomaly detected: Unexpected message ID 892
+2024-07-23 15:41:41,721 Message received: ID=421, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,722 Anomaly detected: Unexpected message ID 421
+2024-07-23 15:41:41,823 Message received: ID=241, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,824 Anomaly detected: Unexpected message ID 241
+2024-07-23 15:41:41,926 Message received: ID=586, Data=bytearray(b'Hello123')
+2024-07-23 15:41:41,929 Anomaly detected: Unexpected message ID 586
+2024-07-23 15:42:21,452 Created a socket
