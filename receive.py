@@ -11,9 +11,9 @@ class RecipientECU:
 
     def receive_can_message(self): 
         try:
-            msg= self.bus.recv()
-            if msg:
-                logging.info(f"Message received: ID={msg.arbitration_id}, Data={msg.data}")
+            message= self.bus.recv()
+            if message:
+                logging.info(f"Message received: ID={message.arbitration_id}, Data={message.data}")
         except can.CanError as e:
             logging.error(f'CAN Error: {e}')
 
@@ -21,3 +21,4 @@ if __name__ == "__main__":
     recipient_ecu = RecipientECU()
     while True:
         recipient_ecu.receive_can_message()
+        
