@@ -1,34 +1,22 @@
-import sys
-# Importing of relevant libraries
-import datetime
-import time
-import RPi.GPIO as GPIO
 
-button_pin = 11
-GPIO.setmode(GPIO.BOARD)
-GPIO.setup(button_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+from gpiozero import LED, Button
+from signal import pause
+
+# GPIO pin numbers
+BUTTON_PIN = 17  # Change as per your setup
+LED_PIN = 4    # Change as per your setup
+
+# Setup
+led = LED(LED_PIN)
+button = Button(BUTTON_PIN, pull_up=True)
+
+# Button press and release callbacks
+button.when_pressed = led.on
+button.when_released = led.off
+
 try:
-    print("Waiting for button press...")
-    while True:
-        state=GPIO.input(button_pin)
-        # if GPIO.input(button_pin):
-        print('pin state: ',state)
-            # print("Button Pressed")
-        time.sleep(0.5)  # Debounce delay
+    print("Press and hold the button to turn on the LED. Release to turn off the LED...")
+    pause()  # Keep the script running
+
 except KeyboardInterrupt:
-    GPIO.cleanup()
-
-
-# def btn_pressed(channel):
-#     print("Button Pressed")
-
-#     GPIO.add_event_detect(button_pin, GPIO.FALLING, callback=btn_pressed, bouncetime=200)
-#     print("Event detection added. Waiting for button press...")
-#     while True:
-#         time.sleep(1)
-# except RuntimeError as e:
-#     print("RuntimeError:", e)
-# except KeyboardInterrupt:
-#     pass
-# finally:
-#     GPIO.cleanup()
+    print("Exiting program...")
