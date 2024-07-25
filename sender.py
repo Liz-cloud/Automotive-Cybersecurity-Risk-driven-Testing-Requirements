@@ -1,21 +1,41 @@
 import can 
-
+import random
 import time 
+import logging
 
-bus = can.interface.Bus(channel='can0', bustype='socketcan') 
+# Set up logging
+logging.basicConfig(filename='message_injections.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
-def send_can_message(): 
+class SenderECU:
+    def __init__(self) -> None:
+        self.bus = can.interface.Bus(channel='can0', bustype='socketcan')
 
-    msg = can.Message(arbitration_id=0x123, data=[0xDE, 0xAD, 0xBE, 0xEF], is_extended_id=False) 
+     # basic can fuzzer by sending a large number of semi random inputs to system
+    def generate_random_message(self):
+        id= random.randint(0, 0x7FF)  # Standard CAN ID (11 bits)
+        # id=0x100
+        data_length = random.randint(0, 8)  # CAN data length (0-8 bytes)
+        data = [random.randint(0, 255) for _ in range(data_length)]
+        return can.Message(arbitration_id=id, data=data, is_extended_id=False)  # id= random.randint(0, 0x7FF)  # Standard CAN ID (11 bits)
+        
+    def send_can_message(self): 
+        msg=self.generate_random_message()
+        try:
+            self.bus.send(msg)
+            logging.info(f"Message sent: ID={msg.arbitration_id}, Data={msg.data}")
+        except can.CanError as e:
 
-    bus.send(msg) 
-
-    print("Message sent on {}".format(bus.channel_info)) 
+            logging.error(f"CAN Error: {e}")
 
 if __name__ == "__main__": 
+    #creater a sender_ecu object
+    sender_ecu=SenderECU()
 
+    #sending messages util keyboard interrupt
     while True: 
-
-        send_can_message() 
-
+        try:
+            sender_ecu.send_can_message() 
+        except Exception as e:
+            logging.error(f'Failed to send message:{e}')
+            print(f'Failed to send message:{e}')
         time.sleep(1) 

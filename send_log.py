@@ -1,7 +1,7 @@
 import can
 import logging
 import time 
-import random
+
 
 # Set up logging
 logging.basicConfig(filename='log1.log', level=logging.INFO, format='%(asctime)s %(message)s')
@@ -26,7 +26,6 @@ class SenderECU:
         try:
             self.bus.send(msg)
             logging.info(f"Message sent: ID={msg.arbitration_id}, Data={msg.data}")
-            print(f"Message sent: ID={msg.arbitration_id}, Data={msg.data}")
         except can.CanError as e:
             logging.error(f"CAN Error: {e}")
             print(f"CAN Error: {e}")
