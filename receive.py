@@ -1,17 +1,23 @@
 import can 
+import logging
 
-bus = can.interface.Bus(channel='can0', bustype='socketcan') 
+logging.basicConfig(filename='message_injection_rec.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
 
-def receive_can_message(): 
+class RecipientECU:
+    def __init__(self) -> None:
+        self.bus = can.interface.Bus(channel='can0', bustype='socketcan') 
 
-    while True: 
 
-        message = bus.recv() 
+    def receive_can_message(self): 
+        try:
+            msg= self.bus.recv()
+            if msg:
+                logging.info(f"Message received: ID={msg.arbitration_id}, Data={msg.data}")
+        except can.CanError as e:
+            logging.error(f'CAN Error: {e}')
 
-        print(f"Message received: {message}") 
-
-  
 if __name__ == "__main__": 
-
-    receive_can_message() 
+    recipient_ecu = RecipientECU()
+    while True:
+        recipient_ecu.receive_can_message()
