@@ -1,7 +1,7 @@
 import can 
 import logging
 
-logging.basicConfig(filename='message_injection_rec.log', level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='DOS_rec.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
 
 class RecipientECU:
