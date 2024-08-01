@@ -58,7 +58,7 @@ class RecipientECU:
                 message = self.bus.recv()
                 if message:
                     can_id=message.arbitration_id
-                    if can_id < 0x200:
+                    if can_id < 0x1FF: # Engine started
                         green.on()
                         logging.info(f"Green LED turned ON for CAN ID: {can_id}")
                     elif  (can_id > 0x200) and (can_id < 0x500):
