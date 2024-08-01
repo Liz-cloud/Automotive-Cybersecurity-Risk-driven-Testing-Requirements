@@ -4,18 +4,20 @@ from gpiozero import LED,Pin, Buzzer,BadPinFactory
 import threading
 
 
-logging.basicConfig(filename='red_led.log', level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='buzzer & led.log', level=logging.INFO, filemode='w', format='%(asctime)s %(message)s')
 
 # SET LED and buzzer  GPIO PIN
-LED_PIN = 4
+GREEN_LED = 4
+RED_LED = 17
 BUZZER_PIN = 27
 
 # Set up LEDand buzzer
 try:
-    led = LED(LED_PIN)
-    buzzer=Buzzer(BUZZER_PIN)
+    green = LED(GREEN_LED)
+    red = LED(RED_LED)
+    buzzer = Buzzer(BUZZER_PIN)
 except BadPinFactory as e:
-    logging.error(f"Failed to initialize LED (Pin 4) and Buzzer (Pin 27): {e}")
+    logging.error(f"Failed to initialize GREEN_LED (Pin 4), RED_LED (Pin 17) and Buzzer (Pin 27): {e}")
 
 # Time in seconds after which LED turns off if no message is received
 led_timeout = 5 
@@ -31,7 +33,8 @@ class RecipientECU:
 
     # Turns off the LED and buzzer and logs the action.
     def turn_off_devices(self):
-        led.off()
+        red.off()
+        green.off()
         buzzer.off()
         logging.info("LED and Buzzer turned OFF due to timeout")
 
@@ -55,15 +58,18 @@ class RecipientECU:
                 message = self.bus.recv()
                 if message:
                     can_id=message.arbitration_id
-                    if 0x0 <= can_id <= 0x200:
-                        led.on()
-                        logging.info(f"White LED turned ON for CAN ID: {can_id}")
+                    if can_id < 0x200:
+                        green.on()
+                        logging.info(f"Green LED turned ON for CAN ID: {can_id}")
+                    elif  (can_id > 0x200) and (can_id < 0x500):
+                        red.on()
+                        logging.info(f"Red LED turned ON for CAN ID: {can_id}")
                     else:
                         buzzer.on()
                         logging.info(f"Buzzer activated for CAN ID: {can_id}")
                     
                     logging.info(f"Message received: ID={message.arbitration_id}, Data={message.data}")
-                    self.reset_timer()
+                self.reset_timer()
             except can.CanError as e:
                 logging.error(f'CAN Error: {e}')
 
@@ -79,8 +85,11 @@ if __name__ == "__main__":
         recipient_ecu.receive_can_message()
     except KeyboardInterrupt:
         print("Exiting program...")
-        led.off()  # Ensure the LED is turned off when exiting
+        # Ensure the LED is turned off when exiting
+        green.off()  
+        red.off()  
         buzzer.off()  # Ensure the buzzer is turned off when exiting
         recipient_ecu.timer.cancel()  # Cancel the timer on exit
-        Pin(LED_PIN).close()
+        Pin(GREEN_LED).close()
+        Pin(RED_LED).close()
         Pin(BUZZER_PIN).close()

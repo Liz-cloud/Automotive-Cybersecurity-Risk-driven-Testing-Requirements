@@ -2,7 +2,7 @@ import can
 import logging
 
 # Set up logging
-logging.basicConfig(filename='log1.log', level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='log1.log', level=logging.INFO,filemode='w', format='%(asctime)s %(message)s')
 
 class RecipientECU:
     def __init__(self) -> None:

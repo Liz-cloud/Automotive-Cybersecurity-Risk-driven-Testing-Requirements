@@ -1,0 +1,101 @@
+2024-08-01 17:11:07,813 Created a socket
+2024-08-01 17:11:08,969 Buzzer activated for CAN ID: 1444
+2024-08-01 17:11:08,969 Message received: ID=1444, Data=bytearray(b'\x91\x04\xf3\xc8\xbe')
+2024-08-01 17:11:09,067 Green LED turned ON for CAN ID: 136
+2024-08-01 17:11:09,068 Message received: ID=136, Data=bytearray(b'9\xfa4\xfc\xbd\xa0m')
+2024-08-01 17:11:09,168 Green LED turned ON for CAN ID: 147
+2024-08-01 17:11:09,168 Message received: ID=147, Data=bytearray(b'#b\t\xf7{\x83')
+2024-08-01 17:11:09,269 Red LED turned ON for CAN ID: 756
+2024-08-01 17:11:09,269 Message received: ID=756, Data=bytearray(b'\xbc\xd70')
+2024-08-01 17:11:09,369 Buzzer activated for CAN ID: 1991
+2024-08-01 17:11:09,370 Message received: ID=1991, Data=bytearray(b'PO')
+2024-08-01 17:11:09,470 Green LED turned ON for CAN ID: 343
+2024-08-01 17:11:09,470 Message received: ID=343, Data=bytearray(b'\xab/\x02\xc7T]')
+2024-08-01 17:11:09,570 Green LED turned ON for CAN ID: 93
+2024-08-01 17:11:09,570 Message received: ID=93, Data=bytearray(b'\xe8')
+2024-08-01 17:11:09,671 Red LED turned ON for CAN ID: 550
+2024-08-01 17:11:09,671 Message received: ID=550, Data=bytearray(b'\xb7\xe3Z\rd')
+2024-08-01 17:11:09,771 Buzzer activated for CAN ID: 1399
+2024-08-01 17:11:09,772 Message received: ID=1399, Data=bytearray(b'Y\xcf\x1fS@\xaf')
+2024-08-01 17:11:09,872 Green LED turned ON for CAN ID: 382
+2024-08-01 17:11:09,872 Message received: ID=382, Data=bytearray(b'\xbc,')
+2024-08-01 17:11:09,972 Buzzer activated for CAN ID: 1441
+2024-08-01 17:11:09,973 Message received: ID=1441, Data=bytearray(b'\xf2\x8e\xa1\xd6\xdc28')
+2024-08-01 17:11:10,073 Green LED turned ON for CAN ID: 466
+2024-08-01 17:11:10,073 Message received: ID=466, Data=bytearray(b'\x7fU|\x1e\xa3\xb45')
+2024-08-01 17:11:10,173 Green LED turned ON for CAN ID: 82
+2024-08-01 17:11:10,174 Message received: ID=82, Data=bytearray(b'')
+2024-08-01 17:11:10,274 Buzzer activated for CAN ID: 1509
+2024-08-01 17:11:10,275 Message received: ID=1509, Data=bytearray(b'\xd2')
+2024-08-01 17:11:10,374 Red LED turned ON for CAN ID: 1072
+2024-08-01 17:11:10,375 Message received: ID=1072, Data=bytearray(b'C\x89')
+2024-08-01 17:11:10,475 Red LED turned ON for CAN ID: 652
+2024-08-01 17:11:10,476 Message received: ID=652, Data=bytearray(b'l\x0f]L')
+2024-08-01 17:11:10,575 Red LED turned ON for CAN ID: 532
+2024-08-01 17:11:10,576 Message received: ID=532, Data=bytearray(b'')
+2024-08-01 17:11:10,676 Buzzer activated for CAN ID: 1847
+2024-08-01 17:11:10,677 Message received: ID=1847, Data=bytearray(b'\xb5\x08\x1d')
+2024-08-01 17:11:10,777 Red LED turned ON for CAN ID: 879
+2024-08-01 17:11:10,777 Message received: ID=879, Data=bytearray(b'\xad\xebh\x94')
+2024-08-01 17:11:10,878 Red LED turned ON for CAN ID: 977
+2024-08-01 17:11:10,878 Message received: ID=977, Data=bytearray(b'\xe3\xf6E')
+2024-08-01 17:11:10,978 Buzzer activated for CAN ID: 1966
+2024-08-01 17:11:10,979 Message received: ID=1966, Data=bytearray(b'Y\xecY\xac')
+2024-08-01 17:11:11,079 Buzzer activated for CAN ID: 1316
+2024-08-01 17:11:11,079 Message received: ID=1316, Data=bytearray(b'\xb8\x17=J\x99\xf6\x9e1')
+2024-08-01 17:11:11,180 Red LED turned ON for CAN ID: 703
+2024-08-01 17:11:11,180 Message received: ID=703, Data=bytearray(b'\xca\x17\x06vh')
+2024-08-01 17:11:11,281 Red LED turned ON for CAN ID: 593
+2024-08-01 17:11:11,281 Message received: ID=593, Data=bytearray(b'=')
+2024-08-01 17:11:11,382 Green LED turned ON for CAN ID: 371
+2024-08-01 17:11:11,382 Message received: ID=371, Data=bytearray(b'')
+2024-08-01 17:11:11,483 Buzzer activated for CAN ID: 1796
+2024-08-01 17:11:11,483 Message received: ID=1796, Data=bytearray(b'')
+2024-08-01 17:11:11,585 Red LED turned ON for CAN ID: 844
+2024-08-01 17:11:11,585 Message received: ID=844, Data=bytearray(b'X')
+2024-08-01 17:11:11,685 Green LED turned ON for CAN ID: 193
+2024-08-01 17:11:11,686 Message received: ID=193, Data=bytearray(b'\xf7:')
+2024-08-01 17:11:11,786 Red LED turned ON for CAN ID: 663
+2024-08-01 17:11:11,787 Message received: ID=663, Data=bytearray(b'\x84M\x1cYD\x98j')
+2024-08-01 17:11:11,888 Red LED turned ON for CAN ID: 1071
+2024-08-01 17:11:11,888 Message received: ID=1071, Data=bytearray(b'\x08\xa8\x07aw@,\xed')
+2024-08-01 17:11:11,989 Buzzer activated for CAN ID: 1515
+2024-08-01 17:11:11,989 Message received: ID=1515, Data=bytearray(b'\xa3\xf04M\xb8y\xc6?')
+2024-08-01 17:11:12,090 Green LED turned ON for CAN ID: 127
+2024-08-01 17:11:12,090 Message received: ID=127, Data=bytearray(b'E\xe7\xe0?(')
+2024-08-01 17:11:12,190 Green LED turned ON for CAN ID: 465
+2024-08-01 17:11:12,191 Message received: ID=465, Data=bytearray(b'~u\xc8\xb98')
+2024-08-01 17:11:12,292 Buzzer activated for CAN ID: 1459
+2024-08-01 17:11:12,293 Message received: ID=1459, Data=bytearray(b'\xd3S\xbf')
+2024-08-01 17:11:12,394 Buzzer activated for CAN ID: 1851
+2024-08-01 17:11:12,394 Message received: ID=1851, Data=bytearray(b'9\x89\x82\xcf\x82')
+2024-08-01 17:11:12,494 Red LED turned ON for CAN ID: 542
+2024-08-01 17:11:12,495 Message received: ID=542, Data=bytearray(b'QT')
+2024-08-01 17:11:12,596 Red LED turned ON for CAN ID: 710
+2024-08-01 17:11:12,596 Message received: ID=710, Data=bytearray(b'')
+2024-08-01 17:11:12,697 Red LED turned ON for CAN ID: 660
+2024-08-01 17:11:12,697 Message received: ID=660, Data=bytearray(b'')
+2024-08-01 17:11:12,798 Buzzer activated for CAN ID: 1973
+2024-08-01 17:11:12,799 Message received: ID=1973, Data=bytearray(b'')
+2024-08-01 17:11:12,899 Green LED turned ON for CAN ID: 460
+2024-08-01 17:11:12,900 Message received: ID=460, Data=bytearray(b'\x9aei\x96')
+2024-08-01 17:11:13,000 Buzzer activated for CAN ID: 1544
+2024-08-01 17:11:13,000 Message received: ID=1544, Data=bytearray(b'\x05\xdb4\xabD')
+2024-08-01 17:11:13,106 Red LED turned ON for CAN ID: 702
+2024-08-01 17:11:13,106 Message received: ID=702, Data=bytearray(b'%\x05\x9a\x86\xe7\x11\xfcS')
+2024-08-01 17:11:13,201 Green LED turned ON for CAN ID: 188
+2024-08-01 17:11:13,201 Message received: ID=188, Data=bytearray(b'`\x8f')
+2024-08-01 17:11:13,302 Green LED turned ON for CAN ID: 115
+2024-08-01 17:11:13,302 Message received: ID=115, Data=bytearray(b'')
+2024-08-01 17:11:13,403 Buzzer activated for CAN ID: 1340
+2024-08-01 17:11:13,403 Message received: ID=1340, Data=bytearray(b'\xb3\xa4\xa1')
+2024-08-01 17:11:13,503 Red LED turned ON for CAN ID: 632
+2024-08-01 17:11:13,503 Message received: ID=632, Data=bytearray(b'"M')
+2024-08-01 17:11:13,604 Buzzer activated for CAN ID: 1769
+2024-08-01 17:11:13,605 Message received: ID=1769, Data=bytearray(b'\xa2\xb1\xb2XY\xa7\x9e')
+2024-08-01 17:11:13,704 Buzzer activated for CAN ID: 1819
+2024-08-01 17:11:13,705 Message received: ID=1819, Data=bytearray(b'Q\x1d')
+2024-08-01 17:11:13,810 Green LED turned ON for CAN ID: 341
+2024-08-01 17:11:13,810 Message received: ID=341, Data=bytearray(b'\xa0\x0c\xda\x8b?')
+2024-08-01 17:11:13,906 Red LED turned ON for CAN ID: 771
+2024-08-01 17:11:13,907 Message received: ID=771, Data=bytearray(b'o6\xb7\x80=\xf7W\x08')

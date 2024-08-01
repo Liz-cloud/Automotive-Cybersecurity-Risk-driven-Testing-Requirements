@@ -2,7 +2,7 @@ import can
 import logging
 
 # Set up logging
-logging.basicConfig(filename='receiver_ecu.log', level=logging.INFO, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='receiver_ecu.log', level=logging.INFO,filemode='w', format='%(asctime)s %(message)s')
 
 class ReceiverECU:
     def __init__(self, channel='can0', bustype='socketcan'):
