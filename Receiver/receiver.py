@@ -7,36 +7,47 @@ import threading
 logging.basicConfig(filename='buzzer & led.log', level=logging.INFO, filemode='w', format='%(asctime)s %(message)s')
 
 # SET LED and buzzer  GPIO PIN
-GREEN_LED = 4
-RED_LED = 17
-BUZZER_PIN = 27
+GREEN_LED = 17
+BLUE_LED = 27
+YELLOW_LED = 22
+RED_LED = 4
+BUZZER_PIN = 5
 
-# Set up LEDand buzzer
-try:
-    green = LED(GREEN_LED)
-    red = LED(RED_LED)
-    buzzer = Buzzer(BUZZER_PIN)
-except BadPinFactory as e:
-    logging.error(f"Failed to initialize GREEN_LED (Pin 4), RED_LED (Pin 17) and Buzzer (Pin 27): {e}")
 
 # Time in seconds after which LED turns off if no message is received
 led_timeout = 5 
 
+# Set up LEDs and buzzer
+try:
+    green = LED(GREEN_LED)
+    red = LED(RED_LED)
+    blue = LED(BLUE_LED)
+    yellow=LED(YELLOW_LED)
+    buzzer = Buzzer(BUZZER_PIN)
+except BadPinFactory as e:
+    logging.error(f"Failed to initialize devices: {e}")
 
 class RecipientECU:
     #  Initializes the CAN bus interface,
     #  sets up a timer to turn off the LED after a timeout, and starts the timer.
     def __init__(self) -> None:
         self.bus = can.interface.Bus(channel='can0', bustype='socketcan')
+        self.allowed_ids = [
+            (0x100F, 0x3FF),
+            (0x500, 0x55F)
+        ]
+        self.allowed_patterns = [b'\x01\x02', b'\x03\x04']  # Example data patterns 
         self.timer = threading.Timer(led_timeout, self.turn_off_devices)
         self.timer.start()
 
-    # Turns off the LED and buzzer and logs the action.
+    # Turns off the LED and buzzer and logs the accleartion.
     def turn_off_devices(self):
         red.off()
         green.off()
+        blue.off()
+        yellow.off()
         buzzer.off()
-        logging.info("LED and Buzzer turned OFF due to timeout")
+        logging.info("LEDs and Buzzer turned OFF due to timeout")
 
     # Cancels the current timer 
     # and starts a new one, effectively resetting the timeout countdown.
@@ -57,18 +68,40 @@ class RecipientECU:
             try:
                 message = self.bus.recv()
                 if message:
-                    can_id=message.arbitration_id
-                    if can_id < 0x1FF: # Engine started
-                        green.on()
-                        logging.info(f"Green LED turned ON for CAN ID: {can_id}")
-                    elif  (can_id > 0x200) and (can_id < 0x500):
-                        red.on()
-                        logging.info(f"Red LED turned ON for CAN ID: {can_id}")
-                    else:
-                        buzzer.on()
-                        logging.info(f"Buzzer activated for CAN ID: {can_id}")
-                    
                     logging.info(f"Message received: ID={message.arbitration_id}, Data={message.data}")
+                    msg = message.data
+                    can_id = message.arbitration_id
+
+                    # # Check if the message data matches any of the allowed patterns and if the ID is outside the allowed ranges
+                    # if not ((0x100F <= can_id <= 0x3FF) or (0x500 <= can_id <= 0x55F)):
+                    #     # Diagnostic calls and Error Reporting
+                    #     buzzer.on()
+                    #     logging.warning(f"Anomaly detected: Unexpected message data {msg}")
+                    # else:
+                    if can_id < 0x100: 
+                        # Engine transmission
+                        green.on()
+                        logging.info(f"Enginee turned ON for CAN ID: {can_id}")
+                    
+                    elif  (can_id > 0x200) and (can_id < 0x300):
+                        # Brake system
+                        red.on()
+                        logging.info(f"Faulty in Brake System on CAN ID: {can_id}")
+
+                    elif  (can_id > 0x300) and (can_id < 0x400):
+                        # Battery system
+                        yellow.on()
+                        logging.info(f"Faulty in Battery System on CAN ID: {can_id}")
+    
+                    elif (can_id > 0x500) and (can_id < 0x600):
+                        # Light and visibility systems
+                        blue.on()
+                        logging.info(f"Blue LED turned ON for CAN ID: {can_id}")
+                    else:
+                        # Diagonistic calls and Error Reporting
+                        buzzer.on()
+                        logging.info(f"Anomaly detected: Unexpected message ID{can_id}")
+                    
                 self.reset_timer()
             except can.CanError as e:
                 logging.error(f'CAN Error: {e}')
@@ -85,11 +118,18 @@ if __name__ == "__main__":
         recipient_ecu.receive_can_message()
     except KeyboardInterrupt:
         print("Exiting program...")
+
         # Ensure the LED is turned off when exiting
         green.off()  
-        red.off()  
+        red.off() 
+        blue.off()  
+        yellow.off()
         buzzer.off()  # Ensure the buzzer is turned off when exiting
+
         recipient_ecu.timer.cancel()  # Cancel the timer on exit
+
         Pin(GREEN_LED).close()
+        Pin(BLUE_LED).close()
         Pin(RED_LED).close()
+        Pin(YELLOW_LED).close()
         Pin(BUZZER_PIN).close()
