@@ -1,1843 +1,333 @@
-2024-08-05 15:02:39,091 Created a socket
-2024-08-05 15:02:42,163 Message received: ID=600, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,164 Faulty in Brake System on CAN ID: 600
-2024-08-05 15:02:42,264 Message received: ID=548, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,264 Faulty in Brake System on CAN ID: 548
-2024-08-05 15:02:42,364 Message received: ID=590, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,365 Faulty in Brake System on CAN ID: 590
-2024-08-05 15:02:42,469 Message received: ID=568, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,470 Faulty in Brake System on CAN ID: 568
-2024-08-05 15:02:42,566 Message received: ID=554, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,566 Faulty in Brake System on CAN ID: 554
-2024-08-05 15:02:42,666 Message received: ID=751, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,667 Faulty in Brake System on CAN ID: 751
-2024-08-05 15:02:42,768 Message received: ID=719, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,768 Faulty in Brake System on CAN ID: 719
-2024-08-05 15:02:42,869 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,871 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:02:42,969 Message received: ID=594, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:42,970 Faulty in Brake System on CAN ID: 594
-2024-08-05 15:02:43,069 Message received: ID=589, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,070 Faulty in Brake System on CAN ID: 589
-2024-08-05 15:02:43,173 Message received: ID=531, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,177 Faulty in Brake System on CAN ID: 531
-2024-08-05 15:02:43,271 Message received: ID=597, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,272 Faulty in Brake System on CAN ID: 597
-2024-08-05 15:02:43,371 Message received: ID=596, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,373 Faulty in Brake System on CAN ID: 596
-2024-08-05 15:02:43,472 Message received: ID=593, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,475 Faulty in Brake System on CAN ID: 593
-2024-08-05 15:02:43,573 Message received: ID=638, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,573 Faulty in Brake System on CAN ID: 638
-2024-08-05 15:02:43,673 Message received: ID=613, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,674 Faulty in Brake System on CAN ID: 613
-2024-08-05 15:02:43,774 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,774 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:02:43,874 Message received: ID=625, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,875 Faulty in Brake System on CAN ID: 625
-2024-08-05 15:02:43,975 Message received: ID=522, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:43,977 Faulty in Brake System on CAN ID: 522
-2024-08-05 15:02:44,076 Message received: ID=557, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,078 Faulty in Brake System on CAN ID: 557
-2024-08-05 15:02:44,177 Message received: ID=675, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,177 Faulty in Brake System on CAN ID: 675
-2024-08-05 15:02:44,277 Message received: ID=686, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,278 Faulty in Brake System on CAN ID: 686
-2024-08-05 15:02:44,378 Message received: ID=533, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,381 Faulty in Brake System on CAN ID: 533
-2024-08-05 15:02:44,479 Message received: ID=541, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,481 Faulty in Brake System on CAN ID: 541
-2024-08-05 15:02:44,579 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,582 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:02:44,680 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,681 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:02:44,780 Message received: ID=751, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,781 Faulty in Brake System on CAN ID: 751
-2024-08-05 15:02:44,881 Message received: ID=540, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,882 Faulty in Brake System on CAN ID: 540
-2024-08-05 15:02:44,984 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:44,985 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:02:45,082 Message received: ID=695, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,085 Faulty in Brake System on CAN ID: 695
-2024-08-05 15:02:45,186 Message received: ID=551, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,187 Faulty in Brake System on CAN ID: 551
-2024-08-05 15:02:45,284 Message received: ID=694, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,284 Faulty in Brake System on CAN ID: 694
-2024-08-05 15:02:45,384 Message received: ID=745, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,385 Faulty in Brake System on CAN ID: 745
-2024-08-05 15:02:45,486 Message received: ID=685, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,486 Faulty in Brake System on CAN ID: 685
-2024-08-05 15:02:45,585 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,586 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:02:45,689 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,690 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:02:45,786 Message received: ID=544, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,787 Faulty in Brake System on CAN ID: 544
-2024-08-05 15:02:45,886 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,887 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:02:45,986 Message received: ID=524, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:45,988 Faulty in Brake System on CAN ID: 524
-2024-08-05 15:02:46,088 Message received: ID=675, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,088 Faulty in Brake System on CAN ID: 675
-2024-08-05 15:02:46,188 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,189 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:02:46,288 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,289 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:02:46,389 Message received: ID=556, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,389 Faulty in Brake System on CAN ID: 556
-2024-08-05 15:02:46,490 Message received: ID=696, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,490 Faulty in Brake System on CAN ID: 696
-2024-08-05 15:02:46,590 Message received: ID=685, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,592 Faulty in Brake System on CAN ID: 685
-2024-08-05 15:02:46,691 Message received: ID=563, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,691 Faulty in Brake System on CAN ID: 563
-2024-08-05 15:02:46,792 Message received: ID=567, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,793 Faulty in Brake System on CAN ID: 567
-2024-08-05 15:02:46,892 Message received: ID=550, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,895 Faulty in Brake System on CAN ID: 550
-2024-08-05 15:02:46,993 Message received: ID=545, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:46,994 Faulty in Brake System on CAN ID: 545
-2024-08-05 15:02:47,093 Message received: ID=676, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,094 Faulty in Brake System on CAN ID: 676
-2024-08-05 15:02:47,193 Message received: ID=599, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,194 Faulty in Brake System on CAN ID: 599
-2024-08-05 15:02:47,294 Message received: ID=603, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,294 Faulty in Brake System on CAN ID: 603
-2024-08-05 15:02:47,394 Message received: ID=673, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,396 Faulty in Brake System on CAN ID: 673
-2024-08-05 15:02:47,495 Message received: ID=685, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,496 Faulty in Brake System on CAN ID: 685
-2024-08-05 15:02:47,596 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,596 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:02:47,696 Message received: ID=518, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,699 Faulty in Brake System on CAN ID: 518
-2024-08-05 15:02:47,797 Message received: ID=738, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,798 Faulty in Brake System on CAN ID: 738
-2024-08-05 15:02:47,898 Message received: ID=759, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,901 Faulty in Brake System on CAN ID: 759
-2024-08-05 15:02:47,997 Message received: ID=759, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:47,998 Faulty in Brake System on CAN ID: 759
-2024-08-05 15:02:48,098 Message received: ID=736, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,100 Faulty in Brake System on CAN ID: 736
-2024-08-05 15:02:48,199 Message received: ID=542, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,199 Faulty in Brake System on CAN ID: 542
-2024-08-05 15:02:48,299 Message received: ID=545, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,300 Faulty in Brake System on CAN ID: 545
-2024-08-05 15:02:48,399 Message received: ID=590, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,400 Faulty in Brake System on CAN ID: 590
-2024-08-05 15:02:48,500 Message received: ID=620, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,501 Faulty in Brake System on CAN ID: 620
-2024-08-05 15:02:48,602 Message received: ID=694, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,603 Faulty in Brake System on CAN ID: 694
-2024-08-05 15:02:48,702 Message received: ID=529, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,703 Faulty in Brake System on CAN ID: 529
-2024-08-05 15:02:48,803 Message received: ID=665, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,803 Faulty in Brake System on CAN ID: 665
-2024-08-05 15:02:48,903 Message received: ID=635, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:48,904 Faulty in Brake System on CAN ID: 635
-2024-08-05 15:02:49,003 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,004 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:02:49,104 Message received: ID=581, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,105 Faulty in Brake System on CAN ID: 581
-2024-08-05 15:02:49,204 Message received: ID=699, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,204 Faulty in Brake System on CAN ID: 699
-2024-08-05 15:02:49,309 Message received: ID=624, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,310 Faulty in Brake System on CAN ID: 624
-2024-08-05 15:02:49,406 Message received: ID=640, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,407 Faulty in Brake System on CAN ID: 640
-2024-08-05 15:02:49,509 Message received: ID=522, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,510 Faulty in Brake System on CAN ID: 522
-2024-08-05 15:02:49,606 Message received: ID=675, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,608 Faulty in Brake System on CAN ID: 675
-2024-08-05 15:02:49,707 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,708 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:02:49,809 Message received: ID=684, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,810 Faulty in Brake System on CAN ID: 684
-2024-08-05 15:02:49,908 Message received: ID=613, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:49,913 Faulty in Brake System on CAN ID: 613
-2024-08-05 15:02:50,011 Message received: ID=653, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,012 Faulty in Brake System on CAN ID: 653
-2024-08-05 15:02:50,112 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,114 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:02:50,213 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,217 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:02:50,313 Message received: ID=635, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,314 Faulty in Brake System on CAN ID: 635
-2024-08-05 15:02:50,414 Message received: ID=545, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,415 Faulty in Brake System on CAN ID: 545
-2024-08-05 15:02:50,516 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,517 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:02:50,615 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,621 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:02:50,716 Message received: ID=648, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,717 Faulty in Brake System on CAN ID: 648
-2024-08-05 15:02:50,816 Message received: ID=530, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,817 Faulty in Brake System on CAN ID: 530
-2024-08-05 15:02:50,916 Message received: ID=720, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:50,918 Faulty in Brake System on CAN ID: 720
-2024-08-05 15:02:51,017 Message received: ID=641, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,018 Faulty in Brake System on CAN ID: 641
-2024-08-05 15:02:51,118 Message received: ID=514, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,118 Faulty in Brake System on CAN ID: 514
-2024-08-05 15:02:51,219 Message received: ID=565, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,220 Faulty in Brake System on CAN ID: 565
-2024-08-05 15:02:51,319 Message received: ID=618, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,319 Faulty in Brake System on CAN ID: 618
-2024-08-05 15:02:51,419 Message received: ID=740, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,420 Faulty in Brake System on CAN ID: 740
-2024-08-05 15:02:51,519 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,521 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:02:51,620 Message received: ID=643, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,621 Faulty in Brake System on CAN ID: 643
-2024-08-05 15:02:51,721 Message received: ID=614, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,721 Faulty in Brake System on CAN ID: 614
-2024-08-05 15:02:51,822 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,822 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:02:51,922 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:51,923 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:02:52,023 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,025 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:02:52,124 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,125 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:02:52,224 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,225 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:02:52,324 Message received: ID=708, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,325 Faulty in Brake System on CAN ID: 708
-2024-08-05 15:02:52,425 Message received: ID=640, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,426 Faulty in Brake System on CAN ID: 640
-2024-08-05 15:02:52,526 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,526 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:02:52,626 Message received: ID=556, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,626 Faulty in Brake System on CAN ID: 556
-2024-08-05 15:02:52,727 Message received: ID=662, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,728 Faulty in Brake System on CAN ID: 662
-2024-08-05 15:02:52,829 Message received: ID=755, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,829 Faulty in Brake System on CAN ID: 755
-2024-08-05 15:02:52,930 Message received: ID=672, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:52,931 Faulty in Brake System on CAN ID: 672
-2024-08-05 15:02:53,029 Message received: ID=668, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,031 Faulty in Brake System on CAN ID: 668
-2024-08-05 15:02:53,130 Message received: ID=640, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,130 Faulty in Brake System on CAN ID: 640
-2024-08-05 15:02:53,231 Message received: ID=698, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,231 Faulty in Brake System on CAN ID: 698
-2024-08-05 15:02:53,332 Message received: ID=547, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,332 Faulty in Brake System on CAN ID: 547
-2024-08-05 15:02:53,432 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,432 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:02:53,537 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,537 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:02:53,633 Message received: ID=557, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,633 Faulty in Brake System on CAN ID: 557
-2024-08-05 15:02:53,734 Message received: ID=548, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,735 Faulty in Brake System on CAN ID: 548
-2024-08-05 15:02:53,835 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,837 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:02:53,936 Message received: ID=656, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:53,936 Faulty in Brake System on CAN ID: 656
-2024-08-05 15:02:54,036 Message received: ID=720, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,037 Faulty in Brake System on CAN ID: 720
-2024-08-05 15:02:54,137 Message received: ID=572, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,138 Faulty in Brake System on CAN ID: 572
-2024-08-05 15:02:54,237 Message received: ID=517, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,238 Faulty in Brake System on CAN ID: 517
-2024-08-05 15:02:54,338 Message received: ID=649, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,338 Faulty in Brake System on CAN ID: 649
-2024-08-05 15:02:54,439 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,440 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:02:54,540 Message received: ID=580, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,541 Faulty in Brake System on CAN ID: 580
-2024-08-05 15:02:54,642 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,643 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:02:54,742 Message received: ID=574, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,742 Faulty in Brake System on CAN ID: 574
-2024-08-05 15:02:54,842 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,843 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:02:54,943 Message received: ID=631, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:54,944 Faulty in Brake System on CAN ID: 631
-2024-08-05 15:02:55,044 Message received: ID=536, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,044 Faulty in Brake System on CAN ID: 536
-2024-08-05 15:02:55,144 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,145 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:02:55,245 Message received: ID=738, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,245 Faulty in Brake System on CAN ID: 738
-2024-08-05 15:02:55,347 Message received: ID=522, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,347 Faulty in Brake System on CAN ID: 522
-2024-08-05 15:02:55,446 Message received: ID=707, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,446 Faulty in Brake System on CAN ID: 707
-2024-08-05 15:02:55,547 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,547 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:02:55,647 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,647 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:02:55,751 Message received: ID=585, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,753 Faulty in Brake System on CAN ID: 585
-2024-08-05 15:02:55,851 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,853 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:02:55,950 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:55,951 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:02:56,050 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,051 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:02:56,152 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,155 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:02:56,251 Message received: ID=609, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,253 Faulty in Brake System on CAN ID: 609
-2024-08-05 15:02:56,352 Message received: ID=674, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,354 Faulty in Brake System on CAN ID: 674
-2024-08-05 15:02:56,453 Message received: ID=728, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,454 Faulty in Brake System on CAN ID: 728
-2024-08-05 15:02:56,554 Message received: ID=584, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,555 Faulty in Brake System on CAN ID: 584
-2024-08-05 15:02:56,655 Message received: ID=592, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,656 Faulty in Brake System on CAN ID: 592
-2024-08-05 15:02:56,755 Message received: ID=636, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,756 Faulty in Brake System on CAN ID: 636
-2024-08-05 15:02:56,856 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,858 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:02:56,957 Message received: ID=763, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:56,959 Faulty in Brake System on CAN ID: 763
-2024-08-05 15:02:57,058 Message received: ID=519, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,060 Faulty in Brake System on CAN ID: 519
-2024-08-05 15:02:57,157 Message received: ID=545, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,158 Faulty in Brake System on CAN ID: 545
-2024-08-05 15:02:57,258 Message received: ID=619, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,259 Faulty in Brake System on CAN ID: 619
-2024-08-05 15:02:57,359 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,360 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:02:57,461 Message received: ID=647, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,462 Faulty in Brake System on CAN ID: 647
-2024-08-05 15:02:57,560 Message received: ID=591, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,562 Faulty in Brake System on CAN ID: 591
-2024-08-05 15:02:57,661 Message received: ID=593, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,663 Faulty in Brake System on CAN ID: 593
-2024-08-05 15:02:57,762 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,763 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:02:57,865 Message received: ID=654, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,865 Faulty in Brake System on CAN ID: 654
-2024-08-05 15:02:57,963 Message received: ID=611, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:57,963 Faulty in Brake System on CAN ID: 611
-2024-08-05 15:02:58,063 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,063 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:02:58,164 Message received: ID=588, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,164 Faulty in Brake System on CAN ID: 588
-2024-08-05 15:02:58,269 Message received: ID=688, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,270 Faulty in Brake System on CAN ID: 688
-2024-08-05 15:02:58,365 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,365 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:02:58,465 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,465 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:02:58,566 Message received: ID=584, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,566 Faulty in Brake System on CAN ID: 584
-2024-08-05 15:02:58,667 Message received: ID=646, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,668 Faulty in Brake System on CAN ID: 646
-2024-08-05 15:02:58,767 Message received: ID=755, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,767 Faulty in Brake System on CAN ID: 755
-2024-08-05 15:02:58,867 Message received: ID=756, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,869 Faulty in Brake System on CAN ID: 756
-2024-08-05 15:02:58,968 Message received: ID=747, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:58,970 Faulty in Brake System on CAN ID: 747
-2024-08-05 15:02:59,068 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,069 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:02:59,169 Message received: ID=519, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,170 Faulty in Brake System on CAN ID: 519
-2024-08-05 15:02:59,270 Message received: ID=708, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,272 Faulty in Brake System on CAN ID: 708
-2024-08-05 15:02:59,370 Message received: ID=712, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,370 Faulty in Brake System on CAN ID: 712
-2024-08-05 15:02:59,471 Message received: ID=661, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,472 Faulty in Brake System on CAN ID: 661
-2024-08-05 15:02:59,571 Message received: ID=546, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,572 Faulty in Brake System on CAN ID: 546
-2024-08-05 15:02:59,672 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,672 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:02:59,772 Message received: ID=571, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,773 Faulty in Brake System on CAN ID: 571
-2024-08-05 15:02:59,873 Message received: ID=740, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,874 Faulty in Brake System on CAN ID: 740
-2024-08-05 15:02:59,976 Message received: ID=640, Data=bytearray(b'\x01\x02')
-2024-08-05 15:02:59,976 Faulty in Brake System on CAN ID: 640
-2024-08-05 15:03:00,073 Message received: ID=682, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,074 Faulty in Brake System on CAN ID: 682
-2024-08-05 15:03:00,174 Message received: ID=623, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,175 Faulty in Brake System on CAN ID: 623
-2024-08-05 15:03:00,275 Message received: ID=599, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,275 Faulty in Brake System on CAN ID: 599
-2024-08-05 15:03:00,375 Message received: ID=514, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,375 Faulty in Brake System on CAN ID: 514
-2024-08-05 15:03:00,476 Message received: ID=750, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,477 Faulty in Brake System on CAN ID: 750
-2024-08-05 15:03:00,576 Message received: ID=515, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,576 Faulty in Brake System on CAN ID: 515
-2024-08-05 15:03:00,677 Message received: ID=698, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,678 Faulty in Brake System on CAN ID: 698
-2024-08-05 15:03:00,779 Message received: ID=678, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,780 Faulty in Brake System on CAN ID: 678
-2024-08-05 15:03:00,878 Message received: ID=752, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,879 Faulty in Brake System on CAN ID: 752
-2024-08-05 15:03:00,979 Message received: ID=663, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:00,980 Faulty in Brake System on CAN ID: 663
-2024-08-05 15:03:01,080 Message received: ID=569, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,081 Faulty in Brake System on CAN ID: 569
-2024-08-05 15:03:01,181 Message received: ID=563, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,181 Faulty in Brake System on CAN ID: 563
-2024-08-05 15:03:01,280 Message received: ID=599, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,281 Faulty in Brake System on CAN ID: 599
-2024-08-05 15:03:01,380 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,381 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:03:01,481 Message received: ID=655, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,481 Faulty in Brake System on CAN ID: 655
-2024-08-05 15:03:01,581 Message received: ID=592, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,582 Faulty in Brake System on CAN ID: 592
-2024-08-05 15:03:01,682 Message received: ID=708, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,682 Faulty in Brake System on CAN ID: 708
-2024-08-05 15:03:01,782 Message received: ID=742, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,783 Faulty in Brake System on CAN ID: 742
-2024-08-05 15:03:01,882 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,883 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:03:01,983 Message received: ID=667, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:01,984 Faulty in Brake System on CAN ID: 667
-2024-08-05 15:03:02,086 Message received: ID=536, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,087 Faulty in Brake System on CAN ID: 536
-2024-08-05 15:03:02,184 Message received: ID=731, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,189 Faulty in Brake System on CAN ID: 731
-2024-08-05 15:03:02,285 Message received: ID=755, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,289 Faulty in Brake System on CAN ID: 755
-2024-08-05 15:03:02,385 Message received: ID=741, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,385 Faulty in Brake System on CAN ID: 741
-2024-08-05 15:03:02,486 Message received: ID=598, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,486 Faulty in Brake System on CAN ID: 598
-2024-08-05 15:03:02,586 Message received: ID=750, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,587 Faulty in Brake System on CAN ID: 750
-2024-08-05 15:03:02,687 Message received: ID=603, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,687 Faulty in Brake System on CAN ID: 603
-2024-08-05 15:03:02,787 Message received: ID=669, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,788 Faulty in Brake System on CAN ID: 669
-2024-08-05 15:03:02,888 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,888 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:02,989 Message received: ID=760, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:02,989 Faulty in Brake System on CAN ID: 760
-2024-08-05 15:03:03,092 Message received: ID=563, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,093 Faulty in Brake System on CAN ID: 563
-2024-08-05 15:03:03,189 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,191 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:03:03,291 Message received: ID=544, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,292 Faulty in Brake System on CAN ID: 544
-2024-08-05 15:03:03,391 Message received: ID=715, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,391 Faulty in Brake System on CAN ID: 715
-2024-08-05 15:03:03,496 Message received: ID=611, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,497 Faulty in Brake System on CAN ID: 611
-2024-08-05 15:03:03,592 Message received: ID=654, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,593 Faulty in Brake System on CAN ID: 654
-2024-08-05 15:03:03,693 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,693 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:03:03,793 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,794 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:03:03,894 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,895 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:03,997 Message received: ID=575, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:03,998 Faulty in Brake System on CAN ID: 575
-2024-08-05 15:03:04,095 Message received: ID=702, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,098 Faulty in Brake System on CAN ID: 702
-2024-08-05 15:03:04,195 Message received: ID=588, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,196 Faulty in Brake System on CAN ID: 588
-2024-08-05 15:03:04,296 Message received: ID=572, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,298 Faulty in Brake System on CAN ID: 572
-2024-08-05 15:03:04,397 Message received: ID=544, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,398 Faulty in Brake System on CAN ID: 544
-2024-08-05 15:03:04,497 Message received: ID=672, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,498 Faulty in Brake System on CAN ID: 672
-2024-08-05 15:03:04,601 Message received: ID=662, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,601 Faulty in Brake System on CAN ID: 662
-2024-08-05 15:03:04,699 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,699 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:03:04,800 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,800 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:03:04,900 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:04,900 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:05,000 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,001 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:05,101 Message received: ID=750, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,101 Faulty in Brake System on CAN ID: 750
-2024-08-05 15:03:05,201 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,201 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:03:05,302 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,302 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:03:05,402 Message received: ID=520, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,403 Faulty in Brake System on CAN ID: 520
-2024-08-05 15:03:05,503 Message received: ID=608, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,503 Faulty in Brake System on CAN ID: 608
-2024-08-05 15:03:05,604 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,604 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:03:05,704 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,704 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:03:05,805 Message received: ID=701, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,805 Faulty in Brake System on CAN ID: 701
-2024-08-05 15:03:05,906 Message received: ID=653, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:05,906 Faulty in Brake System on CAN ID: 653
-2024-08-05 15:03:06,006 Message received: ID=539, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,006 Faulty in Brake System on CAN ID: 539
-2024-08-05 15:03:06,106 Message received: ID=580, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,106 Faulty in Brake System on CAN ID: 580
-2024-08-05 15:03:06,207 Message received: ID=585, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,207 Faulty in Brake System on CAN ID: 585
-2024-08-05 15:03:06,308 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,308 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:06,408 Message received: ID=593, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,408 Faulty in Brake System on CAN ID: 593
-2024-08-05 15:03:06,509 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,509 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:03:06,609 Message received: ID=562, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,609 Faulty in Brake System on CAN ID: 562
-2024-08-05 15:03:06,710 Message received: ID=735, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,710 Faulty in Brake System on CAN ID: 735
-2024-08-05 15:03:06,810 Message received: ID=758, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,811 Faulty in Brake System on CAN ID: 758
-2024-08-05 15:03:06,911 Message received: ID=746, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:06,912 Faulty in Brake System on CAN ID: 746
-2024-08-05 15:03:07,011 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,012 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:03:07,112 Message received: ID=691, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,113 Faulty in Brake System on CAN ID: 691
-2024-08-05 15:03:07,213 Message received: ID=561, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,213 Faulty in Brake System on CAN ID: 561
-2024-08-05 15:03:07,313 Message received: ID=555, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,314 Faulty in Brake System on CAN ID: 555
-2024-08-05 15:03:07,414 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,415 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:03:07,515 Message received: ID=546, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,515 Faulty in Brake System on CAN ID: 546
-2024-08-05 15:03:07,615 Message received: ID=749, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,616 Faulty in Brake System on CAN ID: 749
-2024-08-05 15:03:07,716 Message received: ID=747, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,716 Faulty in Brake System on CAN ID: 747
-2024-08-05 15:03:07,817 Message received: ID=566, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,817 Faulty in Brake System on CAN ID: 566
-2024-08-05 15:03:07,918 Message received: ID=595, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:07,918 Faulty in Brake System on CAN ID: 595
-2024-08-05 15:03:08,018 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,018 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:03:08,119 Message received: ID=548, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,120 Faulty in Brake System on CAN ID: 548
-2024-08-05 15:03:08,219 Message received: ID=536, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,219 Faulty in Brake System on CAN ID: 536
-2024-08-05 15:03:08,320 Message received: ID=535, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,320 Faulty in Brake System on CAN ID: 535
-2024-08-05 15:03:08,420 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,421 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:03:08,521 Message received: ID=517, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,522 Faulty in Brake System on CAN ID: 517
-2024-08-05 15:03:08,622 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,622 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:03:08,722 Message received: ID=723, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,723 Faulty in Brake System on CAN ID: 723
-2024-08-05 15:03:08,823 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,824 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:03:08,924 Message received: ID=748, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:08,924 Faulty in Brake System on CAN ID: 748
-2024-08-05 15:03:09,024 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,025 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:09,125 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,126 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:09,226 Message received: ID=686, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,226 Faulty in Brake System on CAN ID: 686
-2024-08-05 15:03:09,327 Message received: ID=713, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,327 Faulty in Brake System on CAN ID: 713
-2024-08-05 15:03:09,427 Message received: ID=559, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,427 Faulty in Brake System on CAN ID: 559
-2024-08-05 15:03:09,528 Message received: ID=729, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,528 Faulty in Brake System on CAN ID: 729
-2024-08-05 15:03:09,628 Message received: ID=671, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,629 Faulty in Brake System on CAN ID: 671
-2024-08-05 15:03:09,729 Message received: ID=532, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,730 Faulty in Brake System on CAN ID: 532
-2024-08-05 15:03:09,830 Message received: ID=682, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,830 Faulty in Brake System on CAN ID: 682
-2024-08-05 15:03:09,931 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:09,931 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:10,031 Message received: ID=613, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,032 Faulty in Brake System on CAN ID: 613
-2024-08-05 15:03:10,132 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,132 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:10,232 Message received: ID=690, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,233 Faulty in Brake System on CAN ID: 690
-2024-08-05 15:03:10,333 Message received: ID=674, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,333 Faulty in Brake System on CAN ID: 674
-2024-08-05 15:03:10,433 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,434 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:10,534 Message received: ID=541, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,535 Faulty in Brake System on CAN ID: 541
-2024-08-05 15:03:10,635 Message received: ID=605, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,635 Faulty in Brake System on CAN ID: 605
-2024-08-05 15:03:10,735 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,736 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:10,836 Message received: ID=639, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,836 Faulty in Brake System on CAN ID: 639
-2024-08-05 15:03:10,936 Message received: ID=619, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:10,937 Faulty in Brake System on CAN ID: 619
-2024-08-05 15:03:11,037 Message received: ID=604, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,038 Faulty in Brake System on CAN ID: 604
-2024-08-05 15:03:11,139 Message received: ID=692, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,139 Faulty in Brake System on CAN ID: 692
-2024-08-05 15:03:11,244 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,244 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:03:11,345 Message received: ID=571, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,345 Faulty in Brake System on CAN ID: 571
-2024-08-05 15:03:11,446 Message received: ID=620, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,446 Faulty in Brake System on CAN ID: 620
-2024-08-05 15:03:11,546 Message received: ID=521, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,546 Faulty in Brake System on CAN ID: 521
-2024-08-05 15:03:11,647 Message received: ID=668, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,647 Faulty in Brake System on CAN ID: 668
-2024-08-05 15:03:11,747 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,747 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:03:11,848 Message received: ID=722, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,848 Faulty in Brake System on CAN ID: 722
-2024-08-05 15:03:11,948 Message received: ID=741, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:11,948 Faulty in Brake System on CAN ID: 741
-2024-08-05 15:03:12,049 Message received: ID=575, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,050 Faulty in Brake System on CAN ID: 575
-2024-08-05 15:03:12,149 Message received: ID=764, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,150 Faulty in Brake System on CAN ID: 764
-2024-08-05 15:03:12,253 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,253 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:03:12,350 Message received: ID=559, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,351 Faulty in Brake System on CAN ID: 559
-2024-08-05 15:03:12,451 Message received: ID=710, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,452 Faulty in Brake System on CAN ID: 710
-2024-08-05 15:03:12,551 Message received: ID=709, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,552 Faulty in Brake System on CAN ID: 709
-2024-08-05 15:03:12,652 Message received: ID=615, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,652 Faulty in Brake System on CAN ID: 615
-2024-08-05 15:03:12,752 Message received: ID=597, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,753 Faulty in Brake System on CAN ID: 597
-2024-08-05 15:03:12,852 Message received: ID=731, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,853 Faulty in Brake System on CAN ID: 731
-2024-08-05 15:03:12,953 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:12,953 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:13,054 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,054 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:03:13,154 Message received: ID=595, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,155 Faulty in Brake System on CAN ID: 595
-2024-08-05 15:03:13,255 Message received: ID=570, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,255 Faulty in Brake System on CAN ID: 570
-2024-08-05 15:03:13,356 Message received: ID=595, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,356 Faulty in Brake System on CAN ID: 595
-2024-08-05 15:03:13,457 Message received: ID=627, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,457 Faulty in Brake System on CAN ID: 627
-2024-08-05 15:03:13,557 Message received: ID=625, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,557 Faulty in Brake System on CAN ID: 625
-2024-08-05 15:03:13,658 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,658 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:13,758 Message received: ID=543, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,758 Faulty in Brake System on CAN ID: 543
-2024-08-05 15:03:13,858 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,859 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:03:13,959 Message received: ID=657, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:13,960 Faulty in Brake System on CAN ID: 657
-2024-08-05 15:03:14,060 Message received: ID=607, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,060 Faulty in Brake System on CAN ID: 607
-2024-08-05 15:03:14,160 Message received: ID=535, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,160 Faulty in Brake System on CAN ID: 535
-2024-08-05 15:03:14,261 Message received: ID=657, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,261 Faulty in Brake System on CAN ID: 657
-2024-08-05 15:03:14,362 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,362 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:14,463 Message received: ID=764, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,464 Faulty in Brake System on CAN ID: 764
-2024-08-05 15:03:14,563 Message received: ID=611, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,563 Faulty in Brake System on CAN ID: 611
-2024-08-05 15:03:14,663 Message received: ID=756, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,664 Faulty in Brake System on CAN ID: 756
-2024-08-05 15:03:14,765 Message received: ID=518, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,766 Faulty in Brake System on CAN ID: 518
-2024-08-05 15:03:14,864 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,865 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:14,965 Message received: ID=627, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:14,966 Faulty in Brake System on CAN ID: 627
-2024-08-05 15:03:15,065 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,066 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:15,166 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,167 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:03:15,266 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,267 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:03:15,369 Message received: ID=645, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,370 Faulty in Brake System on CAN ID: 645
-2024-08-05 15:03:15,468 Message received: ID=633, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,469 Faulty in Brake System on CAN ID: 633
-2024-08-05 15:03:15,568 Message received: ID=515, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,569 Faulty in Brake System on CAN ID: 515
-2024-08-05 15:03:15,669 Message received: ID=569, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,671 Faulty in Brake System on CAN ID: 569
-2024-08-05 15:03:15,773 Message received: ID=558, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,774 Faulty in Brake System on CAN ID: 558
-2024-08-05 15:03:15,873 Message received: ID=560, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,874 Faulty in Brake System on CAN ID: 560
-2024-08-05 15:03:15,973 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:15,973 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:03:16,071 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,072 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:16,172 Message received: ID=587, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,172 Faulty in Brake System on CAN ID: 587
-2024-08-05 15:03:16,274 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,275 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:03:16,376 Message received: ID=607, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,378 Faulty in Brake System on CAN ID: 607
-2024-08-05 15:03:16,474 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,477 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:03:16,574 Message received: ID=572, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,575 Faulty in Brake System on CAN ID: 572
-2024-08-05 15:03:16,675 Message received: ID=526, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,676 Faulty in Brake System on CAN ID: 526
-2024-08-05 15:03:16,775 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,776 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:16,877 Message received: ID=605, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,878 Faulty in Brake System on CAN ID: 605
-2024-08-05 15:03:16,977 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:16,979 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:03:17,079 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,080 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:17,178 Message received: ID=614, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,179 Faulty in Brake System on CAN ID: 614
-2024-08-05 15:03:17,279 Message received: ID=675, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,281 Faulty in Brake System on CAN ID: 675
-2024-08-05 15:03:17,379 Message received: ID=611, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,381 Faulty in Brake System on CAN ID: 611
-2024-08-05 15:03:17,480 Message received: ID=689, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,481 Faulty in Brake System on CAN ID: 689
-2024-08-05 15:03:17,580 Message received: ID=608, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,581 Faulty in Brake System on CAN ID: 608
-2024-08-05 15:03:17,681 Message received: ID=623, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,682 Faulty in Brake System on CAN ID: 623
-2024-08-05 15:03:17,783 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,784 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:17,882 Message received: ID=650, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,883 Faulty in Brake System on CAN ID: 650
-2024-08-05 15:03:17,983 Message received: ID=661, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:17,985 Faulty in Brake System on CAN ID: 661
-2024-08-05 15:03:18,084 Message received: ID=533, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,085 Faulty in Brake System on CAN ID: 533
-2024-08-05 15:03:18,184 Message received: ID=547, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,185 Faulty in Brake System on CAN ID: 547
-2024-08-05 15:03:18,285 Message received: ID=762, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,285 Faulty in Brake System on CAN ID: 762
-2024-08-05 15:03:18,385 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,386 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:03:18,486 Message received: ID=637, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,487 Faulty in Brake System on CAN ID: 637
-2024-08-05 15:03:18,587 Message received: ID=695, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,588 Faulty in Brake System on CAN ID: 695
-2024-08-05 15:03:18,688 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,689 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:03:18,787 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,788 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:03:18,888 Message received: ID=755, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,889 Faulty in Brake System on CAN ID: 755
-2024-08-05 15:03:18,989 Message received: ID=710, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:18,990 Faulty in Brake System on CAN ID: 710
-2024-08-05 15:03:19,091 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,092 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:03:19,190 Message received: ID=561, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,190 Faulty in Brake System on CAN ID: 561
-2024-08-05 15:03:19,290 Message received: ID=530, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,291 Faulty in Brake System on CAN ID: 530
-2024-08-05 15:03:19,391 Message received: ID=702, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,391 Faulty in Brake System on CAN ID: 702
-2024-08-05 15:03:19,492 Message received: ID=575, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,492 Faulty in Brake System on CAN ID: 575
-2024-08-05 15:03:19,592 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,592 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:03:19,692 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,693 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:03:19,793 Message received: ID=637, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,794 Faulty in Brake System on CAN ID: 637
-2024-08-05 15:03:19,893 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:19,894 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:03:20,001 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,001 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:20,095 Message received: ID=665, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,096 Faulty in Brake System on CAN ID: 665
-2024-08-05 15:03:20,195 Message received: ID=673, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,195 Faulty in Brake System on CAN ID: 673
-2024-08-05 15:03:20,295 Message received: ID=730, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,296 Faulty in Brake System on CAN ID: 730
-2024-08-05 15:03:20,396 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,396 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:03:20,496 Message received: ID=748, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,496 Faulty in Brake System on CAN ID: 748
-2024-08-05 15:03:20,597 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,597 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:20,698 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,698 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:03:20,798 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,798 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:20,900 Message received: ID=723, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:20,901 Faulty in Brake System on CAN ID: 723
-2024-08-05 15:03:20,999 Message received: ID=723, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,000 Faulty in Brake System on CAN ID: 723
-2024-08-05 15:03:21,099 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,100 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:03:21,200 Message received: ID=580, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,201 Faulty in Brake System on CAN ID: 580
-2024-08-05 15:03:21,300 Message received: ID=541, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,301 Faulty in Brake System on CAN ID: 541
-2024-08-05 15:03:21,401 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,402 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:03:21,501 Message received: ID=757, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,502 Faulty in Brake System on CAN ID: 757
-2024-08-05 15:03:21,602 Message received: ID=658, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,602 Faulty in Brake System on CAN ID: 658
-2024-08-05 15:03:21,702 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,704 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:03:21,803 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,803 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:21,904 Message received: ID=708, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:21,904 Faulty in Brake System on CAN ID: 708
-2024-08-05 15:03:22,004 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,004 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:22,104 Message received: ID=591, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,105 Faulty in Brake System on CAN ID: 591
-2024-08-05 15:03:22,205 Message received: ID=694, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,205 Faulty in Brake System on CAN ID: 694
-2024-08-05 15:03:22,305 Message received: ID=623, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,306 Faulty in Brake System on CAN ID: 623
-2024-08-05 15:03:22,406 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,406 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:03:22,506 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,507 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:03:22,606 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,607 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:03:22,707 Message received: ID=741, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,707 Faulty in Brake System on CAN ID: 741
-2024-08-05 15:03:22,808 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,808 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:03:22,908 Message received: ID=556, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:22,910 Faulty in Brake System on CAN ID: 556
-2024-08-05 15:03:23,009 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,010 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:03:23,110 Message received: ID=751, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,111 Faulty in Brake System on CAN ID: 751
-2024-08-05 15:03:23,210 Message received: ID=698, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,210 Faulty in Brake System on CAN ID: 698
-2024-08-05 15:03:23,310 Message received: ID=716, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,310 Faulty in Brake System on CAN ID: 716
-2024-08-05 15:03:23,411 Message received: ID=707, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,411 Faulty in Brake System on CAN ID: 707
-2024-08-05 15:03:23,512 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,513 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:23,681 Message received: ID=758, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,682 Faulty in Brake System on CAN ID: 758
-2024-08-05 15:03:23,712 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,713 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:23,813 Message received: ID=583, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,813 Faulty in Brake System on CAN ID: 583
-2024-08-05 15:03:23,913 Message received: ID=744, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:23,917 Faulty in Brake System on CAN ID: 744
-2024-08-05 15:03:24,017 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,017 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:24,114 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,115 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:03:24,214 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,215 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:24,315 Message received: ID=744, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,316 Faulty in Brake System on CAN ID: 744
-2024-08-05 15:03:24,416 Message received: ID=570, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,416 Faulty in Brake System on CAN ID: 570
-2024-08-05 15:03:24,516 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,517 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:03:24,618 Message received: ID=551, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,619 Faulty in Brake System on CAN ID: 551
-2024-08-05 15:03:24,719 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,722 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:24,820 Message received: ID=752, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,821 Faulty in Brake System on CAN ID: 752
-2024-08-05 15:03:24,918 Message received: ID=726, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:24,919 Faulty in Brake System on CAN ID: 726
-2024-08-05 15:03:25,019 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,020 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:25,123 Message received: ID=519, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,124 Faulty in Brake System on CAN ID: 519
-2024-08-05 15:03:25,220 Message received: ID=734, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,223 Faulty in Brake System on CAN ID: 734
-2024-08-05 15:03:25,321 Message received: ID=665, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,322 Faulty in Brake System on CAN ID: 665
-2024-08-05 15:03:25,421 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,422 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:03:25,522 Message received: ID=604, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,523 Faulty in Brake System on CAN ID: 604
-2024-08-05 15:03:25,622 Message received: ID=536, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,623 Faulty in Brake System on CAN ID: 536
-2024-08-05 15:03:25,722 Message received: ID=714, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,722 Faulty in Brake System on CAN ID: 714
-2024-08-05 15:03:25,825 Message received: ID=663, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,826 Faulty in Brake System on CAN ID: 663
-2024-08-05 15:03:25,928 Message received: ID=673, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:25,929 Faulty in Brake System on CAN ID: 673
-2024-08-05 15:03:26,024 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,025 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:03:26,129 Message received: ID=625, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,130 Faulty in Brake System on CAN ID: 625
-2024-08-05 15:03:26,225 Message received: ID=540, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,226 Faulty in Brake System on CAN ID: 540
-2024-08-05 15:03:26,326 Message received: ID=667, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,326 Faulty in Brake System on CAN ID: 667
-2024-08-05 15:03:26,427 Message received: ID=663, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,431 Faulty in Brake System on CAN ID: 663
-2024-08-05 15:03:26,532 Message received: ID=546, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,532 Faulty in Brake System on CAN ID: 546
-2024-08-05 15:03:26,629 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,630 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:03:26,730 Message received: ID=664, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,731 Faulty in Brake System on CAN ID: 664
-2024-08-05 15:03:26,832 Message received: ID=722, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,833 Faulty in Brake System on CAN ID: 722
-2024-08-05 15:03:26,931 Message received: ID=683, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:26,932 Faulty in Brake System on CAN ID: 683
-2024-08-05 15:03:27,031 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,032 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:27,132 Message received: ID=625, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,133 Faulty in Brake System on CAN ID: 625
-2024-08-05 15:03:27,237 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,238 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:03:27,334 Message received: ID=639, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,334 Faulty in Brake System on CAN ID: 639
-2024-08-05 15:03:27,434 Message received: ID=567, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,435 Faulty in Brake System on CAN ID: 567
-2024-08-05 15:03:27,535 Message received: ID=532, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,536 Faulty in Brake System on CAN ID: 532
-2024-08-05 15:03:27,636 Message received: ID=592, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,637 Faulty in Brake System on CAN ID: 592
-2024-08-05 15:03:27,739 Message received: ID=729, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,740 Faulty in Brake System on CAN ID: 729
-2024-08-05 15:03:27,838 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,838 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:03:27,939 Message received: ID=712, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:27,940 Faulty in Brake System on CAN ID: 712
-2024-08-05 15:03:28,038 Message received: ID=703, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,038 Faulty in Brake System on CAN ID: 703
-2024-08-05 15:03:28,139 Message received: ID=610, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,139 Faulty in Brake System on CAN ID: 610
-2024-08-05 15:03:28,242 Message received: ID=686, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,243 Faulty in Brake System on CAN ID: 686
-2024-08-05 15:03:28,341 Message received: ID=674, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,342 Faulty in Brake System on CAN ID: 674
-2024-08-05 15:03:28,441 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,442 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:03:28,542 Message received: ID=614, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,544 Faulty in Brake System on CAN ID: 614
-2024-08-05 15:03:28,644 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,645 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:03:28,746 Message received: ID=645, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,746 Faulty in Brake System on CAN ID: 645
-2024-08-05 15:03:28,846 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,847 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:03:28,948 Message received: ID=529, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:28,949 Faulty in Brake System on CAN ID: 529
-2024-08-05 15:03:29,049 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,051 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:03:29,148 Message received: ID=764, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,149 Faulty in Brake System on CAN ID: 764
-2024-08-05 15:03:29,249 Message received: ID=525, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,250 Faulty in Brake System on CAN ID: 525
-2024-08-05 15:03:29,350 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,351 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:03:29,450 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,451 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:29,552 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,555 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:03:29,653 Message received: ID=598, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,653 Faulty in Brake System on CAN ID: 598
-2024-08-05 15:03:29,752 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,752 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:03:29,853 Message received: ID=572, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,854 Faulty in Brake System on CAN ID: 572
-2024-08-05 15:03:29,955 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:29,956 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:03:30,057 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,058 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:03:30,156 Message received: ID=573, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,157 Faulty in Brake System on CAN ID: 573
-2024-08-05 15:03:30,258 Message received: ID=660, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,264 Faulty in Brake System on CAN ID: 660
-2024-08-05 15:03:30,357 Message received: ID=681, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,358 Faulty in Brake System on CAN ID: 681
-2024-08-05 15:03:30,458 Message received: ID=747, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,459 Faulty in Brake System on CAN ID: 747
-2024-08-05 15:03:30,558 Message received: ID=756, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,559 Faulty in Brake System on CAN ID: 756
-2024-08-05 15:03:30,659 Message received: ID=665, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,660 Faulty in Brake System on CAN ID: 665
-2024-08-05 15:03:30,760 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,761 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:03:30,862 Message received: ID=539, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,862 Faulty in Brake System on CAN ID: 539
-2024-08-05 15:03:30,961 Message received: ID=727, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:30,961 Faulty in Brake System on CAN ID: 727
-2024-08-05 15:03:31,062 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,063 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:03:31,162 Message received: ID=634, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,163 Faulty in Brake System on CAN ID: 634
-2024-08-05 15:03:31,263 Message received: ID=653, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,264 Faulty in Brake System on CAN ID: 653
-2024-08-05 15:03:31,363 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,364 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:03:31,464 Message received: ID=650, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,465 Faulty in Brake System on CAN ID: 650
-2024-08-05 15:03:31,566 Message received: ID=568, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,568 Faulty in Brake System on CAN ID: 568
-2024-08-05 15:03:31,665 Message received: ID=647, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,666 Faulty in Brake System on CAN ID: 647
-2024-08-05 15:03:31,766 Message received: ID=745, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,767 Faulty in Brake System on CAN ID: 745
-2024-08-05 15:03:31,869 Message received: ID=541, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,870 Faulty in Brake System on CAN ID: 541
-2024-08-05 15:03:31,968 Message received: ID=548, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:31,968 Faulty in Brake System on CAN ID: 548
-2024-08-05 15:03:32,069 Message received: ID=590, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,070 Faulty in Brake System on CAN ID: 590
-2024-08-05 15:03:32,169 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,169 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:03:32,271 Message received: ID=591, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,272 Faulty in Brake System on CAN ID: 591
-2024-08-05 15:03:32,371 Message received: ID=737, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,371 Faulty in Brake System on CAN ID: 737
-2024-08-05 15:03:32,473 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,474 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:03:32,572 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,573 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:32,672 Message received: ID=713, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,674 Faulty in Brake System on CAN ID: 713
-2024-08-05 15:03:32,773 Message received: ID=598, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,774 Faulty in Brake System on CAN ID: 598
-2024-08-05 15:03:32,876 Message received: ID=643, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,879 Faulty in Brake System on CAN ID: 643
-2024-08-05 15:03:32,977 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:32,978 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:03:33,075 Message received: ID=690, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,076 Faulty in Brake System on CAN ID: 690
-2024-08-05 15:03:33,176 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,178 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:03:33,278 Message received: ID=742, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,279 Faulty in Brake System on CAN ID: 742
-2024-08-05 15:03:33,378 Message received: ID=603, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,379 Faulty in Brake System on CAN ID: 603
-2024-08-05 15:03:33,479 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,479 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:03:33,579 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,581 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:03:33,680 Message received: ID=629, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,681 Faulty in Brake System on CAN ID: 629
-2024-08-05 15:03:33,781 Message received: ID=704, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,781 Faulty in Brake System on CAN ID: 704
-2024-08-05 15:03:33,881 Message received: ID=715, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,882 Faulty in Brake System on CAN ID: 715
-2024-08-05 15:03:33,998 Message received: ID=665, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:33,998 Faulty in Brake System on CAN ID: 665
-2024-08-05 15:03:34,085 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,085 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:03:34,184 Message received: ID=535, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,186 Faulty in Brake System on CAN ID: 535
-2024-08-05 15:03:34,284 Message received: ID=709, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,284 Faulty in Brake System on CAN ID: 709
-2024-08-05 15:03:34,385 Message received: ID=690, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,387 Faulty in Brake System on CAN ID: 690
-2024-08-05 15:03:34,485 Message received: ID=530, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,485 Faulty in Brake System on CAN ID: 530
-2024-08-05 15:03:34,587 Message received: ID=628, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,588 Faulty in Brake System on CAN ID: 628
-2024-08-05 15:03:34,686 Message received: ID=701, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,687 Faulty in Brake System on CAN ID: 701
-2024-08-05 15:03:34,787 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,787 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:03:34,888 Message received: ID=710, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,891 Faulty in Brake System on CAN ID: 710
-2024-08-05 15:03:34,988 Message received: ID=637, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:34,988 Faulty in Brake System on CAN ID: 637
-2024-08-05 15:03:35,089 Message received: ID=574, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,090 Faulty in Brake System on CAN ID: 574
-2024-08-05 15:03:35,191 Message received: ID=703, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,191 Faulty in Brake System on CAN ID: 703
-2024-08-05 15:03:35,290 Message received: ID=656, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,291 Faulty in Brake System on CAN ID: 656
-2024-08-05 15:03:35,391 Message received: ID=688, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,391 Faulty in Brake System on CAN ID: 688
-2024-08-05 15:03:35,492 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,493 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:35,593 Message received: ID=663, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,593 Faulty in Brake System on CAN ID: 663
-2024-08-05 15:03:35,693 Message received: ID=616, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,693 Faulty in Brake System on CAN ID: 616
-2024-08-05 15:03:35,793 Message received: ID=754, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,797 Faulty in Brake System on CAN ID: 754
-2024-08-05 15:03:35,893 Message received: ID=643, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,894 Faulty in Brake System on CAN ID: 643
-2024-08-05 15:03:35,994 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:35,996 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:03:36,096 Message received: ID=657, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,096 Faulty in Brake System on CAN ID: 657
-2024-08-05 15:03:36,195 Message received: ID=592, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,196 Faulty in Brake System on CAN ID: 592
-2024-08-05 15:03:36,296 Message received: ID=597, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,298 Faulty in Brake System on CAN ID: 597
-2024-08-05 15:03:36,396 Message received: ID=740, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,396 Faulty in Brake System on CAN ID: 740
-2024-08-05 15:03:36,497 Message received: ID=735, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,497 Faulty in Brake System on CAN ID: 735
-2024-08-05 15:03:36,599 Message received: ID=629, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,599 Faulty in Brake System on CAN ID: 629
-2024-08-05 15:03:36,700 Message received: ID=649, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,701 Faulty in Brake System on CAN ID: 649
-2024-08-05 15:03:36,801 Message received: ID=540, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,801 Faulty in Brake System on CAN ID: 540
-2024-08-05 15:03:36,901 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:36,902 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:03:37,001 Message received: ID=644, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,002 Faulty in Brake System on CAN ID: 644
-2024-08-05 15:03:37,102 Message received: ID=579, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,103 Faulty in Brake System on CAN ID: 579
-2024-08-05 15:03:37,203 Message received: ID=743, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,203 Faulty in Brake System on CAN ID: 743
-2024-08-05 15:03:37,303 Message received: ID=715, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,305 Faulty in Brake System on CAN ID: 715
-2024-08-05 15:03:37,404 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,405 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:03:37,504 Message received: ID=556, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,505 Faulty in Brake System on CAN ID: 556
-2024-08-05 15:03:37,605 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,605 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:03:37,705 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,706 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:03:37,806 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,807 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:03:37,906 Message received: ID=721, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:37,907 Faulty in Brake System on CAN ID: 721
-2024-08-05 15:03:38,007 Message received: ID=604, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,008 Faulty in Brake System on CAN ID: 604
-2024-08-05 15:03:38,110 Message received: ID=696, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,111 Faulty in Brake System on CAN ID: 696
-2024-08-05 15:03:38,208 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,209 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:03:38,308 Message received: ID=585, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,309 Faulty in Brake System on CAN ID: 585
-2024-08-05 15:03:38,409 Message received: ID=699, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,414 Faulty in Brake System on CAN ID: 699
-2024-08-05 15:03:38,509 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,510 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:38,610 Message received: ID=646, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,615 Faulty in Brake System on CAN ID: 646
-2024-08-05 15:03:38,711 Message received: ID=620, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,713 Faulty in Brake System on CAN ID: 620
-2024-08-05 15:03:38,811 Message received: ID=699, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,813 Faulty in Brake System on CAN ID: 699
-2024-08-05 15:03:38,912 Message received: ID=612, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:38,912 Faulty in Brake System on CAN ID: 612
-2024-08-05 15:03:39,013 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,014 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:39,113 Message received: ID=698, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,113 Faulty in Brake System on CAN ID: 698
-2024-08-05 15:03:39,214 Message received: ID=550, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,215 Faulty in Brake System on CAN ID: 550
-2024-08-05 15:03:39,314 Message received: ID=631, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,315 Faulty in Brake System on CAN ID: 631
-2024-08-05 15:03:39,418 Message received: ID=583, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,422 Faulty in Brake System on CAN ID: 583
-2024-08-05 15:03:39,515 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,516 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:03:39,615 Message received: ID=744, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,616 Faulty in Brake System on CAN ID: 744
-2024-08-05 15:03:39,716 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,716 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:03:39,816 Message received: ID=573, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,817 Faulty in Brake System on CAN ID: 573
-2024-08-05 15:03:39,917 Message received: ID=570, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:39,918 Faulty in Brake System on CAN ID: 570
-2024-08-05 15:03:40,017 Message received: ID=660, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,021 Faulty in Brake System on CAN ID: 660
-2024-08-05 15:03:40,118 Message received: ID=638, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,121 Faulty in Brake System on CAN ID: 638
-2024-08-05 15:03:40,219 Message received: ID=550, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,219 Faulty in Brake System on CAN ID: 550
-2024-08-05 15:03:40,319 Message received: ID=635, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,320 Faulty in Brake System on CAN ID: 635
-2024-08-05 15:03:40,419 Message received: ID=670, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,420 Faulty in Brake System on CAN ID: 670
-2024-08-05 15:03:40,520 Message received: ID=674, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,520 Faulty in Brake System on CAN ID: 674
-2024-08-05 15:03:40,621 Message received: ID=550, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,623 Faulty in Brake System on CAN ID: 550
-2024-08-05 15:03:40,722 Message received: ID=707, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,722 Faulty in Brake System on CAN ID: 707
-2024-08-05 15:03:40,823 Message received: ID=671, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,823 Faulty in Brake System on CAN ID: 671
-2024-08-05 15:03:40,923 Message received: ID=646, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:40,924 Faulty in Brake System on CAN ID: 646
-2024-08-05 15:03:41,024 Message received: ID=622, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,027 Faulty in Brake System on CAN ID: 622
-2024-08-05 15:03:41,124 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,128 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:03:41,225 Message received: ID=633, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,226 Faulty in Brake System on CAN ID: 633
-2024-08-05 15:03:41,326 Message received: ID=612, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,327 Faulty in Brake System on CAN ID: 612
-2024-08-05 15:03:41,426 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,426 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:03:41,527 Message received: ID=607, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,531 Faulty in Brake System on CAN ID: 607
-2024-08-05 15:03:41,629 Message received: ID=622, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,630 Faulty in Brake System on CAN ID: 622
-2024-08-05 15:03:41,729 Message received: ID=628, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,730 Faulty in Brake System on CAN ID: 628
-2024-08-05 15:03:41,830 Message received: ID=565, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,830 Faulty in Brake System on CAN ID: 565
-2024-08-05 15:03:41,931 Message received: ID=671, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:41,931 Faulty in Brake System on CAN ID: 671
-2024-08-05 15:03:42,032 Message received: ID=559, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,033 Faulty in Brake System on CAN ID: 559
-2024-08-05 15:03:42,132 Message received: ID=750, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,133 Faulty in Brake System on CAN ID: 750
-2024-08-05 15:03:42,233 Message received: ID=632, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,233 Faulty in Brake System on CAN ID: 632
-2024-08-05 15:03:42,334 Message received: ID=764, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,334 Faulty in Brake System on CAN ID: 764
-2024-08-05 15:03:42,435 Message received: ID=723, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,436 Faulty in Brake System on CAN ID: 723
-2024-08-05 15:03:42,537 Message received: ID=648, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,537 Faulty in Brake System on CAN ID: 648
-2024-08-05 15:03:42,636 Message received: ID=572, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,636 Faulty in Brake System on CAN ID: 572
-2024-08-05 15:03:42,736 Message received: ID=624, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,737 Faulty in Brake System on CAN ID: 624
-2024-08-05 15:03:42,837 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,840 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:03:42,938 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:42,940 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:43,039 Message received: ID=694, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,039 Faulty in Brake System on CAN ID: 694
-2024-08-05 15:03:43,140 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,142 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:03:43,240 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,241 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:03:43,341 Message received: ID=616, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,342 Faulty in Brake System on CAN ID: 616
-2024-08-05 15:03:43,442 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,444 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:43,542 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,543 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:43,643 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,644 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:03:43,744 Message received: ID=729, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,744 Faulty in Brake System on CAN ID: 729
-2024-08-05 15:03:43,845 Message received: ID=635, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,845 Faulty in Brake System on CAN ID: 635
-2024-08-05 15:03:43,946 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:43,946 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:03:44,046 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,046 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:03:44,147 Message received: ID=746, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,147 Faulty in Brake System on CAN ID: 746
-2024-08-05 15:03:44,247 Message received: ID=663, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,248 Faulty in Brake System on CAN ID: 663
-2024-08-05 15:03:44,348 Message received: ID=673, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,348 Faulty in Brake System on CAN ID: 673
-2024-08-05 15:03:44,448 Message received: ID=763, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,449 Faulty in Brake System on CAN ID: 763
-2024-08-05 15:03:44,551 Message received: ID=518, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,552 Faulty in Brake System on CAN ID: 518
-2024-08-05 15:03:44,650 Message received: ID=736, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,650 Faulty in Brake System on CAN ID: 736
-2024-08-05 15:03:44,750 Message received: ID=571, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,751 Faulty in Brake System on CAN ID: 571
-2024-08-05 15:03:44,851 Message received: ID=683, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,852 Faulty in Brake System on CAN ID: 683
-2024-08-05 15:03:44,952 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:44,953 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:03:45,056 Message received: ID=589, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,057 Faulty in Brake System on CAN ID: 589
-2024-08-05 15:03:45,153 Message received: ID=729, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,154 Faulty in Brake System on CAN ID: 729
-2024-08-05 15:03:45,254 Message received: ID=670, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,254 Faulty in Brake System on CAN ID: 670
-2024-08-05 15:03:45,355 Message received: ID=735, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,355 Faulty in Brake System on CAN ID: 735
-2024-08-05 15:03:45,455 Message received: ID=709, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,455 Faulty in Brake System on CAN ID: 709
-2024-08-05 15:03:45,556 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,556 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:45,660 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,661 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:03:45,756 Message received: ID=670, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,757 Faulty in Brake System on CAN ID: 670
-2024-08-05 15:03:45,857 Message received: ID=517, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,858 Faulty in Brake System on CAN ID: 517
-2024-08-05 15:03:45,958 Message received: ID=706, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:45,958 Faulty in Brake System on CAN ID: 706
-2024-08-05 15:03:46,058 Message received: ID=604, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,059 Faulty in Brake System on CAN ID: 604
-2024-08-05 15:03:46,159 Message received: ID=594, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,160 Faulty in Brake System on CAN ID: 594
-2024-08-05 15:03:46,260 Message received: ID=678, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,260 Faulty in Brake System on CAN ID: 678
-2024-08-05 15:03:46,364 Message received: ID=685, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,365 Faulty in Brake System on CAN ID: 685
-2024-08-05 15:03:46,465 Message received: ID=523, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,465 Faulty in Brake System on CAN ID: 523
-2024-08-05 15:03:46,565 Message received: ID=755, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,566 Faulty in Brake System on CAN ID: 755
-2024-08-05 15:03:46,666 Message received: ID=530, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,666 Faulty in Brake System on CAN ID: 530
-2024-08-05 15:03:46,766 Message received: ID=520, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,767 Faulty in Brake System on CAN ID: 520
-2024-08-05 15:03:46,867 Message received: ID=691, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,867 Faulty in Brake System on CAN ID: 691
-2024-08-05 15:03:46,968 Message received: ID=660, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:46,968 Faulty in Brake System on CAN ID: 660
-2024-08-05 15:03:47,069 Message received: ID=763, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,069 Faulty in Brake System on CAN ID: 763
-2024-08-05 15:03:47,169 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,170 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:03:47,270 Message received: ID=624, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,271 Faulty in Brake System on CAN ID: 624
-2024-08-05 15:03:47,371 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,371 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:03:47,471 Message received: ID=667, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,472 Faulty in Brake System on CAN ID: 667
-2024-08-05 15:03:47,572 Message received: ID=717, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,572 Faulty in Brake System on CAN ID: 717
-2024-08-05 15:03:47,672 Message received: ID=705, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,673 Faulty in Brake System on CAN ID: 705
-2024-08-05 15:03:47,773 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,773 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:03:47,873 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,873 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:03:47,974 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:47,976 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:03:48,075 Message received: ID=595, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,075 Faulty in Brake System on CAN ID: 595
-2024-08-05 15:03:48,175 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,175 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:03:48,275 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,275 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:03:48,375 Message received: ID=650, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,376 Faulty in Brake System on CAN ID: 650
-2024-08-05 15:03:48,476 Message received: ID=703, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,478 Faulty in Brake System on CAN ID: 703
-2024-08-05 15:03:48,577 Message received: ID=615, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,577 Faulty in Brake System on CAN ID: 615
-2024-08-05 15:03:48,677 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,678 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:48,778 Message received: ID=641, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,778 Faulty in Brake System on CAN ID: 641
-2024-08-05 15:03:48,878 Message received: ID=737, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,878 Faulty in Brake System on CAN ID: 737
-2024-08-05 15:03:48,978 Message received: ID=632, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:48,979 Faulty in Brake System on CAN ID: 632
-2024-08-05 15:03:49,079 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,080 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:03:49,180 Message received: ID=600, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,180 Faulty in Brake System on CAN ID: 600
-2024-08-05 15:03:49,280 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,280 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:03:49,381 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,381 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:03:49,481 Message received: ID=569, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,481 Faulty in Brake System on CAN ID: 569
-2024-08-05 15:03:49,582 Message received: ID=589, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,582 Faulty in Brake System on CAN ID: 589
-2024-08-05 15:03:49,682 Message received: ID=546, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,683 Faulty in Brake System on CAN ID: 546
-2024-08-05 15:03:49,783 Message received: ID=672, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,784 Faulty in Brake System on CAN ID: 672
-2024-08-05 15:03:49,883 Message received: ID=609, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,883 Faulty in Brake System on CAN ID: 609
-2024-08-05 15:03:49,985 Message received: ID=698, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:49,986 Faulty in Brake System on CAN ID: 698
-2024-08-05 15:03:50,085 Message received: ID=642, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,086 Faulty in Brake System on CAN ID: 642
-2024-08-05 15:03:50,185 Message received: ID=756, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,185 Faulty in Brake System on CAN ID: 756
-2024-08-05 15:03:50,285 Message received: ID=628, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,286 Faulty in Brake System on CAN ID: 628
-2024-08-05 15:03:50,386 Message received: ID=554, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,386 Faulty in Brake System on CAN ID: 554
-2024-08-05 15:03:50,486 Message received: ID=562, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,486 Faulty in Brake System on CAN ID: 562
-2024-08-05 15:03:50,587 Message received: ID=722, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,588 Faulty in Brake System on CAN ID: 722
-2024-08-05 15:03:50,687 Message received: ID=574, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,688 Faulty in Brake System on CAN ID: 574
-2024-08-05 15:03:50,788 Message received: ID=600, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,788 Faulty in Brake System on CAN ID: 600
-2024-08-05 15:03:50,889 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,889 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:03:50,993 Message received: ID=625, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:50,993 Faulty in Brake System on CAN ID: 625
-2024-08-05 15:03:51,093 Message received: ID=664, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,093 Faulty in Brake System on CAN ID: 664
-2024-08-05 15:03:51,193 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,193 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:03:51,291 Message received: ID=689, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,291 Faulty in Brake System on CAN ID: 689
-2024-08-05 15:03:51,392 Message received: ID=557, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,398 Faulty in Brake System on CAN ID: 557
-2024-08-05 15:03:51,492 Message received: ID=672, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,493 Faulty in Brake System on CAN ID: 672
-2024-08-05 15:03:51,593 Message received: ID=760, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,596 Faulty in Brake System on CAN ID: 760
-2024-08-05 15:03:51,693 Message received: ID=642, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,693 Faulty in Brake System on CAN ID: 642
-2024-08-05 15:03:51,793 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,794 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:03:51,894 Message received: ID=655, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,895 Faulty in Brake System on CAN ID: 655
-2024-08-05 15:03:51,994 Message received: ID=609, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:51,995 Faulty in Brake System on CAN ID: 609
-2024-08-05 15:03:52,095 Message received: ID=712, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,095 Faulty in Brake System on CAN ID: 712
-2024-08-05 15:03:52,196 Message received: ID=547, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,197 Faulty in Brake System on CAN ID: 547
-2024-08-05 15:03:52,297 Message received: ID=592, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,297 Faulty in Brake System on CAN ID: 592
-2024-08-05 15:03:52,397 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,398 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:03:52,497 Message received: ID=558, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,498 Faulty in Brake System on CAN ID: 558
-2024-08-05 15:03:52,598 Message received: ID=628, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,598 Faulty in Brake System on CAN ID: 628
-2024-08-05 15:03:52,698 Message received: ID=643, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,699 Faulty in Brake System on CAN ID: 643
-2024-08-05 15:03:52,799 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,799 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:03:52,901 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:52,903 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:03:53,000 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,001 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:03:53,101 Message received: ID=660, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,103 Faulty in Brake System on CAN ID: 660
-2024-08-05 15:03:53,201 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,202 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:03:53,302 Message received: ID=714, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,302 Faulty in Brake System on CAN ID: 714
-2024-08-05 15:03:53,402 Message received: ID=567, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,406 Faulty in Brake System on CAN ID: 567
-2024-08-05 15:03:53,504 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,504 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:03:53,604 Message received: ID=621, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,605 Faulty in Brake System on CAN ID: 621
-2024-08-05 15:03:53,704 Message received: ID=714, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,704 Faulty in Brake System on CAN ID: 714
-2024-08-05 15:03:53,809 Message received: ID=716, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,809 Faulty in Brake System on CAN ID: 716
-2024-08-05 15:03:53,905 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:53,906 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:54,007 Message received: ID=545, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,009 Faulty in Brake System on CAN ID: 545
-2024-08-05 15:03:54,109 Message received: ID=630, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,110 Faulty in Brake System on CAN ID: 630
-2024-08-05 15:03:54,207 Message received: ID=766, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,207 Faulty in Brake System on CAN ID: 766
-2024-08-05 15:03:54,307 Message received: ID=601, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,308 Faulty in Brake System on CAN ID: 601
-2024-08-05 15:03:54,407 Message received: ID=521, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,408 Faulty in Brake System on CAN ID: 521
-2024-08-05 15:03:54,508 Message received: ID=651, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,509 Faulty in Brake System on CAN ID: 651
-2024-08-05 15:03:54,608 Message received: ID=727, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,609 Faulty in Brake System on CAN ID: 727
-2024-08-05 15:03:54,709 Message received: ID=604, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,710 Faulty in Brake System on CAN ID: 604
-2024-08-05 15:03:54,810 Message received: ID=694, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,810 Faulty in Brake System on CAN ID: 694
-2024-08-05 15:03:54,910 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:54,911 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:03:55,010 Message received: ID=628, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,011 Faulty in Brake System on CAN ID: 628
-2024-08-05 15:03:55,111 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,111 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:03:55,212 Message received: ID=743, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,213 Faulty in Brake System on CAN ID: 743
-2024-08-05 15:03:55,312 Message received: ID=568, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,313 Faulty in Brake System on CAN ID: 568
-2024-08-05 15:03:55,413 Message received: ID=758, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,414 Faulty in Brake System on CAN ID: 758
-2024-08-05 15:03:55,515 Message received: ID=666, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,515 Faulty in Brake System on CAN ID: 666
-2024-08-05 15:03:55,613 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,614 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:03:55,714 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,715 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:03:55,814 Message received: ID=561, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,815 Faulty in Brake System on CAN ID: 561
-2024-08-05 15:03:55,915 Message received: ID=515, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:55,916 Faulty in Brake System on CAN ID: 515
-2024-08-05 15:03:56,016 Message received: ID=691, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,016 Faulty in Brake System on CAN ID: 691
-2024-08-05 15:03:56,116 Message received: ID=530, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,117 Faulty in Brake System on CAN ID: 530
-2024-08-05 15:03:56,216 Message received: ID=717, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,217 Faulty in Brake System on CAN ID: 717
-2024-08-05 15:03:56,317 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,317 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:03:56,417 Message received: ID=616, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,418 Faulty in Brake System on CAN ID: 616
-2024-08-05 15:03:56,518 Message received: ID=714, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,519 Faulty in Brake System on CAN ID: 714
-2024-08-05 15:03:56,619 Message received: ID=672, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,619 Faulty in Brake System on CAN ID: 672
-2024-08-05 15:03:56,720 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,721 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:03:56,819 Message received: ID=548, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,820 Faulty in Brake System on CAN ID: 548
-2024-08-05 15:03:56,921 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:56,922 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:03:57,021 Message received: ID=683, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,022 Faulty in Brake System on CAN ID: 683
-2024-08-05 15:03:57,122 Message received: ID=635, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,123 Faulty in Brake System on CAN ID: 635
-2024-08-05 15:03:57,223 Message received: ID=743, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,223 Faulty in Brake System on CAN ID: 743
-2024-08-05 15:03:57,323 Message received: ID=639, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,324 Faulty in Brake System on CAN ID: 639
-2024-08-05 15:03:57,424 Message received: ID=677, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,425 Faulty in Brake System on CAN ID: 677
-2024-08-05 15:03:57,524 Message received: ID=719, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,525 Faulty in Brake System on CAN ID: 719
-2024-08-05 15:03:57,625 Message received: ID=563, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,626 Faulty in Brake System on CAN ID: 563
-2024-08-05 15:03:57,726 Message received: ID=662, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,726 Faulty in Brake System on CAN ID: 662
-2024-08-05 15:03:57,827 Message received: ID=627, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,828 Faulty in Brake System on CAN ID: 627
-2024-08-05 15:03:57,928 Message received: ID=710, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:57,928 Faulty in Brake System on CAN ID: 710
-2024-08-05 15:03:58,028 Message received: ID=615, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,029 Faulty in Brake System on CAN ID: 615
-2024-08-05 15:03:58,129 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,129 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:03:58,229 Message received: ID=735, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,229 Faulty in Brake System on CAN ID: 735
-2024-08-05 15:03:58,330 Message received: ID=627, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,330 Faulty in Brake System on CAN ID: 627
-2024-08-05 15:03:58,430 Message received: ID=717, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,431 Faulty in Brake System on CAN ID: 717
-2024-08-05 15:03:58,531 Message received: ID=515, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,532 Faulty in Brake System on CAN ID: 515
-2024-08-05 15:03:58,631 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,632 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:03:58,732 Message received: ID=590, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,733 Faulty in Brake System on CAN ID: 590
-2024-08-05 15:03:58,833 Message received: ID=551, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,833 Faulty in Brake System on CAN ID: 551
-2024-08-05 15:03:58,933 Message received: ID=691, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:58,934 Faulty in Brake System on CAN ID: 691
-2024-08-05 15:03:59,035 Message received: ID=690, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,036 Faulty in Brake System on CAN ID: 690
-2024-08-05 15:03:59,134 Message received: ID=619, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,134 Faulty in Brake System on CAN ID: 619
-2024-08-05 15:03:59,235 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,236 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:03:59,337 Message received: ID=688, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,338 Faulty in Brake System on CAN ID: 688
-2024-08-05 15:03:59,436 Message received: ID=597, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,436 Faulty in Brake System on CAN ID: 597
-2024-08-05 15:03:59,536 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,537 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:03:59,636 Message received: ID=547, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,637 Faulty in Brake System on CAN ID: 547
-2024-08-05 15:03:59,737 Message received: ID=652, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,738 Faulty in Brake System on CAN ID: 652
-2024-08-05 15:03:59,841 Message received: ID=537, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,841 Faulty in Brake System on CAN ID: 537
-2024-08-05 15:03:59,938 Message received: ID=662, Data=bytearray(b'\x01\x02')
-2024-08-05 15:03:59,939 Faulty in Brake System on CAN ID: 662
-2024-08-05 15:04:00,039 Message received: ID=524, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,039 Faulty in Brake System on CAN ID: 524
-2024-08-05 15:04:00,140 Message received: ID=715, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,141 Faulty in Brake System on CAN ID: 715
-2024-08-05 15:04:00,240 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,241 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:04:00,340 Message received: ID=653, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,341 Faulty in Brake System on CAN ID: 653
-2024-08-05 15:04:00,442 Message received: ID=711, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,443 Faulty in Brake System on CAN ID: 711
-2024-08-05 15:04:00,541 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,542 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:04:00,641 Message received: ID=513, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,642 Faulty in Brake System on CAN ID: 513
-2024-08-05 15:04:00,742 Message received: ID=678, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,742 Faulty in Brake System on CAN ID: 678
-2024-08-05 15:04:00,842 Message received: ID=544, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,843 Faulty in Brake System on CAN ID: 544
-2024-08-05 15:04:00,943 Message received: ID=739, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:00,944 Faulty in Brake System on CAN ID: 739
-2024-08-05 15:04:01,044 Message received: ID=632, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,045 Faulty in Brake System on CAN ID: 632
-2024-08-05 15:04:01,145 Message received: ID=640, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,145 Faulty in Brake System on CAN ID: 640
-2024-08-05 15:04:01,245 Message received: ID=708, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,246 Faulty in Brake System on CAN ID: 708
-2024-08-05 15:04:01,345 Message received: ID=634, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,346 Faulty in Brake System on CAN ID: 634
-2024-08-05 15:04:01,447 Message received: ID=671, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,448 Faulty in Brake System on CAN ID: 671
-2024-08-05 15:04:01,548 Message received: ID=723, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,548 Faulty in Brake System on CAN ID: 723
-2024-08-05 15:04:01,647 Message received: ID=675, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,648 Faulty in Brake System on CAN ID: 675
-2024-08-05 15:04:01,748 Message received: ID=715, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,749 Faulty in Brake System on CAN ID: 715
-2024-08-05 15:04:01,849 Message received: ID=593, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,850 Faulty in Brake System on CAN ID: 593
-2024-08-05 15:04:01,950 Message received: ID=685, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:01,952 Faulty in Brake System on CAN ID: 685
-2024-08-05 15:04:02,050 Message received: ID=728, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,050 Faulty in Brake System on CAN ID: 728
-2024-08-05 15:04:02,150 Message received: ID=626, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,151 Faulty in Brake System on CAN ID: 626
-2024-08-05 15:04:02,252 Message received: ID=737, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,253 Faulty in Brake System on CAN ID: 737
-2024-08-05 15:04:02,351 Message received: ID=534, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,352 Faulty in Brake System on CAN ID: 534
-2024-08-05 15:04:02,452 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,452 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:04:02,553 Message received: ID=754, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,554 Faulty in Brake System on CAN ID: 754
-2024-08-05 15:04:02,653 Message received: ID=591, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,653 Faulty in Brake System on CAN ID: 591
-2024-08-05 15:04:02,753 Message received: ID=664, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,754 Faulty in Brake System on CAN ID: 664
-2024-08-05 15:04:02,854 Message received: ID=679, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,854 Faulty in Brake System on CAN ID: 679
-2024-08-05 15:04:02,961 Message received: ID=736, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:02,961 Faulty in Brake System on CAN ID: 736
-2024-08-05 15:04:03,055 Message received: ID=599, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,055 Faulty in Brake System on CAN ID: 599
-2024-08-05 15:04:03,160 Message received: ID=609, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,164 Faulty in Brake System on CAN ID: 609
-2024-08-05 15:04:03,256 Message received: ID=577, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,256 Faulty in Brake System on CAN ID: 577
-2024-08-05 15:04:03,357 Message received: ID=716, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,362 Faulty in Brake System on CAN ID: 716
-2024-08-05 15:04:03,457 Message received: ID=586, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,457 Faulty in Brake System on CAN ID: 586
-2024-08-05 15:04:03,557 Message received: ID=760, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,558 Faulty in Brake System on CAN ID: 760
-2024-08-05 15:04:03,658 Message received: ID=741, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,659 Faulty in Brake System on CAN ID: 741
-2024-08-05 15:04:03,758 Message received: ID=731, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,759 Faulty in Brake System on CAN ID: 731
-2024-08-05 15:04:03,859 Message received: ID=599, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,859 Faulty in Brake System on CAN ID: 599
-2024-08-05 15:04:03,959 Message received: ID=762, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:03,960 Faulty in Brake System on CAN ID: 762
-2024-08-05 15:04:04,060 Message received: ID=700, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,060 Faulty in Brake System on CAN ID: 700
-2024-08-05 15:04:04,160 Message received: ID=531, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,162 Faulty in Brake System on CAN ID: 531
-2024-08-05 15:04:04,261 Message received: ID=619, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,262 Faulty in Brake System on CAN ID: 619
-2024-08-05 15:04:04,362 Message received: ID=521, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,362 Faulty in Brake System on CAN ID: 521
-2024-08-05 15:04:04,463 Message received: ID=622, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,464 Faulty in Brake System on CAN ID: 622
-2024-08-05 15:04:04,563 Message received: ID=535, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,563 Faulty in Brake System on CAN ID: 535
-2024-08-05 15:04:04,663 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,665 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:04:04,764 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,765 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:04:04,864 Message received: ID=536, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,865 Faulty in Brake System on CAN ID: 536
-2024-08-05 15:04:04,966 Message received: ID=655, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:04,966 Faulty in Brake System on CAN ID: 655
-2024-08-05 15:04:05,066 Message received: ID=736, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,066 Faulty in Brake System on CAN ID: 736
-2024-08-05 15:04:05,167 Message received: ID=547, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,167 Faulty in Brake System on CAN ID: 547
-2024-08-05 15:04:05,267 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,267 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:04:05,367 Message received: ID=609, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,368 Faulty in Brake System on CAN ID: 609
-2024-08-05 15:04:05,468 Message received: ID=760, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,468 Faulty in Brake System on CAN ID: 760
-2024-08-05 15:04:05,569 Message received: ID=543, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,569 Faulty in Brake System on CAN ID: 543
-2024-08-05 15:04:05,669 Message received: ID=742, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,670 Faulty in Brake System on CAN ID: 742
-2024-08-05 15:04:05,770 Message received: ID=736, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,771 Faulty in Brake System on CAN ID: 736
-2024-08-05 15:04:05,871 Message received: ID=583, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,871 Faulty in Brake System on CAN ID: 583
-2024-08-05 15:04:05,971 Message received: ID=693, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:05,971 Faulty in Brake System on CAN ID: 693
-2024-08-05 15:04:06,072 Message received: ID=553, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,072 Faulty in Brake System on CAN ID: 553
-2024-08-05 15:04:06,173 Message received: ID=743, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,173 Faulty in Brake System on CAN ID: 743
-2024-08-05 15:04:06,273 Message received: ID=559, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,273 Faulty in Brake System on CAN ID: 559
-2024-08-05 15:04:06,374 Message received: ID=514, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,375 Faulty in Brake System on CAN ID: 514
-2024-08-05 15:04:06,474 Message received: ID=521, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,475 Faulty in Brake System on CAN ID: 521
-2024-08-05 15:04:06,575 Message received: ID=748, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,575 Faulty in Brake System on CAN ID: 748
-2024-08-05 15:04:06,675 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,676 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:04:06,776 Message received: ID=757, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,776 Faulty in Brake System on CAN ID: 757
-2024-08-05 15:04:06,876 Message received: ID=623, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,877 Faulty in Brake System on CAN ID: 623
-2024-08-05 15:04:06,979 Message received: ID=583, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:06,980 Faulty in Brake System on CAN ID: 583
-2024-08-05 15:04:07,078 Message received: ID=702, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,079 Faulty in Brake System on CAN ID: 702
-2024-08-05 15:04:07,179 Message received: ID=754, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,179 Faulty in Brake System on CAN ID: 754
-2024-08-05 15:04:07,279 Message received: ID=674, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,279 Faulty in Brake System on CAN ID: 674
-2024-08-05 15:04:07,380 Message received: ID=550, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,381 Faulty in Brake System on CAN ID: 550
-2024-08-05 15:04:07,485 Message received: ID=658, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,486 Faulty in Brake System on CAN ID: 658
-2024-08-05 15:04:07,581 Message received: ID=753, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,582 Faulty in Brake System on CAN ID: 753
-2024-08-05 15:04:07,681 Message received: ID=560, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,682 Faulty in Brake System on CAN ID: 560
-2024-08-05 15:04:07,785 Message received: ID=531, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,786 Faulty in Brake System on CAN ID: 531
-2024-08-05 15:04:07,885 Message received: ID=517, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,886 Faulty in Brake System on CAN ID: 517
-2024-08-05 15:04:07,990 Message received: ID=725, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:07,991 Faulty in Brake System on CAN ID: 725
-2024-08-05 15:04:08,084 Message received: ID=749, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,087 Faulty in Brake System on CAN ID: 749
-2024-08-05 15:04:08,185 Message received: ID=724, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,186 Faulty in Brake System on CAN ID: 724
-2024-08-05 15:04:08,286 Message received: ID=606, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,286 Faulty in Brake System on CAN ID: 606
-2024-08-05 15:04:08,385 Message received: ID=634, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,386 Faulty in Brake System on CAN ID: 634
-2024-08-05 15:04:08,487 Message received: ID=749, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,490 Faulty in Brake System on CAN ID: 749
-2024-08-05 15:04:08,586 Message received: ID=763, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,587 Faulty in Brake System on CAN ID: 763
-2024-08-05 15:04:08,687 Message received: ID=582, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,688 Faulty in Brake System on CAN ID: 582
-2024-08-05 15:04:08,788 Message received: ID=562, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,789 Faulty in Brake System on CAN ID: 562
-2024-08-05 15:04:08,888 Message received: ID=716, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,889 Faulty in Brake System on CAN ID: 716
-2024-08-05 15:04:08,989 Message received: ID=733, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:08,990 Faulty in Brake System on CAN ID: 733
-2024-08-05 15:04:09,089 Message received: ID=552, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,090 Faulty in Brake System on CAN ID: 552
-2024-08-05 15:04:09,190 Message received: ID=680, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,191 Faulty in Brake System on CAN ID: 680
-2024-08-05 15:04:09,291 Message received: ID=719, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,291 Faulty in Brake System on CAN ID: 719
-2024-08-05 15:04:09,392 Message received: ID=767, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,393 Faulty in Brake System on CAN ID: 767
-2024-08-05 15:04:09,492 Message received: ID=542, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,493 Faulty in Brake System on CAN ID: 542
-2024-08-05 15:04:09,593 Message received: ID=697, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,594 Faulty in Brake System on CAN ID: 697
-2024-08-05 15:04:09,693 Message received: ID=631, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,694 Faulty in Brake System on CAN ID: 631
-2024-08-05 15:04:09,794 Message received: ID=528, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,794 Faulty in Brake System on CAN ID: 528
-2024-08-05 15:04:09,895 Message received: ID=754, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,895 Faulty in Brake System on CAN ID: 754
-2024-08-05 15:04:09,996 Message received: ID=646, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:09,996 Faulty in Brake System on CAN ID: 646
-2024-08-05 15:04:10,096 Message received: ID=761, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,097 Faulty in Brake System on CAN ID: 761
-2024-08-05 15:04:10,197 Message received: ID=707, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,197 Faulty in Brake System on CAN ID: 707
-2024-08-05 15:04:10,297 Message received: ID=638, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,298 Faulty in Brake System on CAN ID: 638
-2024-08-05 15:04:10,398 Message received: ID=641, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,398 Faulty in Brake System on CAN ID: 641
-2024-08-05 15:04:10,498 Message received: ID=687, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,498 Faulty in Brake System on CAN ID: 687
-2024-08-05 15:04:10,599 Message received: ID=637, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,600 Faulty in Brake System on CAN ID: 637
-2024-08-05 15:04:10,702 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,702 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:04:10,800 Message received: ID=533, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,801 Faulty in Brake System on CAN ID: 533
-2024-08-05 15:04:10,901 Message received: ID=585, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:10,902 Faulty in Brake System on CAN ID: 585
-2024-08-05 15:04:11,001 Message received: ID=746, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,002 Faulty in Brake System on CAN ID: 746
-2024-08-05 15:04:11,106 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,107 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:04:11,203 Message received: ID=659, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,206 Faulty in Brake System on CAN ID: 659
-2024-08-05 15:04:11,304 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,305 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:04:11,405 Message received: ID=516, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,406 Faulty in Brake System on CAN ID: 516
-2024-08-05 15:04:11,505 Message received: ID=580, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,510 Faulty in Brake System on CAN ID: 580
-2024-08-05 15:04:11,606 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,606 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:04:11,706 Message received: ID=535, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,707 Faulty in Brake System on CAN ID: 535
-2024-08-05 15:04:11,807 Message received: ID=703, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,807 Faulty in Brake System on CAN ID: 703
-2024-08-05 15:04:11,908 Message received: ID=527, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:11,909 Faulty in Brake System on CAN ID: 527
-2024-08-05 15:04:12,008 Message received: ID=525, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,009 Faulty in Brake System on CAN ID: 525
-2024-08-05 15:04:12,109 Message received: ID=682, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,110 Faulty in Brake System on CAN ID: 682
-2024-08-05 15:04:12,210 Message received: ID=563, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,211 Faulty in Brake System on CAN ID: 563
-2024-08-05 15:04:12,310 Message received: ID=588, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,311 Faulty in Brake System on CAN ID: 588
-2024-08-05 15:04:12,410 Message received: ID=738, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,411 Faulty in Brake System on CAN ID: 738
-2024-08-05 15:04:12,511 Message received: ID=658, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,512 Faulty in Brake System on CAN ID: 658
-2024-08-05 15:04:12,617 Message received: ID=602, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,618 Faulty in Brake System on CAN ID: 602
-2024-08-05 15:04:12,713 Message received: ID=647, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,715 Faulty in Brake System on CAN ID: 647
-2024-08-05 15:04:12,813 Message received: ID=574, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,813 Faulty in Brake System on CAN ID: 574
-2024-08-05 15:04:12,913 Message received: ID=560, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:12,914 Faulty in Brake System on CAN ID: 560
-2024-08-05 15:04:13,015 Message received: ID=718, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,016 Faulty in Brake System on CAN ID: 718
-2024-08-05 15:04:13,115 Message received: ID=518, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,116 Faulty in Brake System on CAN ID: 518
-2024-08-05 15:04:13,216 Message received: ID=744, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,217 Faulty in Brake System on CAN ID: 744
-2024-08-05 15:04:13,316 Message received: ID=573, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,317 Faulty in Brake System on CAN ID: 573
-2024-08-05 15:04:13,417 Message received: ID=538, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,417 Faulty in Brake System on CAN ID: 538
-2024-08-05 15:04:13,518 Message received: ID=734, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,519 Faulty in Brake System on CAN ID: 734
-2024-08-05 15:04:13,618 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,619 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:04:13,719 Message received: ID=677, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,720 Faulty in Brake System on CAN ID: 677
-2024-08-05 15:04:13,819 Message received: ID=578, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,820 Faulty in Brake System on CAN ID: 578
-2024-08-05 15:04:13,920 Message received: ID=564, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:13,920 Faulty in Brake System on CAN ID: 564
-2024-08-05 15:04:14,020 Message received: ID=732, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,021 Faulty in Brake System on CAN ID: 732
-2024-08-05 15:04:14,121 Message received: ID=605, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,121 Faulty in Brake System on CAN ID: 605
-2024-08-05 15:04:14,221 Message received: ID=617, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,222 Faulty in Brake System on CAN ID: 617
-2024-08-05 15:04:14,322 Message received: ID=539, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,322 Faulty in Brake System on CAN ID: 539
-2024-08-05 15:04:14,422 Message received: ID=573, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,423 Faulty in Brake System on CAN ID: 573
-2024-08-05 15:04:14,523 Message received: ID=525, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,523 Faulty in Brake System on CAN ID: 525
-2024-08-05 15:04:14,623 Message received: ID=543, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,624 Faulty in Brake System on CAN ID: 543
-2024-08-05 15:04:14,724 Message received: ID=555, Data=bytearray(b'\x01\x02')
-2024-08-05 15:04:14,724 Faulty in Brake System on CAN ID: 555
+2024-08-05 15:50:35,275 Created a socket
+2024-08-05 15:50:37,596 Message received: ID=115, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:37,597 Enginee turned ON for CAN ID: 115
+2024-08-05 15:50:37,696 Message received: ID=1473, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:37,697 Blue LED turned ON for CAN ID: 1473
+2024-08-05 15:50:37,797 Message received: ID=191, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:37,797 Enginee turned ON for CAN ID: 191
+2024-08-05 15:50:37,898 Message received: ID=1284, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:37,898 Blue LED turned ON for CAN ID: 1284
+2024-08-05 15:50:37,999 Message received: ID=403, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:37,999 Enginee turned ON for CAN ID: 403
+2024-08-05 15:50:38,099 Message received: ID=1518, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,100 Blue LED turned ON for CAN ID: 1518
+2024-08-05 15:50:38,200 Message received: ID=249, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,200 Enginee turned ON for CAN ID: 249
+2024-08-05 15:50:38,301 Message received: ID=1284, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,301 Blue LED turned ON for CAN ID: 1284
+2024-08-05 15:50:38,401 Message received: ID=177, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,401 Enginee turned ON for CAN ID: 177
+2024-08-05 15:50:38,502 Message received: ID=1434, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,502 Blue LED turned ON for CAN ID: 1434
+2024-08-05 15:50:38,602 Message received: ID=52, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,603 Enginee turned ON for CAN ID: 52
+2024-08-05 15:50:38,703 Message received: ID=1376, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,703 Blue LED turned ON for CAN ID: 1376
+2024-08-05 15:50:38,804 Message received: ID=294, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,804 Enginee turned ON for CAN ID: 294
+2024-08-05 15:50:38,904 Message received: ID=1415, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:38,904 Blue LED turned ON for CAN ID: 1415
+2024-08-05 15:50:39,005 Message received: ID=259, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,005 Enginee turned ON for CAN ID: 259
+2024-08-05 15:50:39,105 Message received: ID=1457, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,106 Blue LED turned ON for CAN ID: 1457
+2024-08-05 15:50:39,206 Message received: ID=388, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,206 Enginee turned ON for CAN ID: 388
+2024-08-05 15:50:39,307 Message received: ID=1495, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,307 Blue LED turned ON for CAN ID: 1495
+2024-08-05 15:50:39,407 Message received: ID=338, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,407 Enginee turned ON for CAN ID: 338
+2024-08-05 15:50:39,507 Message received: ID=1305, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,508 Blue LED turned ON for CAN ID: 1305
+2024-08-05 15:50:39,608 Message received: ID=278, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,609 Enginee turned ON for CAN ID: 278
+2024-08-05 15:50:39,709 Message received: ID=1446, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,709 Blue LED turned ON for CAN ID: 1446
+2024-08-05 15:50:39,809 Message received: ID=391, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,810 Enginee turned ON for CAN ID: 391
+2024-08-05 15:50:39,913 Message received: ID=1481, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:39,913 Blue LED turned ON for CAN ID: 1481
+2024-08-05 15:50:40,017 Message received: ID=226, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,018 Enginee turned ON for CAN ID: 226
+2024-08-05 15:50:40,111 Message received: ID=1403, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,112 Blue LED turned ON for CAN ID: 1403
+2024-08-05 15:50:40,212 Message received: ID=272, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,212 Enginee turned ON for CAN ID: 272
+2024-08-05 15:50:40,312 Message received: ID=1426, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,313 Blue LED turned ON for CAN ID: 1426
+2024-08-05 15:50:40,413 Message received: ID=54, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,413 Enginee turned ON for CAN ID: 54
+2024-08-05 15:50:40,513 Message received: ID=1381, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,514 Blue LED turned ON for CAN ID: 1381
+2024-08-05 15:50:40,614 Message received: ID=446, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,614 Enginee turned ON for CAN ID: 446
+2024-08-05 15:50:40,715 Message received: ID=1378, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,715 Blue LED turned ON for CAN ID: 1378
+2024-08-05 15:50:40,815 Message received: ID=144, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,815 Enginee turned ON for CAN ID: 144
+2024-08-05 15:50:40,916 Message received: ID=1427, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:40,916 Blue LED turned ON for CAN ID: 1427
+2024-08-05 15:50:41,016 Message received: ID=300, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,017 Enginee turned ON for CAN ID: 300
+2024-08-05 15:50:41,122 Message received: ID=1310, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,122 Blue LED turned ON for CAN ID: 1310
+2024-08-05 15:50:41,223 Message received: ID=42, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,223 Enginee turned ON for CAN ID: 42
+2024-08-05 15:50:41,323 Message received: ID=1494, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,323 Blue LED turned ON for CAN ID: 1494
+2024-08-05 15:50:41,424 Message received: ID=400, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,424 Enginee turned ON for CAN ID: 400
+2024-08-05 15:50:41,524 Message received: ID=1300, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,524 Blue LED turned ON for CAN ID: 1300
+2024-08-05 15:50:41,625 Message received: ID=68, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,625 Enginee turned ON for CAN ID: 68
+2024-08-05 15:50:41,725 Message received: ID=1395, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,726 Blue LED turned ON for CAN ID: 1395
+2024-08-05 15:50:41,826 Message received: ID=209, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,826 Enginee turned ON for CAN ID: 209
+2024-08-05 15:50:41,927 Message received: ID=1470, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:41,927 Blue LED turned ON for CAN ID: 1470
+2024-08-05 15:50:42,027 Message received: ID=372, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,028 Enginee turned ON for CAN ID: 372
+2024-08-05 15:50:42,128 Message received: ID=1371, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,128 Blue LED turned ON for CAN ID: 1371
+2024-08-05 15:50:42,229 Message received: ID=382, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,229 Enginee turned ON for CAN ID: 382
+2024-08-05 15:50:42,329 Message received: ID=1432, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,330 Blue LED turned ON for CAN ID: 1432
+2024-08-05 15:50:42,430 Message received: ID=463, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,431 Enginee turned ON for CAN ID: 463
+2024-08-05 15:50:42,531 Message received: ID=1534, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,531 Blue LED turned ON for CAN ID: 1534
+2024-08-05 15:50:42,631 Message received: ID=496, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,632 Enginee turned ON for CAN ID: 496
+2024-08-05 15:50:42,732 Message received: ID=1482, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,732 Blue LED turned ON for CAN ID: 1482
+2024-08-05 15:50:42,832 Message received: ID=38, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,833 Enginee turned ON for CAN ID: 38
+2024-08-05 15:50:42,933 Message received: ID=1523, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:42,933 Blue LED turned ON for CAN ID: 1523
+2024-08-05 15:50:43,034 Message received: ID=47, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,034 Enginee turned ON for CAN ID: 47
+2024-08-05 15:50:43,135 Message received: ID=1485, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,135 Blue LED turned ON for CAN ID: 1485
+2024-08-05 15:50:43,235 Message received: ID=37, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,236 Enginee turned ON for CAN ID: 37
+2024-08-05 15:50:43,336 Message received: ID=1286, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,337 Blue LED turned ON for CAN ID: 1286
+2024-08-05 15:50:43,437 Message received: ID=443, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,437 Enginee turned ON for CAN ID: 443
+2024-08-05 15:50:43,537 Message received: ID=1385, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,538 Blue LED turned ON for CAN ID: 1385
+2024-08-05 15:50:43,638 Message received: ID=370, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,638 Enginee turned ON for CAN ID: 370
+2024-08-05 15:50:43,739 Message received: ID=1445, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,739 Blue LED turned ON for CAN ID: 1445
+2024-08-05 15:50:43,839 Message received: ID=189, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,840 Enginee turned ON for CAN ID: 189
+2024-08-05 15:50:43,940 Message received: ID=1350, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:43,941 Blue LED turned ON for CAN ID: 1350
+2024-08-05 15:50:44,041 Message received: ID=370, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,041 Enginee turned ON for CAN ID: 370
+2024-08-05 15:50:44,142 Message received: ID=1461, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,142 Blue LED turned ON for CAN ID: 1461
+2024-08-05 15:50:44,243 Message received: ID=411, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,243 Enginee turned ON for CAN ID: 411
+2024-08-05 15:50:44,344 Message received: ID=1478, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,344 Blue LED turned ON for CAN ID: 1478
+2024-08-05 15:50:44,444 Message received: ID=55, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,444 Enginee turned ON for CAN ID: 55
+2024-08-05 15:50:44,544 Message received: ID=1512, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,545 Blue LED turned ON for CAN ID: 1512
+2024-08-05 15:50:44,645 Message received: ID=262, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,646 Enginee turned ON for CAN ID: 262
+2024-08-05 15:50:44,746 Message received: ID=1285, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,747 Blue LED turned ON for CAN ID: 1285
+2024-08-05 15:50:44,849 Message received: ID=59, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,850 Enginee turned ON for CAN ID: 59
+2024-08-05 15:50:44,951 Message received: ID=1330, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:44,952 Blue LED turned ON for CAN ID: 1330
+2024-08-05 15:50:45,048 Message received: ID=408, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,049 Enginee turned ON for CAN ID: 408
+2024-08-05 15:50:45,149 Message received: ID=1421, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,149 Blue LED turned ON for CAN ID: 1421
+2024-08-05 15:50:45,249 Message received: ID=85, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,250 Enginee turned ON for CAN ID: 85
+2024-08-05 15:50:45,351 Message received: ID=1403, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,352 Blue LED turned ON for CAN ID: 1403
+2024-08-05 15:50:45,451 Message received: ID=66, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,452 Enginee turned ON for CAN ID: 66
+2024-08-05 15:50:45,557 Message received: ID=1378, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,558 Blue LED turned ON for CAN ID: 1378
+2024-08-05 15:50:45,652 Message received: ID=405, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,653 Enginee turned ON for CAN ID: 405
+2024-08-05 15:50:45,753 Message received: ID=1506, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,754 Blue LED turned ON for CAN ID: 1506
+2024-08-05 15:50:45,857 Message received: ID=272, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,857 Enginee turned ON for CAN ID: 272
+2024-08-05 15:50:45,954 Message received: ID=1457, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:45,954 Blue LED turned ON for CAN ID: 1457
+2024-08-05 15:50:46,055 Message received: ID=194, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,059 Enginee turned ON for CAN ID: 194
+2024-08-05 15:50:46,158 Message received: ID=1505, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,163 Blue LED turned ON for CAN ID: 1505
+2024-08-05 15:50:46,256 Message received: ID=71, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,256 Enginee turned ON for CAN ID: 71
+2024-08-05 15:50:46,356 Message received: ID=1413, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,357 Blue LED turned ON for CAN ID: 1413
+2024-08-05 15:50:46,457 Message received: ID=263, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,458 Enginee turned ON for CAN ID: 263
+2024-08-05 15:50:46,561 Message received: ID=1505, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,561 Blue LED turned ON for CAN ID: 1505
+2024-08-05 15:50:46,658 Message received: ID=62, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,659 Enginee turned ON for CAN ID: 62
+2024-08-05 15:50:46,759 Message received: ID=1514, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,759 Blue LED turned ON for CAN ID: 1514
+2024-08-05 15:50:46,859 Message received: ID=421, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,859 Enginee turned ON for CAN ID: 421
+2024-08-05 15:50:46,959 Message received: ID=1405, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:46,960 Blue LED turned ON for CAN ID: 1405
+2024-08-05 15:50:47,060 Message received: ID=479, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,061 Enginee turned ON for CAN ID: 479
+2024-08-05 15:50:47,162 Message received: ID=1467, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,162 Blue LED turned ON for CAN ID: 1467
+2024-08-05 15:50:47,261 Message received: ID=479, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,261 Enginee turned ON for CAN ID: 479
+2024-08-05 15:50:47,361 Message received: ID=1421, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,362 Blue LED turned ON for CAN ID: 1421
+2024-08-05 15:50:47,462 Message received: ID=217, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,463 Enginee turned ON for CAN ID: 217
+2024-08-05 15:50:47,563 Message received: ID=1408, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,563 Blue LED turned ON for CAN ID: 1408
+2024-08-05 15:50:47,665 Message received: ID=155, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,666 Enginee turned ON for CAN ID: 155
+2024-08-05 15:50:47,763 Message received: ID=1371, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,764 Blue LED turned ON for CAN ID: 1371
+2024-08-05 15:50:47,864 Message received: ID=141, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,865 Enginee turned ON for CAN ID: 141
+2024-08-05 15:50:47,964 Message received: ID=1424, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:47,965 Blue LED turned ON for CAN ID: 1424
+2024-08-05 15:50:48,065 Message received: ID=481, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,066 Enginee turned ON for CAN ID: 481
+2024-08-05 15:50:48,165 Message received: ID=1353, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,166 Blue LED turned ON for CAN ID: 1353
+2024-08-05 15:50:48,271 Message received: ID=69, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,271 Enginee turned ON for CAN ID: 69
+2024-08-05 15:50:48,366 Message received: ID=1520, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,367 Blue LED turned ON for CAN ID: 1520
+2024-08-05 15:50:48,467 Message received: ID=359, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,467 Enginee turned ON for CAN ID: 359
+2024-08-05 15:50:48,568 Message received: ID=1475, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,569 Blue LED turned ON for CAN ID: 1475
+2024-08-05 15:50:48,668 Message received: ID=19, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,668 Enginee turned ON for CAN ID: 19
+2024-08-05 15:50:48,769 Message received: ID=1382, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,769 Blue LED turned ON for CAN ID: 1382
+2024-08-05 15:50:48,869 Message received: ID=128, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,869 Enginee turned ON for CAN ID: 128
+2024-08-05 15:50:48,970 Message received: ID=1432, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:48,970 Blue LED turned ON for CAN ID: 1432
+2024-08-05 15:50:49,070 Message received: ID=483, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,070 Enginee turned ON for CAN ID: 483
+2024-08-05 15:50:49,171 Message received: ID=1316, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,172 Blue LED turned ON for CAN ID: 1316
+2024-08-05 15:50:49,271 Message received: ID=91, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,272 Enginee turned ON for CAN ID: 91
+2024-08-05 15:50:49,373 Message received: ID=1380, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,373 Blue LED turned ON for CAN ID: 1380
+2024-08-05 15:50:49,473 Message received: ID=17, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,474 Enginee turned ON for CAN ID: 17
+2024-08-05 15:50:49,575 Message received: ID=1427, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,577 Blue LED turned ON for CAN ID: 1427
+2024-08-05 15:50:49,674 Message received: ID=329, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,675 Enginee turned ON for CAN ID: 329
+2024-08-05 15:50:49,775 Message received: ID=1320, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,776 Blue LED turned ON for CAN ID: 1320
+2024-08-05 15:50:49,874 Message received: ID=190, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,875 Enginee turned ON for CAN ID: 190
+2024-08-05 15:50:49,977 Message received: ID=1288, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:49,977 Blue LED turned ON for CAN ID: 1288
+2024-08-05 15:50:50,075 Message received: ID=77, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,076 Enginee turned ON for CAN ID: 77
+2024-08-05 15:50:50,176 Message received: ID=1386, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,177 Blue LED turned ON for CAN ID: 1386
+2024-08-05 15:50:50,276 Message received: ID=208, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,278 Enginee turned ON for CAN ID: 208
+2024-08-05 15:50:50,377 Message received: ID=1486, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,377 Blue LED turned ON for CAN ID: 1486
+2024-08-05 15:50:50,477 Message received: ID=4, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,478 Enginee turned ON for CAN ID: 4
+2024-08-05 15:50:50,578 Message received: ID=1287, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,579 Blue LED turned ON for CAN ID: 1287
+2024-08-05 15:50:50,678 Message received: ID=271, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,679 Enginee turned ON for CAN ID: 271
+2024-08-05 15:50:50,779 Message received: ID=1431, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,779 Blue LED turned ON for CAN ID: 1431
+2024-08-05 15:50:50,879 Message received: ID=139, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,880 Enginee turned ON for CAN ID: 139
+2024-08-05 15:50:50,980 Message received: ID=1532, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:50,980 Blue LED turned ON for CAN ID: 1532
+2024-08-05 15:50:51,081 Message received: ID=434, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,082 Enginee turned ON for CAN ID: 434
+2024-08-05 15:50:51,182 Message received: ID=1409, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,184 Blue LED turned ON for CAN ID: 1409
+2024-08-05 15:50:51,282 Message received: ID=442, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,284 Enginee turned ON for CAN ID: 442
+2024-08-05 15:50:51,383 Message received: ID=1325, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,384 Blue LED turned ON for CAN ID: 1325
+2024-08-05 15:50:51,483 Message received: ID=356, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,483 Enginee turned ON for CAN ID: 356
+2024-08-05 15:50:51,583 Message received: ID=1399, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,584 Blue LED turned ON for CAN ID: 1399
+2024-08-05 15:50:51,684 Message received: ID=210, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,685 Enginee turned ON for CAN ID: 210
+2024-08-05 15:50:51,784 Message received: ID=1518, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,785 Blue LED turned ON for CAN ID: 1518
+2024-08-05 15:50:51,886 Message received: ID=57, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,887 Enginee turned ON for CAN ID: 57
+2024-08-05 15:50:51,989 Message received: ID=1413, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:51,992 Blue LED turned ON for CAN ID: 1413
+2024-08-05 15:50:52,086 Message received: ID=167, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,088 Enginee turned ON for CAN ID: 167
+2024-08-05 15:50:52,189 Message received: ID=1483, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,190 Blue LED turned ON for CAN ID: 1483
+2024-08-05 15:50:52,287 Message received: ID=92, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,288 Enginee turned ON for CAN ID: 92
+2024-08-05 15:50:52,387 Message received: ID=1282, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,388 Blue LED turned ON for CAN ID: 1282
+2024-08-05 15:50:52,488 Message received: ID=202, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,489 Enginee turned ON for CAN ID: 202
+2024-08-05 15:50:52,590 Message received: ID=1382, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,591 Blue LED turned ON for CAN ID: 1382
+2024-08-05 15:50:52,689 Message received: ID=132, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,690 Enginee turned ON for CAN ID: 132
+2024-08-05 15:50:52,793 Message received: ID=1380, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,793 Blue LED turned ON for CAN ID: 1380
+2024-08-05 15:50:52,892 Message received: ID=125, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,893 Enginee turned ON for CAN ID: 125
+2024-08-05 15:50:52,993 Message received: ID=1282, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:52,994 Blue LED turned ON for CAN ID: 1282
+2024-08-05 15:50:53,093 Message received: ID=141, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,094 Enginee turned ON for CAN ID: 141
+2024-08-05 15:50:53,193 Message received: ID=1400, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,194 Blue LED turned ON for CAN ID: 1400
+2024-08-05 15:50:53,293 Message received: ID=421, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,294 Enginee turned ON for CAN ID: 421
+2024-08-05 15:50:53,395 Message received: ID=1527, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,395 Blue LED turned ON for CAN ID: 1527
+2024-08-05 15:50:53,494 Message received: ID=181, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,495 Enginee turned ON for CAN ID: 181
+2024-08-05 15:50:53,595 Message received: ID=1455, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,596 Blue LED turned ON for CAN ID: 1455
+2024-08-05 15:50:53,696 Message received: ID=355, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,696 Enginee turned ON for CAN ID: 355
+2024-08-05 15:50:53,797 Message received: ID=1499, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,798 Blue LED turned ON for CAN ID: 1499
+2024-08-05 15:50:53,897 Message received: ID=387, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,898 Enginee turned ON for CAN ID: 387
+2024-08-05 15:50:53,997 Message received: ID=1422, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:53,999 Blue LED turned ON for CAN ID: 1422
+2024-08-05 15:50:54,098 Message received: ID=268, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:54,099 Enginee turned ON for CAN ID: 268
+2024-08-05 15:50:54,199 Message received: ID=1284, Data=bytearray(b'\x01\x02')
+2024-08-05 15:50:54,200 Blue LED turned ON for CAN ID: 1284

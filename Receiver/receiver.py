@@ -76,35 +76,35 @@ class RecipientECU:
                     msg = message.data
                     can_id = message.arbitration_id
 
-                    # # Check if the message data matches any of the allowed patterns and if the ID is outside the allowed ranges
-                    # if not ((0x100F <= can_id <= 0x3FF) or (0x500 <= can_id <= 0x55F)):
-                    #     # Diagnostic calls and Error Reporting
-                    #     buzzer.on()
-                    #     logging.warning(f"Anomaly detected: Unexpected message data {msg}")
-                    # else:
-                    if can_id < 0x100: 
-                        # Engine transmission
-                        green.on()
-                        logging.info(f"Enginee turned ON for CAN ID: {can_id}")
-                    
-                    elif  (can_id < 0x300):
-                        # Brake system
-                        red.on()
-                        logging.info(f"Faulty in Brake System on CAN ID: {can_id}")
-
-                    elif (can_id < 0x400):
-                        # Battery system
-                        yellow.on()
-                        logging.info(f"Faulty in Battery System on CAN ID: {can_id}")
-    
-                    elif (can_id < 0x600):
-                        # Light and visibility systems
-                        blue.on()
-                        logging.info(f"Blue LED turned ON for CAN ID: {can_id}")
-                    else:
-                        # Diagonistic calls and Error Reporting
+                    # Check if the message data matches any of the allowed patterns and if the ID is outside the allowed ranges
+                    if not((can_id <= 0x3FF) or (0x500 <= can_id <= 0x5FF)):
+                        # Diagnostic calls and Error Reporting
                         buzzer.on()
-                        logging.info(f"Anomaly detected: Unexpected message ID{can_id}")
+                        logging.warning(f"Anomaly detected: Unexpected message data {msg}")
+                    else:
+                        if can_id < 0x1FF: 
+                            # Engine transmission
+                            green.on()
+                            logging.info(f"Enginee turned ON for CAN ID: {can_id}")
+                        
+                        # elif  (0X200 <= can_id < 0x2FF):
+                        #     # Brake system
+                        #     red.on()
+                        #     logging.info(f"Faulty in Brake System on CAN ID: {can_id}")
+
+                        elif (0X300 <= can_id <0x3FF):
+                            # Battery system
+                            yellow.on()
+                            logging.info(f"Faulty in Battery System on CAN ID: {can_id}")
+        
+                        elif (0X500 < can_id < 0x5FF):
+                            # Light and visibility systems
+                            blue.on()
+                            logging.info(f"Blue LED turned ON for CAN ID: {can_id}")
+                        # else:
+                        #     # Diagonistic calls and Error Reporting
+                        #     buzzer.on()
+                        #     logging.info(f"Anomaly detected: Unexpected message ID{can_id}")
                     
                 self.reset_timer()
             except can.CanError as e:
