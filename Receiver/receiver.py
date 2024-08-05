@@ -8,10 +8,14 @@ logging.basicConfig(filename='buzzer & led.log', level=logging.INFO, filemode='w
 
 # SET LED and buzzer  GPIO PIN
 GREEN_LED = 17
-BLUE_LED = 27
-YELLOW_LED = 22
-RED_LED = 4
-BUZZER_PIN = 5
+BLUE_LED = 23
+YELLOW_LED = 27
+RED_LED = 22
+BUZZER_PIN = 24
+
+#led_pins = [17, 23, 27, 22]
+#buzzer pin =24
+
 
 
 # Time in seconds after which LED turns off if no message is received
@@ -83,17 +87,17 @@ class RecipientECU:
                         green.on()
                         logging.info(f"Enginee turned ON for CAN ID: {can_id}")
                     
-                    elif  (can_id > 0x200) and (can_id < 0x300):
+                    elif  (can_id < 0x300):
                         # Brake system
                         red.on()
                         logging.info(f"Faulty in Brake System on CAN ID: {can_id}")
 
-                    elif  (can_id > 0x300) and (can_id < 0x400):
+                    elif (can_id < 0x400):
                         # Battery system
                         yellow.on()
                         logging.info(f"Faulty in Battery System on CAN ID: {can_id}")
     
-                    elif (can_id > 0x500) and (can_id < 0x600):
+                    elif (can_id < 0x600):
                         # Light and visibility systems
                         blue.on()
                         logging.info(f"Blue LED turned ON for CAN ID: {can_id}")
