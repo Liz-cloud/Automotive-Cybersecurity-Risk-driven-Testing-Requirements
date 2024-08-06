@@ -1,3 +1,7 @@
+# Author: Linda Mafunu
+# Student Number: 2216686
+# Date: 01/07/2024   
+
 import can
 import logging
 from gpiozero import LED,Pin, Buzzer,BadPinFactory

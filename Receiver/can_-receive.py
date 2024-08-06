@@ -1,3 +1,7 @@
+# Author: Linda Mafunu
+# Student Number: 2216686
+# Date: 01/07/2024
+
 # import can 
 # import logging
 # import hmac 
@@ -59,10 +63,11 @@ import hashlib
 import logging 
 
 # Set up logging
-logging.basicConfig(filename='receive_macs.log', level=logging.INFO, format='%(asctime)s %(message)s') 
+logging.basicConfig(filename='receive_macs.log', level=logging.INFO,filemode='w',
+                     format='%(asctime)s %(message)s') 
 
 # Shared secret key (this should be securely shared between sender and receiver) 
-SECRET_KEY = b'supersecretkey' 
+SECRET_KEY = b'key' 
 
 class ReceiverECU: 
 
@@ -96,5 +101,4 @@ class ReceiverECU:
 if __name__ == "__main__": 
 
     receiver_ecu = ReceiverECU() 
-
     receiver_ecu.run() 

@@ -1,8 +1,12 @@
 # Pen-Testing ECU using Py-CAN
 
-## Receiver ECU
+## Author: Linda Mafunu
+## Student Number: 2216686
+## Date: 01/07/2024
 
-### Instructions to run  code:
+### Receiver ECU:
+
+#### Instructions to run  code:
     1. Bring Up the CAN Interface: 
         - Set can0 interface speed to 500 Kbps:  
             sudo ip link set can0 up type can bitrate 500000 sample-point 0.875  
