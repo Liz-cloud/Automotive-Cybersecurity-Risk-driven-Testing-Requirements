@@ -4,51 +4,50 @@
 
 import can
 import logging
-from gpiozero import LED,Pin, Buzzer,BadPinFactory
+from gpiozero import LED, Buzzer, BadPinFactory
 import threading
+import hmac
+import hashlib
 
+# Set up logging
+logging.basicConfig(filename='buzzer_led.log', level=logging.INFO, filemode='w', format='%(asctime)s %(message)s')
 
-logging.basicConfig(filename='buzzer & led.log', level=logging.INFO, filemode='w', format='%(asctime)s %(message)s')
-
-# SET LED and buzzer  GPIO PIN
+# GPIO Pin Numbers
 GREEN_LED = 17
 BLUE_LED = 23
 YELLOW_LED = 27
 RED_LED = 22
 BUZZER_PIN = 24
 
-#led_pins = [17, 23, 27, 22]
-#buzzer pin =24
-
-
-
 # Time in seconds after which LED turns off if no message is received
-led_timeout = 5 
+led_timeout = 5
+
+# Shared secret key (this should be securely shared between sender and receiver)
+SECRET_KEY = b'key'
 
 # Set up LEDs and buzzer
 try:
     green = LED(GREEN_LED)
     red = LED(RED_LED)
     blue = LED(BLUE_LED)
-    yellow=LED(YELLOW_LED)
+    yellow = LED(YELLOW_LED)
     buzzer = Buzzer(BUZZER_PIN)
 except BadPinFactory as e:
     logging.error(f"Failed to initialize devices: {e}")
 
 class RecipientECU:
-    #  Initializes the CAN bus interface,
-    #  sets up a timer to turn off the LED after a timeout, and starts the timer.
     def __init__(self) -> None:
         self.bus = can.interface.Bus(channel='can0', bustype='socketcan')
+        # filter messages based on these ids
         self.allowed_ids = [
-            (0x100F, 0x3FF),
-            (0x500, 0x55F)
+            (0x000, 0x1FF),
+            (0x200, 0x2FF),
+            (0x300, 0x3FF),
+            (0x500, 0x5FF)
         ]
-        self.allowed_patterns = [b'\x01\x02', b'\x03\x04']  # Example data patterns 
         self.timer = threading.Timer(led_timeout, self.turn_off_devices)
         self.timer.start()
 
-    # Turns off the LED and buzzer and logs the accleartion.
     def turn_off_devices(self):
         red.off()
         green.off()
@@ -57,87 +56,75 @@ class RecipientECU:
         buzzer.off()
         logging.info("LEDs and Buzzer turned OFF due to timeout")
 
-    # Cancels the current timer 
-    # and starts a new one, effectively resetting the timeout countdown.
     def reset_timer(self):
         self.timer.cancel()
         self.timer = threading.Timer(led_timeout, self.turn_off_devices)
         self.timer.start()
-    
 
-    # Continuously listens for CAN bus messages.
-    # Upon receiving a message, it turns on the LED if can messages are in range else tutnr on buzzer, 
-    # logs the message details, and resets the timer. 
-    # Continuously listens for CAN bus messages.
-    # Upon receiving a message, it turns on the LED, 
-    # logs the message details, and resets the timer.
+    def generate_mac(self, data):
+        return hmac.new(SECRET_KEY, data, hashlib.sha256).digest()[:4]  # Using first 4 bytes of SHA-256 hash
+
+    def verify_message(self, msg): 
+        data = msg.data[:-4]  # Extract data without MAC
+        received_mac = msg.data[-4:]  # Extract received MAC
+        calculated_mac = self.generate_mac(data)
+
+        if any(start <= msg.arbitration_id <= end for start, end in self.allowed_ids):
+            if hmac.compare_digest(received_mac, calculated_mac):
+                logging.info(f"Message authenticated successfully: ID={msg.arbitration_id}, Data={data}")
+                return True
+            else:
+                logging.warning(f"Message authentication failed: ID={msg.arbitration_id}")
+                return False
+        else:
+            logging.warning(f"Anomaly detected: Unexpected message ID {msg.arbitration_id}")
+            return False
+
     def receive_can_message(self):
         while True:
             try:
                 message = self.bus.recv()
                 if message:
                     logging.info(f"Message received: ID={message.arbitration_id}, Data={message.data}")
-                    msg = message.data
-                    can_id = message.arbitration_id
 
-                    # Check if the message data matches any of the allowed patterns and if the ID is outside the allowed ranges
-                    if not((can_id <= 0x3FF) or (0x500 <= can_id <= 0x5FF)):
-                        # Diagnostic calls and Error Reporting
-                        buzzer.on()
-                        logging.warning(f"Anomaly detected: Unexpected message data {msg}")
-                    else:
-                        if can_id < 0x1FF: 
-                            # Engine transmission
+                    if self.verify_message(message):
+                        can_id = message.arbitration_id
+                        if can_id < 0x200: 
                             green.on()
-                            logging.info(f"Enginee turned ON for CAN ID: {can_id}")
-                        
-                        # elif  (0X200 <= can_id < 0x2FF):
-                        #     # Brake system
-                        #     red.on()
-                        #     logging.info(f"Faulty in Brake System on CAN ID: {can_id}")
+                            logging.info(f"Engine turned ON for CAN ID: {can_id}")
 
-                        elif (0X300 <= can_id <0x3FF):
-                            # Battery system
+                        elif 0x200 <= can_id < 0x300:
+                            red.on()
+                            logging.info(f"Brake System fault on CAN ID: {can_id}")
+
+                        elif 0x300 <= can_id < 0x400:
                             yellow.on()
-                            logging.info(f"Faulty in Battery System on CAN ID: {can_id}")
-        
-                        elif (0X500 < can_id < 0x5FF):
-                            # Light and visibility systems
+                            logging.info(f"Battery System fault on CAN ID: {can_id}")
+
+                        elif 0x500 <= can_id < 0x600:
                             blue.on()
-                            logging.info(f"Blue LED turned ON for CAN ID: {can_id}")
-                        # else:
-                        #     # Diagonistic calls and Error Reporting
-                        #     buzzer.on()
-                        #     logging.info(f"Anomaly detected: Unexpected message ID{can_id}")
-                    
+                            logging.info(f"Light and Visibility Systems issue on CAN ID: {can_id}")
+
+                    else:
+                        buzzer.on()
+
                 self.reset_timer()
             except can.CanError as e:
                 logging.error(f'CAN Error: {e}')
 
 if __name__ == "__main__":
-    # Creates an instance of RecipientECU.
     recipient_ecu = RecipientECU()
 
-    # method to start listening for CAN messages.
-    # Handles keyboard interrupts toshut down the script, 
-    # turning off the LED, canceling the timer, and closing the GPIO pin.
     try:
         print("Waiting for CAN message...")
         recipient_ecu.receive_can_message()
+        
     except KeyboardInterrupt:
-        print("Exiting program...")
-
-        # Ensure the LED is turned off when exiting
+        logging.info("Exiting program...")
         green.off()  
         red.off() 
         blue.off()  
         yellow.off()
-        buzzer.off()  # Ensure the buzzer is turned off when exiting
+        buzzer.off()
+        recipient_ecu.timer.cancel()
 
-        recipient_ecu.timer.cancel()  # Cancel the timer on exit
-
-        Pin(GREEN_LED).close()
-        Pin(BLUE_LED).close()
-        Pin(RED_LED).close()
-        Pin(YELLOW_LED).close()
-        Pin(BUZZER_PIN).close()

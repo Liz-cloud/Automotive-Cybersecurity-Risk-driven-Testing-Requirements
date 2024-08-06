@@ -1,202 +1,212 @@
-2024-08-03 18:03:34,626 Created a socket
-2024-08-03 18:03:36,747 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:36,747 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:36,847 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:36,847 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:36,948 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:36,948 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,048 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,049 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,149 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,150 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,250 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,250 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,351 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,351 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,451 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,452 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,552 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,553 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,653 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,653 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,753 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,754 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,854 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,854 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:37,954 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:37,955 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,055 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,055 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,155 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,156 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,256 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,256 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,356 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,357 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,457 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,457 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,557 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,558 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,658 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,658 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,758 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,759 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,859 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,859 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:38,959 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:38,959 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,060 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,060 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,166 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,166 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,261 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,262 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,362 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,362 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,462 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,463 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,563 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,563 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,663 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,664 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,764 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,764 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,864 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,865 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:39,965 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:39,966 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,066 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,067 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,166 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,167 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,267 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,267 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,368 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,369 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,468 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,469 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,569 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,570 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,670 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,670 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,770 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,770 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,871 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,871 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:40,971 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:40,972 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,073 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,073 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,173 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,173 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,282 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,282 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,382 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,382 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,486 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,486 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,587 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,587 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,687 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,688 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,789 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,789 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,889 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,890 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:41,990 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:41,990 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,091 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,091 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,192 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,192 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,292 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,292 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,393 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,393 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,493 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,494 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,594 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,594 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,694 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,695 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,795 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,795 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,896 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,896 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:42,996 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:42,996 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,096 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,097 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,197 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,198 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,301 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,302 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,402 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,402 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,502 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,503 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,603 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,603 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,704 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,704 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,804 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,804 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:43,905 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:43,905 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,005 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,006 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,106 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,106 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,206 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,207 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,307 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,307 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,408 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,408 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,508 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,509 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,609 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,609 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,709 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,710 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,810 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,810 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:44,911 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:44,911 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,012 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,012 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,113 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,113 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,213 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,214 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,322 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,322 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,414 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,415 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,522 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,522 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,615 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,616 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,716 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,716 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,817 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,817 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:45,917 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:45,917 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,018 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,018 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,119 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,119 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,219 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,219 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,319 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,320 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,420 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,420 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,521 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,521 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,621 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,622 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:46,722 Message received: ID=512, Data=bytearray(b'\x01\x02')
-2024-08-03 18:03:46,722 Anomaly detected: Unexpected message ID512
-2024-08-03 18:03:51,723 LEDs and Buzzer turned OFF due to timeout
+2024-08-06 15:49:06,983 Created a socket
+2024-08-06 15:49:09,631 Message received: ID=79, Data=bytearray(b'\xf2\xbao&\xe3\xcd!\x82')
+2024-08-06 15:49:09,632 Message authentication failed: ID=79
+2024-08-06 15:49:09,733 Message received: ID=1525, Data=bytearray(b'<\xc5\xe19\x90\x03C\x83')
+2024-08-06 15:49:09,734 Message authentication failed: ID=1525
+2024-08-06 15:49:09,935 Message received: ID=70, Data=bytearray(b'\xe1\xd2=0\xaf\xf7\x08\x11')
+2024-08-06 15:49:09,935 Message authentication failed: ID=70
+2024-08-06 15:49:10,036 Message received: ID=1334, Data=bytearray(b'\x8c\x12@Z\xe9')
+2024-08-06 15:49:10,036 Message authenticated successfully: ID=1334, Data=bytearray(b'\x8c')
+2024-08-06 15:49:10,036 Blue LED turned ON for CAN ID: 1334
+2024-08-06 15:49:10,237 Message received: ID=211, Data=bytearray(b'h\xe6\x88\xd4\r\x96\xf6\x12')
+2024-08-06 15:49:10,237 Message authentication failed: ID=211
+2024-08-06 15:49:10,337 Message received: ID=1478, Data=bytearray(b'a\x94\xacO\xd6\x8a2\xcd')
+2024-08-06 15:49:10,337 Message authentication failed: ID=1478
+2024-08-06 15:49:10,538 Message received: ID=237, Data=bytearray(b'\xdfV\x84\x94\xf2')
+2024-08-06 15:49:10,539 Message authenticated successfully: ID=237, Data=bytearray(b'\xdf')
+2024-08-06 15:49:10,539 Enginee turned ON for CAN ID: 237
+2024-08-06 15:49:10,639 Message received: ID=1282, Data=bytearray(b'\x01P\xe8r\xa1\x9fJ\xb5')
+2024-08-06 15:49:10,640 Message authenticated successfully: ID=1282, Data=bytearray(b'\x01P\xe8r')
+2024-08-06 15:49:10,640 Blue LED turned ON for CAN ID: 1282
+2024-08-06 15:49:10,840 Message received: ID=221, Data=bytearray(b'IV>\xacz\x19')
+2024-08-06 15:49:10,840 Message authenticated successfully: ID=221, Data=bytearray(b'IV')
+2024-08-06 15:49:10,841 Enginee turned ON for CAN ID: 221
+2024-08-06 15:49:10,941 Message received: ID=1464, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:10,941 Message authenticated successfully: ID=1464, Data=bytearray(b'')
+2024-08-06 15:49:10,941 Blue LED turned ON for CAN ID: 1464
+2024-08-06 15:49:11,142 Message received: ID=462, Data=bytearray(b'\x9b\x05\xad\x14\xc4\xa2\x12\x1f')
+2024-08-06 15:49:11,142 Message authentication failed: ID=462
+2024-08-06 15:49:11,243 Message received: ID=1449, Data=bytearray(b'{\xdb\xe6\xa39\xfbA\x1d')
+2024-08-06 15:49:11,243 Message authenticated successfully: ID=1449, Data=bytearray(b'{\xdb\xe6\xa3')
+2024-08-06 15:49:11,243 Blue LED turned ON for CAN ID: 1449
+2024-08-06 15:49:11,443 Message received: ID=369, Data=bytearray(b'\r\x19\x13\xdf\x0b\xa0\x0f\x93')
+2024-08-06 15:49:11,444 Message authenticated successfully: ID=369, Data=bytearray(b'\r\x19\x13\xdf')
+2024-08-06 15:49:11,444 Enginee turned ON for CAN ID: 369
+2024-08-06 15:49:11,544 Message received: ID=1448, Data=bytearray(b'\xe6\x04\xb5\xcd\x9c\xa7')
+2024-08-06 15:49:11,544 Message authenticated successfully: ID=1448, Data=bytearray(b'\xe6\x04')
+2024-08-06 15:49:11,544 Blue LED turned ON for CAN ID: 1448
+2024-08-06 15:49:11,745 Message received: ID=390, Data=bytearray(b'\xd9t\xa8\xba\xa7\xa4\xf1\xd8')
+2024-08-06 15:49:11,745 Message authenticated successfully: ID=390, Data=bytearray(b'\xd9t\xa8\xba')
+2024-08-06 15:49:11,745 Enginee turned ON for CAN ID: 390
+2024-08-06 15:49:11,845 Message received: ID=1472, Data=bytearray(b'\xd0\x9az\x94AP\xf2\x86')
+2024-08-06 15:49:11,846 Message authentication failed: ID=1472
+2024-08-06 15:49:12,048 Message received: ID=482, Data=bytearray(b'C\x86p\xffAn\xd2')
+2024-08-06 15:49:12,049 Message authenticated successfully: ID=482, Data=bytearray(b'C\x86p')
+2024-08-06 15:49:12,049 Enginee turned ON for CAN ID: 482
+2024-08-06 15:49:12,147 Message received: ID=1320, Data=bytearray(b'\xf9\x84\xf6\xf9L')
+2024-08-06 15:49:12,147 Message authenticated successfully: ID=1320, Data=bytearray(b'\xf9')
+2024-08-06 15:49:12,147 Blue LED turned ON for CAN ID: 1320
+2024-08-06 15:49:12,348 Message received: ID=102, Data=bytearray(b"\xe2d\xdf[\'\xe4\xa5\x8b")
+2024-08-06 15:49:12,348 Message authentication failed: ID=102
+2024-08-06 15:49:12,448 Message received: ID=1476, Data=bytearray(b'\xb1\xdb\x10G\xef\x95+\xa8')
+2024-08-06 15:49:12,448 Message authentication failed: ID=1476
+2024-08-06 15:49:12,649 Message received: ID=185, Data=bytearray(b'zw\xd8o\xa5\x9b;\xc9')
+2024-08-06 15:49:12,650 Message authenticated successfully: ID=185, Data=bytearray(b'zw\xd8o')
+2024-08-06 15:49:12,650 Enginee turned ON for CAN ID: 185
+2024-08-06 15:49:12,750 Message received: ID=1416, Data=bytearray(b'\x1b0<!\xb4\xf9K')
+2024-08-06 15:49:12,750 Message authenticated successfully: ID=1416, Data=bytearray(b'\x1b0<')
+2024-08-06 15:49:12,750 Blue LED turned ON for CAN ID: 1416
+2024-08-06 15:49:12,952 Message received: ID=446, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:12,953 Message authenticated successfully: ID=446, Data=bytearray(b'')
+2024-08-06 15:49:12,953 Enginee turned ON for CAN ID: 446
+2024-08-06 15:49:13,058 Message received: ID=1501, Data=bytearray(b'\x0c\xe78t\xda\x13\xf45')
+2024-08-06 15:49:13,058 Message authentication failed: ID=1501
+2024-08-06 15:49:13,260 Message received: ID=372, Data=bytearray(b'\x08\x96D\xd1\xc3\x10\xa5d')
+2024-08-06 15:49:13,260 Message authentication failed: ID=372
+2024-08-06 15:49:13,360 Message received: ID=1521, Data=bytearray(b'3\xd9R\xba&\xdb4\xd9')
+2024-08-06 15:49:13,361 Message authenticated successfully: ID=1521, Data=bytearray(b'3\xd9R\xba')
+2024-08-06 15:49:13,361 Blue LED turned ON for CAN ID: 1521
+2024-08-06 15:49:13,561 Message received: ID=224, Data=bytearray(b'I\xe5\xb4G\x81\xe4')
+2024-08-06 15:49:13,561 Message authenticated successfully: ID=224, Data=bytearray(b'I\xe5')
+2024-08-06 15:49:13,561 Enginee turned ON for CAN ID: 224
+2024-08-06 15:49:13,662 Message received: ID=1484, Data=bytearray(b'\x00\x8a\n\x93\x07\x82L\xf5')
+2024-08-06 15:49:13,662 Message authentication failed: ID=1484
+2024-08-06 15:49:13,862 Message received: ID=29, Data=bytearray(b'(f1\x17(T\xc9G')
+2024-08-06 15:49:13,863 Message authentication failed: ID=29
+2024-08-06 15:49:13,963 Message received: ID=1285, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:13,963 Message authenticated successfully: ID=1285, Data=bytearray(b'')
+2024-08-06 15:49:13,964 Blue LED turned ON for CAN ID: 1285
+2024-08-06 15:49:14,164 Message received: ID=427, Data=bytearray(b'\xad\xabf\x12\x9f')
+2024-08-06 15:49:14,164 Message authenticated successfully: ID=427, Data=bytearray(b'\xad')
+2024-08-06 15:49:14,164 Enginee turned ON for CAN ID: 427
+2024-08-06 15:49:14,264 Message received: ID=1325, Data=bytearray(b'1m\xa9\x1f\xb9')
+2024-08-06 15:49:14,265 Message authenticated successfully: ID=1325, Data=bytearray(b'1')
+2024-08-06 15:49:14,265 Blue LED turned ON for CAN ID: 1325
+2024-08-06 15:49:14,466 Message received: ID=251, Data=bytearray(b'\x1d\x17\xd4\xce7\xea\xb2')
+2024-08-06 15:49:14,466 Message authenticated successfully: ID=251, Data=bytearray(b'\x1d\x17\xd4')
+2024-08-06 15:49:14,466 Enginee turned ON for CAN ID: 251
+2024-08-06 15:49:14,566 Message received: ID=1416, Data=bytearray(b'\xf7\x0e<4b4\\\x03')
+2024-08-06 15:49:14,566 Message authentication failed: ID=1416
+2024-08-06 15:49:14,767 Message received: ID=147, Data=bytearray(b'0\xb9\xf0\xf3\xc1\xeb\xa9\x9d')
+2024-08-06 15:49:14,767 Message authentication failed: ID=147
+2024-08-06 15:49:14,868 Message received: ID=1385, Data=bytearray(b'\x94\x8d\xbaU\xfd')
+2024-08-06 15:49:14,868 Message authenticated successfully: ID=1385, Data=bytearray(b'\x94')
+2024-08-06 15:49:14,869 Blue LED turned ON for CAN ID: 1385
+2024-08-06 15:49:15,069 Message received: ID=129, Data=bytearray(b'\x99\xdaB\xe4i')
+2024-08-06 15:49:15,069 Message authenticated successfully: ID=129, Data=bytearray(b'\x99')
+2024-08-06 15:49:15,069 Enginee turned ON for CAN ID: 129
+2024-08-06 15:49:15,169 Message received: ID=1465, Data=bytearray(b'\x84\xe2\xd2oqF\xc5\xe5')
+2024-08-06 15:49:15,170 Message authentication failed: ID=1465
+2024-08-06 15:49:15,370 Message received: ID=91, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:15,370 Message authenticated successfully: ID=91, Data=bytearray(b'')
+2024-08-06 15:49:15,370 Enginee turned ON for CAN ID: 91
+2024-08-06 15:49:15,471 Message received: ID=1479, Data=bytearray(b'\xa9\x9a\xe28\x8e')
+2024-08-06 15:49:15,471 Message authenticated successfully: ID=1479, Data=bytearray(b'\xa9')
+2024-08-06 15:49:15,471 Blue LED turned ON for CAN ID: 1479
+2024-08-06 15:49:15,672 Message received: ID=240, Data=bytearray(b'\xcb\x08\xc2\xfc\xff\xb1\x89*')
+2024-08-06 15:49:15,672 Message authentication failed: ID=240
+2024-08-06 15:49:15,773 Message received: ID=1499, Data=bytearray(b'\xe7\xa7^:m\xa0\xfd`')
+2024-08-06 15:49:15,773 Message authentication failed: ID=1499
+2024-08-06 15:49:15,973 Message received: ID=206, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:15,974 Message authenticated successfully: ID=206, Data=bytearray(b'')
+2024-08-06 15:49:15,974 Enginee turned ON for CAN ID: 206
+2024-08-06 15:49:16,074 Message received: ID=1334, Data=bytearray(b'\x17\xa1$T\xb5\xa4\xc3')
+2024-08-06 15:49:16,075 Message authenticated successfully: ID=1334, Data=bytearray(b'\x17\xa1$')
+2024-08-06 15:49:16,075 Blue LED turned ON for CAN ID: 1334
+2024-08-06 15:49:16,275 Message received: ID=154, Data=bytearray(b'\x13\xd7\xd0\x9cv\xf1\xf0\x87')
+2024-08-06 15:49:16,276 Message authentication failed: ID=154
+2024-08-06 15:49:16,376 Message received: ID=1461, Data=bytearray(b'\n\xce0\xc1&\x12\x93')
+2024-08-06 15:49:16,377 Message authenticated successfully: ID=1461, Data=bytearray(b'\n\xce0')
+2024-08-06 15:49:16,377 Blue LED turned ON for CAN ID: 1461
+2024-08-06 15:49:16,577 Message received: ID=72, Data=bytearray(b'\xff\x90\x82\xf4\xcb\xf9\x18C')
+2024-08-06 15:49:16,578 Message authentication failed: ID=72
+2024-08-06 15:49:16,678 Message received: ID=1360, Data=bytearray(b'\x9ft\xedv\xee\xc2\x88p')
+2024-08-06 15:49:16,678 Message authenticated successfully: ID=1360, Data=bytearray(b'\x9ft\xedv')
+2024-08-06 15:49:16,678 Blue LED turned ON for CAN ID: 1360
+2024-08-06 15:49:16,878 Message received: ID=423, Data=bytearray(b'J\xfd\x0c\xc9R\xfc\x9a\xe7')
+2024-08-06 15:49:16,879 Message authentication failed: ID=423
+2024-08-06 15:49:16,979 Message received: ID=1297, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:16,979 Message authenticated successfully: ID=1297, Data=bytearray(b'')
+2024-08-06 15:49:16,980 Blue LED turned ON for CAN ID: 1297
+2024-08-06 15:49:17,180 Message received: ID=129, Data=bytearray(b'\x92.J\xdc\xc2?')
+2024-08-06 15:49:17,180 Message authenticated successfully: ID=129, Data=bytearray(b'\x92.')
+2024-08-06 15:49:17,181 Enginee turned ON for CAN ID: 129
+2024-08-06 15:49:17,281 Message received: ID=1417, Data=bytearray(b'Df\xb5Ie\xf4')
+2024-08-06 15:49:17,281 Message authenticated successfully: ID=1417, Data=bytearray(b'Df')
+2024-08-06 15:49:17,281 Blue LED turned ON for CAN ID: 1417
+2024-08-06 15:49:17,481 Message received: ID=301, Data=bytearray(b'\xb5\xba\xc3\x7f(\xc5Z,')
+2024-08-06 15:49:17,481 Message authentication failed: ID=301
+2024-08-06 15:49:17,582 Message received: ID=1473, Data=bytearray(b'\x9a\x0c\x928{')
+2024-08-06 15:49:17,582 Message authenticated successfully: ID=1473, Data=bytearray(b'\x9a')
+2024-08-06 15:49:17,583 Blue LED turned ON for CAN ID: 1473
+2024-08-06 15:49:17,783 Message received: ID=328, Data=bytearray(b'\xb3\xc7<\x8eQC\x8f')
+2024-08-06 15:49:17,783 Message authenticated successfully: ID=328, Data=bytearray(b'\xb3\xc7<')
+2024-08-06 15:49:17,783 Enginee turned ON for CAN ID: 328
+2024-08-06 15:49:17,883 Message received: ID=1494, Data=bytearray(b'\xa7\xf1\xa6-,/')
+2024-08-06 15:49:17,884 Message authenticated successfully: ID=1494, Data=bytearray(b'\xa7\xf1')
+2024-08-06 15:49:17,884 Blue LED turned ON for CAN ID: 1494
+2024-08-06 15:49:18,084 Message received: ID=465, Data=bytearray(b' \x11y\x9f\xa4\x83')
+2024-08-06 15:49:18,084 Message authenticated successfully: ID=465, Data=bytearray(b' \x11')
+2024-08-06 15:49:18,085 Enginee turned ON for CAN ID: 465
+2024-08-06 15:49:18,185 Message received: ID=1409, Data=bytearray(b'\x1e\x98EOUR6')
+2024-08-06 15:49:18,185 Message authenticated successfully: ID=1409, Data=bytearray(b'\x1e\x98E')
+2024-08-06 15:49:18,185 Blue LED turned ON for CAN ID: 1409
+2024-08-06 15:49:18,386 Message received: ID=39, Data=bytearray(b'\xae\xc1\xe6\x92D_\xcd')
+2024-08-06 15:49:18,386 Message authenticated successfully: ID=39, Data=bytearray(b'\xae\xc1\xe6')
+2024-08-06 15:49:18,386 Enginee turned ON for CAN ID: 39
+2024-08-06 15:49:18,486 Message received: ID=1384, Data=bytearray(b'\x8f\x93\xa8v"\xc0\xf6')
+2024-08-06 15:49:18,487 Message authenticated successfully: ID=1384, Data=bytearray(b'\x8f\x93\xa8')
+2024-08-06 15:49:18,487 Blue LED turned ON for CAN ID: 1384
+2024-08-06 15:49:18,687 Message received: ID=232, Data=bytearray(b'\x82\x1ah\x03z\x99\xb6E')
+2024-08-06 15:49:18,688 Message authentication failed: ID=232
+2024-08-06 15:49:18,788 Message received: ID=1327, Data=bytearray(b',\xa3iM\xc2l')
+2024-08-06 15:49:18,788 Message authenticated successfully: ID=1327, Data=bytearray(b',\xa3')
+2024-08-06 15:49:18,788 Blue LED turned ON for CAN ID: 1327
+2024-08-06 15:49:18,989 Message received: ID=374, Data=bytearray(b'9W\xbd\xa7\xb2\xbd\x08')
+2024-08-06 15:49:18,989 Message authenticated successfully: ID=374, Data=bytearray(b'9W\xbd')
+2024-08-06 15:49:18,989 Enginee turned ON for CAN ID: 374
+2024-08-06 15:49:19,089 Message received: ID=1410, Data=bytearray(b'\x9bh0\xd1\xf7\xa5\xd1o')
+2024-08-06 15:49:19,090 Message authentication failed: ID=1410
+2024-08-06 15:49:19,292 Message received: ID=170, Data=bytearray(b'\xf6\xcb\xff\x9bV<=')
+2024-08-06 15:49:19,292 Message authenticated successfully: ID=170, Data=bytearray(b'\xf6\xcb\xff')
+2024-08-06 15:49:19,292 Enginee turned ON for CAN ID: 170
+2024-08-06 15:49:19,396 Message received: ID=1533, Data=bytearray(b'\x98(\x96\x87\xb7\xef\xbc')
+2024-08-06 15:49:19,396 Message authenticated successfully: ID=1533, Data=bytearray(b'\x98(\x96')
+2024-08-06 15:49:19,396 Blue LED turned ON for CAN ID: 1533
+2024-08-06 15:49:19,597 Message received: ID=211, Data=bytearray(b'\xa2\xe0\x90\x812Y')
+2024-08-06 15:49:19,597 Message authenticated successfully: ID=211, Data=bytearray(b'\xa2\xe0')
+2024-08-06 15:49:19,597 Enginee turned ON for CAN ID: 211
+2024-08-06 15:49:19,697 Message received: ID=1516, Data=bytearray(b'\xd7\x89\xa7&\x13@\x11e')
+2024-08-06 15:49:19,698 Message authentication failed: ID=1516
+2024-08-06 15:49:19,898 Message received: ID=369, Data=bytearray(b'\xbe\xfb\xe7\xdc~\xdd')
+2024-08-06 15:49:19,899 Message authenticated successfully: ID=369, Data=bytearray(b'\xbe\xfb')
+2024-08-06 15:49:19,899 Enginee turned ON for CAN ID: 369
+2024-08-06 15:49:19,999 Message received: ID=1401, Data=bytearray(b'[\x0f\x1f3$')
+2024-08-06 15:49:19,999 Message authenticated successfully: ID=1401, Data=bytearray(b'[')
+2024-08-06 15:49:19,999 Blue LED turned ON for CAN ID: 1401
+2024-08-06 15:49:20,200 Message received: ID=397, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:20,200 Message authenticated successfully: ID=397, Data=bytearray(b'')
+2024-08-06 15:49:20,200 Enginee turned ON for CAN ID: 397
+2024-08-06 15:49:20,300 Message received: ID=1398, Data=bytearray(b'{E\xe1\xc91\xb4')
+2024-08-06 15:49:20,301 Message authenticated successfully: ID=1398, Data=bytearray(b'{E')
+2024-08-06 15:49:20,301 Blue LED turned ON for CAN ID: 1398
+2024-08-06 15:49:20,502 Message received: ID=43, Data=bytearray(b'fV\x9a]\xeb\xb6\xbaJ')
+2024-08-06 15:49:20,502 Message authentication failed: ID=43
+2024-08-06 15:49:20,602 Message received: ID=1532, Data=bytearray(b'\xab\xd7^\xe3R\x9a')
+2024-08-06 15:49:20,603 Message authenticated successfully: ID=1532, Data=bytearray(b'\xab\xd7')
+2024-08-06 15:49:20,603 Blue LED turned ON for CAN ID: 1532
+2024-08-06 15:49:20,803 Message received: ID=39, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:20,803 Message authenticated successfully: ID=39, Data=bytearray(b'')
+2024-08-06 15:49:20,804 Enginee turned ON for CAN ID: 39
+2024-08-06 15:49:20,904 Message received: ID=1428, Data=bytearray(b']]\x13\x95')
+2024-08-06 15:49:20,904 Message authenticated successfully: ID=1428, Data=bytearray(b'')
+2024-08-06 15:49:20,904 Blue LED turned ON for CAN ID: 1428
+2024-08-06 15:49:21,105 Message received: ID=261, Data=bytearray(b'\xe07\x95\xff\xfa\xb4\xd6\xfe')
+2024-08-06 15:49:21,106 Message authentication failed: ID=261
+2024-08-06 15:49:21,207 Message received: ID=1532, Data=bytearray(b'\xb4":\n\xbc \xf1I')
+2024-08-06 15:49:21,208 Message authentication failed: ID=1532
+2024-08-06 15:49:21,406 Message received: ID=208, Data=bytearray(b'\x08\xf9p\xad\xbd\xe1\xaaM')
+2024-08-06 15:49:21,407 Message authentication failed: ID=208
+2024-08-06 15:49:21,507 Message received: ID=1414, Data=bytearray(b'\x05\xc0z\x00\x91\x1c\xf0Q')
+2024-08-06 15:49:21,507 Message authentication failed: ID=1414
+2024-08-06 15:49:26,509 LEDs and Buzzer turned OFF due to timeout
