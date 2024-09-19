@@ -1,0 +1,70 @@
+2024-09-19 15:13:00,250 Created a socket
+2024-09-19 15:13:00,251 CAN ID: 1319
+Data: bytearray(b'Z\x9cA\xf2\xec\x03IR')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:01,433 CAN ID: 1203
+Data: bytearray(b'J3\x81\x92\xe1\xd7\xa4\x07')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:02,223 CAN ID: 1540
+Data: bytearray(b'\xf1mSQXc\x8b\n')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:03,794 CAN ID: 975
+Data: bytearray(b'|&K\x9c\xde\xf3\xf9o')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:05,570 CAN ID: 808
+Data: bytearray(b'\x84q\x87\n\xe1\x11\x02U')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:06,470 CAN ID: 565
+Data: bytearray(b'\x1bj\xb2\xd6\xbb\x19;w')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:07,741 CAN ID: 252
+Data: bytearray(b'\xf9\xf4b\x13\xe4K\x92\xee')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:08,637 CAN ID: 1555
+Data: bytearray(b'\xfd\x8e\xd7\xeaT\xe6v\x12')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:10,332 CAN ID: 760
+Data: bytearray(b'\xa0\xf1d\xa3\x83\x9b\xc8\xe7')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:11,709 CAN ID: 1305
+Data: bytearray(b'\xd3\xd2T\xe6\xae\x85B\x97')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:13,310 CAN ID: 461
+Data: bytearray(b'\xe4(\x8fS\tM\x0bP')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:14,351 CAN ID: 462
+Data: bytearray(b'\xdf\xf7_\x81\xaa\xc1\xf7\xa4')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:15,815 CAN ID: 1697
+Data: bytearray(b'\xd6\x86\xa6\xdbf\x1c;a')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:16,508 CAN ID: 1913
+Data: bytearray(b'\x114\x9f9\xc8\x0en4')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:17,085 CAN ID: 1757
+Data: bytearray(b'\x17R\xbd\x18$\x04|!')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:18,586 CAN ID: 1968
+Data: bytearray(b'ZK\x97\xc5o\rX\xfc')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:20,523 CAN ID: 1605
+Data: bytearray(b'\x9fh\xe7i7\xce\xee\xf0')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:22,201 CAN ID: 541
+Data: bytearray(b'\xf5\xdf}`!_\x12\xb4')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:24,151 CAN ID: 197
+Data: bytearray(b'\xeb\xcdi%\xe5q!\x99')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:24,767 CAN ID: 1354
+Data: bytearray(b'Va)\xda\x05\xcd\xf6\x16')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:26,366 CAN ID: 355
+Data: bytearray(b'i\x01\xb5\xac\xca3\x83\xa1')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:27,941 CAN ID: 112
+Data: bytearray(b'\x87\x11\xf00\xea\xb9\xd2\xa6')
+Diagonistic message: Random Fuzzing
+2024-09-19 15:13:29,448 CAN ID: 1068
+Data: bytearray(b'0G\xa9\x8a\xf2$\xaeM')
+Diagonistic message: Random Fuzzing

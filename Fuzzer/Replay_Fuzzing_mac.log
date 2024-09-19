@@ -1,0 +1,2201 @@
+2024-09-19 16:26:19,842 Created a socket
+2024-09-19 16:26:20,489 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9cScP')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:20,590 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9c)\xbf\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:21,293 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9dG)\xa5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:21,393 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9d1\xffC')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:22,597 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9e\xfc\xbb>')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:22,698 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9e\xfd\xd9\xca')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:23,098 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:23,200 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9f`7\x1a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:23,601 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:23,802 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9f`7\x1a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:23,903 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:24,004 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa0~\xf8\xe6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:24,405 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa0\x0c\xb9\xdc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:24,507 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa0~\xf8\xe6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:24,777 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa0\x0e\xda\x1b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:24,908 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa0\x0c\xb9\xdc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:25,009 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:25,210 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa1_h~')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:25,311 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:25,812 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa1_h~')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:25,913 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,081 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa2|z\xec')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,181 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa2_N3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,416 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa2x\\\x12')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,517 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa2?T\x06')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,683 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa2|z\xec')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,785 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa2_N3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:26,818 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa2x\\\x12')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,018 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,273 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa3\xa1\x0c\xe2')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,319 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa39\x04\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,419 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,520 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa39\x04\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:27,921 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,122 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,153 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa4F0P')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,223 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,324 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,424 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,525 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,626 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,688 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa4\xaaa\xfe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,726 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,789 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa4\xc1\x13\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,807 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa4B\xb4\x95')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:28,827 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,228 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,411 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa5\x06\x8d\xc6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,429 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa5%\x88\xaf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,530 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,630 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa5%\x88\xaf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,831 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:29,975 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa5,\x9c\xd6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,132 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,292 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa6T\xe4\x0b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,392 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa6\x13\x07\x87')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,534 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa6\xc5jZ')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,542 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa6j\x05\x05')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,634 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,735 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa6\xc5jZ')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,794 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa6T\xe4\x0b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,894 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa6\x13\x07\x87')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:30,936 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,138 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa7\xa9hu')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,356 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa7t\xe9\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,540 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa79\xe6\xb6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,741 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa7\xa9hu')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,842 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa79\xe6\xb6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:31,867 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa7\x9d\x85\xa2')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,345 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa8\x99\x0bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,400 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa8\xefZ\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,445 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa8\x0fC\xce')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,546 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa8n"\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,601 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa8\xe5\xce\x0f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,748 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa8\x99\x0bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:32,950 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa8n"\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,124 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa9\x01c\x0f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,304 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa9\x1b\r\xfb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,506 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa9\xa8-\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,552 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,607 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa9\x1b\r\xfb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,653 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa9\x07\xfb\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,755 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,801 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa9\xc7^\xe4')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,856 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa9\x07\xfb\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,908 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa9\xa8-\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:33,957 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,059 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaa\x8d\xcd\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,160 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xaa\x08R:')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,404 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaa\xa6\xa2\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,411 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaa\xff\x83}')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,512 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaa\xca\xcd\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,564 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xaa\x07d%')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,662 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaa\x8d\xcd\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,713 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaa\xff\x83}')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,915 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaa\xca\xcd\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:34,928 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaa\xa6\xa2\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,065 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,116 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xabMQ\x9d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,165 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,218 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xabW\xf7\xa8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,267 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,515 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xab\x08H\xeb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,519 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xabMQ\x9d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,568 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,670 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,821 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xabW\xf7\xa8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:35,972 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,062 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xac\xbaac')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,072 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,123 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,224 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xac\xff\t\x01')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,475 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xac,\xd7o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,526 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,544 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xac\x809\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,576 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,628 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xac\xff\t\x01')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,677 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xac,\xd7o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,728 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:36,778 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,030 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xad\x9a\xaf\xbd')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,069 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xad\xc4$]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,380 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xad\x89\x9e\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,482 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xad\xe9\x0c\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,553 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xad\xe8\xb8e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,633 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xad\xb3\xb7\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,683 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xad\x89\x9e\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,734 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xad\x9a\xaf\xbd')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,784 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xad\xe9\x0c\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:37,836 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xad\xb3\xb7\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,037 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,097 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xae\xcd\xa5_')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,238 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,286 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xae\xe3\xb7\x92')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,340 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,388 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xae(>\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,541 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,554 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xae<\xb1o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,790 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xae\xe3\xb7\x92')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,843 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,891 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xae(>\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:38,944 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,037 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaf\xd9\x89\xd0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,246 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaf\xb4^L')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,347 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaf\xb83\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,449 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaf\xb4^L')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,487 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xaf\xaa6\xef')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,851 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaf\xb83\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,894 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaf,\x98\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,925 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaf\xd9\x89\xd0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:39,995 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xaf\xdb\x00G')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,096 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb0gJ\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,298 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb0\xdd\xf3\x89')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,353 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb0\r\x8d\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,555 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb0EI\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,562 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb0\xbf;=')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,656 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb0\r\x8d\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,900 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb0gJ\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:40,958 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb0EI\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,001 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb0/\xf0\x83')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,059 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,101 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb1z\xe0\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,303 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb1\xacr\xf4')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,448 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb1(\xec\xe3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,504 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb1z\xe0\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,561 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb1u\x10\xd1')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,601 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb1\x1eW\xd9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,662 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,864 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb1u\x10\xd1')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,915 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb1(\xec\xe3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:41,965 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,007 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,066 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,108 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb2\xe9$s')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,168 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,209 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,269 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,310 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb2\xe9$s')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,403 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb2\x0e\x83\xca')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,771 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,844 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb2/\xc6H')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,872 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,912 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:42,973 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,013 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,050 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb3\xb5`8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,075 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb3A\xed\x9a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,177 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb3\x87\x97\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,316 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb3n\xab\x88')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,417 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,474 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb3a\x1c\x8d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,480 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb3A\xed\x9a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,618 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb3n\xab\x88')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,683 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb3\x87\x97\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,721 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:43,867 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb3\xb5`8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:44,187 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb4\xd5\x10*')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:44,284 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb4\xf3\xcb5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:44,653 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb4\xd2\x03\xb3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:44,988 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb4\x0c*\x83')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,089 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb5\xd7\xe5\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,153 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb5\xe1\xcd\xe0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,290 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb5\xe8\x01\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,424 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb5E\x1bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,525 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb5\xfa\xe5\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,547 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb5\xbc\xa1\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,591 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb5\xd7\xe5\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:45,929 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb5\xe1\xcd\xe0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,193 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb6V\x93w')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,343 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb6\x01\x9bB')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,394 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb6~9\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,595 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb6V\x93w')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,696 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb6~9\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:46,713 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb6[\xf2m')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:47,198 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb7p\xd6\x9f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:47,299 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb7\x80"\xe5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:47,499 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb7p\xd6\x9f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:47,600 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb7\x80"\xe5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:48,806 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb8\xcb\x8f\xa0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:48,906 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb8\x98\xda\xe0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,923 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9cScP')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,934 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9c)\xbf\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,945 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9dG)\xa5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,957 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9d1\xffC')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,968 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9e\xfc\xbb>')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,979 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9e\xfd\xd9\xca')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:49,990 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,001 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9f`7\x1a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,012 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,022 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\x9f`7\x1a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,033 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\x9f\x00,\x97')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,043 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa0~\xf8\xe6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,054 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa0\x0c\xb9\xdc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,064 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa0~\xf8\xe6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,074 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa0\x0e\xda\x1b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,085 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa0\x0c\xb9\xdc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,095 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,106 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa1_h~')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,116 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,126 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa1_h~')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,136 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa1dh\xad')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,147 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa2|z\xec')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,157 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa2_N3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,167 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa2x\\\x12')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,178 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa2?T\x06')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,188 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa2|z\xec')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,199 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa2_N3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,209 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa2x\\\x12')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,219 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,230 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa3\xa1\x0c\xe2')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,240 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa39\x04\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,250 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,261 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa39\x04\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,271 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa3\xfc\xe0\x16')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,282 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,292 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa4F0P')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,302 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,313 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,323 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,333 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,343 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,354 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa4\xaaa\xfe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,364 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa4D{\x02')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,374 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa4\xc1\x13\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,385 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa4B\xb4\x95')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,395 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa4\xee{\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,405 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,416 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa5\x06\x8d\xc6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,427 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa5%\x88\xaf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,438 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,448 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa5%\x88\xaf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,459 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa5\xb5\x86\x84')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,469 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa5,\x9c\xd6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,480 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,490 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa6T\xe4\x0b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,500 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa6\x13\x07\x87')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,511 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa6\xc5jZ')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,521 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa6j\x05\x05')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,532 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,542 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa6\xc5jZ')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,552 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa6T\xe4\x0b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,562 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa6\x13\x07\x87')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,573 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa6Q5]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,583 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa7\xa9hu')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,593 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa7t\xe9\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,604 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa79\xe6\xb6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,614 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa7\xa9hu')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,624 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa79\xe6\xb6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,635 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa7\x9d\x85\xa2')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,645 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa8\x99\x0bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,655 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa8\xefZ\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,666 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa8\x0fC\xce')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,676 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa8n"\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,686 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa8\xe5\xce\x0f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,697 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa8\x99\x0bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,707 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa8n"\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,717 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xa9\x01c\x0f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,727 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa9\x1b\r\xfb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,738 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa9\xa8-\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,748 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,759 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xa9\x1b\r\xfb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,769 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa9\x07\xfb\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,780 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,790 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xa9\xc7^\xe4')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,800 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xa9\x07\xfb\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,811 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xa9\xa8-\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,821 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xa9\xa1p\xbf')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,831 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaa\x8d\xcd\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,842 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xaa\x08R:')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,852 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaa\xa6\xa2\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,862 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaa\xff\x83}')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,873 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaa\xca\xcd\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,883 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xaa\x07d%')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,893 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaa\x8d\xcd\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,903 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaa\xff\x83}')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,914 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaa\xca\xcd\xbe')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,925 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaa\xa6\xa2\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,935 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,946 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xabMQ\x9d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,957 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,967 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xabW\xf7\xa8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,979 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:50,989 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xab\x08H\xeb')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,000 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xabMQ\x9d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,010 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,021 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xab\x0c\xd0\xe8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,031 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xabW\xf7\xa8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,042 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xab2\xfe`')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,052 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xac\xbaac')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,063 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,073 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,083 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xac\xff\t\x01')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,094 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xac,\xd7o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,104 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,115 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xac\x809\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,125 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,135 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xac\xff\t\x01')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,145 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xac,\xd7o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,156 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xac8;n')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,166 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xac\xce\xeeM')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,176 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xad\x9a\xaf\xbd')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,187 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xad\xc4$]')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,197 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xad\x89\x9e\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,207 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xad\xe9\x0c\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,217 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xad\xe8\xb8e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,228 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xad\xb3\xb7\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,238 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xad\x89\x9e\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,248 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xad\x9a\xaf\xbd')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,259 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xad\xe9\x0c\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,269 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xad\xb3\xb7\x80')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,280 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,290 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xae\xcd\xa5_')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,301 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,311 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xae\xe3\xb7\x92')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,321 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,331 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xae(>\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,342 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,352 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xae<\xb1o')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,362 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xae\xe3\xb7\x92')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,372 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xae\xff\x7f(')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,383 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xae(>\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,393 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xae\x8cZ\xc9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,403 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaf\xd9\x89\xd0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,413 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaf\xb4^L')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,424 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaf\xb83\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,434 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xaf\xb4^L')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,444 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xaf\xaa6\xef')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,455 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xaf\xb83\xda')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,465 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xaf,\x98\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,475 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xaf\xd9\x89\xd0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,486 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xaf\xdb\x00G')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,496 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb0gJ\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,506 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb0\xdd\xf3\x89')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,517 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb0\r\x8d\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,527 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb0EI\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,538 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb0\xbf;=')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,548 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb0\r\x8d\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,558 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb0gJ\xf6')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,568 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb0EI\xbc')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,579 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb0/\xf0\x83')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,589 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,599 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb1z\xe0\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,610 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb1\xacr\xf4')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,620 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb1(\xec\xe3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,631 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb1z\xe0\x0e')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,641 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb1u\x10\xd1')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,652 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb1\x1eW\xd9')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,662 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,672 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb1u\x10\xd1')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,683 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb1(\xec\xe3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,693 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb1-_!')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,703 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,713 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,724 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb2\xe9$s')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,734 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,744 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,754 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,765 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb2\xe9$s')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,775 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb2\x0e\x83\xca')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,786 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,796 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb2/\xc6H')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,806 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb2B\x9cH')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,817 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb2\xdd\xbcF')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,827 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb2\xf6z\x85')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,838 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,848 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb3\xb5`8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,858 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb3A\xed\x9a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,868 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb3\x87\x97\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,879 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb3n\xab\x88')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,889 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,899 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb3a\x1c\x8d')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,910 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb3A\xed\x9a')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,920 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb3n\xab\x88')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,930 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb3\x87\x97\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,940 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb3PvI')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,951 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb3\xb5`8')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,961 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb4\xd5\x10*')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,971 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb4\xf3\xcb5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,982 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb4\xd2\x03\xb3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:51,992 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb4\x0c*\x83')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,003 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb5\xd7\xe5\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,013 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb5\xe1\xcd\xe0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,024 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb5\xe8\x01\x9c')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,034 CAN ID: 1024
+Data: bytearray(b'\x01f\xecB\xb5E\x1bk')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,045 CAN ID: 1024
+Data: bytearray(b'\x00f\xecB\xb5\xfa\xe5\x9b')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,055 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb5\xbc\xa1\x82')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,065 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb5\xd7\xe5\xf0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,076 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb5\xe1\xcd\xe0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,086 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb6V\x93w')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,097 CAN ID: 512
+Data: bytearray(b'\x03f\xecB\xb6\x01\x9bB')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,107 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb6~9\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,117 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb6V\x93w')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,127 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb6~9\xd3')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,138 CAN ID: 512
+Data: bytearray(b'\x02f\xecB\xb6[\xf2m')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,148 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb7p\xd6\x9f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,158 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb7\x80"\xe5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,168 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb7p\xd6\x9f')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,179 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb7\x80"\xe5')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,189 CAN ID: 256
+Data: bytearray(b'\x04f\xecB\xb8\xcb\x8f\xa0')
+Diagonistic message: None
+Error: None
+
+2024-09-19 16:26:52,199 CAN ID: 256
+Data: bytearray(b'\x05f\xecB\xb8\x98\xda\xe0')
+Diagonistic message: None
+Error: None
+
