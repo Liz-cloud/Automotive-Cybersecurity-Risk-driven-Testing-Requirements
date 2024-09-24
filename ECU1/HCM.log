@@ -1,0 +1,1373 @@
+2024-09-19 16:12:57,589 Created a socket
+2024-09-19 16:12:57,592 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?y\xa1\xc0\x06')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: None
+Error:None
+
+2024-09-19 16:12:58,295 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?z\xe78U')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:12:58,396 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?z\x00Z"')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:00,604 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?|\xb0\xee\xf1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:00,706 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?| \x1dn')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:03,612 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x7f\xfd\xb6\x91')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:03,713 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x7f`\xa3\xf0')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:03,914 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x7f\xfd\xb6\x91')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:04,015 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x80`\xd0Q')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:04,917 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x80.\x80,')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:05,017 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x81(\xd0|')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:06,219 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x820kn')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:06,320 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x82\xd4\x8b\xe0')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:06,421 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x820kn')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:06,521 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x82\xd4\x8b\xe0')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:06,822 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x820kn')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:06,923 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x82\xd4\x8b\xe0')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:08,326 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x84\xcc\xd6%')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:08,427 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x84V\xeeN')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:09,430 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x85a\xa1\x14')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:09,531 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x85\x8c8\xa2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:09,632 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x85a\xa1\x14')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:09,734 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x85\x8c8\xa2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:10,136 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x86\x908\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:10,237 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x86\xb5g\xd3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:10,739 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x86\x908\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:10,940 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x86\xb5g\xd3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:11,943 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x879=Y')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:12,049 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x88o\xcd@')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:12,151 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x88B\xbc\xc3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:12,352 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x88o\xcd@')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:13,053 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x89\xb8\xb9\xd3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:13,154 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x89\x90\xd1w')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:13,455 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x89\xb8\xb9\xd3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:13,656 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x89\x90\xd1w')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:13,857 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x89\xb8\xb9\xd3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:13,957 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x89\x90\xd1w')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:14,058 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8a\x1f5m')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:14,159 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8aNSN')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:14,460 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8a\x1f5m')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:14,660 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8aNSN')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:15,061 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8b\x02\xddF')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:15,162 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8b\xfe\xdb\xec')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:15,463 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8b\x02\xddF')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:15,565 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8b\xfe\xdb\xec')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:15,866 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8b\x02\xddF')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:15,966 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8b\xfe\xdb\xec')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:16,668 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8c \xb4o')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:16,769 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8c\xc7\x82&')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:16,869 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8c \xb4o')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:16,970 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8c\xc7\x82&')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:17,071 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8d\xc1\xf3\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:17,173 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8dOcJ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:17,475 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8d\xc1\xf3\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:17,576 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8dOcJ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:17,677 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8d\xc1\xf3\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:17,778 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8dOcJ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:17,880 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8d\xc1\xf3\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:17,981 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8dOcJ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:18,283 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8egVP')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:18,384 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8e\x03\xbf\x87')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:19,287 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8f\xd4\xeep')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:19,589 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8f\xd1\x06A')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:19,691 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x8f\xd4\xeep')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:19,792 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x8f\xd1\x06A')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:20,394 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x90\xbc\xf3\xd9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:20,495 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x90\xdf\x81\x10')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:20,697 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x90\xbc\xf3\xd9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:21,099 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x91#3`')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:21,200 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x91\x82\xbe7')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:21,301 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x91#3`')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:21,403 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x91\x82\xbe7')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:21,504 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x91#3`')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:21,805 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x91\x82\xbe7')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:21,907 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x91#3`')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:22,509 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x92\xff]v')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:22,711 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x92\x96\xb5\x9d')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:23,113 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x93m\xa7>')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:23,214 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x93\xfc\xf3\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:23,316 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x93m\xa7>')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:23,518 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x93\xfc\xf3\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:23,618 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x93m\xa7>')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:23,719 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x93\xfc\xf3\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:24,020 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x94I\x87\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:24,121 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x947\x11\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:24,221 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x94I\x87\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:24,522 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x947\x11\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:24,623 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x94I\x87\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:24,824 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x947\x11\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:24,925 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x94I\x87\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:25,025 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x95o\xc7e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:25,126 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x95t\xb2\r')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:25,327 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x95o\xc7e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:25,428 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x95t\xb2\r')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:25,528 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x95o\xc7e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:25,629 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x95t\xb2\r')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:25,730 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x95o\xc7e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:26,331 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x96\\/\x14')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:26,532 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x96\xff\xf6.')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:26,633 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x96\\/\x14')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:26,733 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x96\xff\xf6.')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:27,034 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x97MM\xe2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:27,335 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x97\xf0\xd5\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:27,736 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x97MM\xe2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:27,837 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x97\xf0\xd5\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:27,937 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x97MM\xe2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:28,338 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x98W\xc2Y')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:28,440 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x981PB')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:28,541 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x98W\xc2Y')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:28,742 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x981PB')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:29,244 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x99\xd2\xf0\xb1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:29,345 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x99\xfc\xc1x')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:29,446 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x99\xd2\xf0\xb1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:29,546 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x99\xfc\xc1x')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:29,747 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x99\xd2\xf0\xb1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:29,848 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x99\xfc\xc1x')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:30,049 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9a\x80\xb3z')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:30,750 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9a\x1a`\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:31,051 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9b\xe9@\xd8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:31,352 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9bJ2\x7f')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:31,453 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9b\xe9@\xd8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:31,654 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9bJ2\x7f')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:31,755 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9b\xe9@\xd8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:32,256 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9c\x18\xe55')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:32,356 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9c!\x17E')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:32,557 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9c\x18\xe55')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:32,858 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9c!\x17E')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:33,059 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9d\x9c`\x07')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:33,160 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9d\xe0H\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:33,460 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9d\x9c`\x07')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:33,561 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9d\xe0H\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:33,662 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9d\x9c`\x07')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:33,762 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9d\xe0H\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:33,963 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9d\x9c`\x07')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:34,966 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9e\x97*\xe1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:35,067 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9f\x90P\xcf')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:35,369 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9fa\xc6\x05')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:35,470 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9f\x90P\xcf')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:35,572 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\x9fa\xc6\x05')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:35,677 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\x9f\x90P\xcf')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:36,278 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa0\x1b\xd1\xff')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:36,379 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa09\xa67')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:37,080 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa1^WA')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:37,481 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa1\xb6\x8b\x8c')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:37,782 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa1^WA')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:37,883 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa1\xb6\x8b\x8c')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:38,384 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa2L\xff\xdb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:38,485 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa2\xed;\x81')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:38,585 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa2L\xff\xdb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:38,686 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa2\xed;\x81')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:39,187 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa3|f\xd6')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:39,388 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa3\xbb\xcb(')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:39,489 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa3|f\xd6')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:39,689 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa3\xbb\xcb(')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:39,790 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa3|f\xd6')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:39,991 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa3\xbb\xcb(')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:40,092 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa41\x84\xc3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:40,192 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa4>0\xea')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:40,593 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa41\x84\xc3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:40,694 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa4>0\xea')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:40,895 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa41\x84\xc3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:41,297 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa5\xad\x18\xf6')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:41,599 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa5U\xc5\x90')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:41,800 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa5\xad\x18\xf6')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:42,302 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa6\xde\xf7.')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:42,504 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa6w\x1f5')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:43,307 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa7\xdb?\x90')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:43,408 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa7,\x01\xfb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:43,510 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa7\xdb?\x90')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:43,611 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa7,\x01\xfb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:43,813 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa7\xdb?\x90')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:43,914 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa7,\x01\xfb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:45,118 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa9\x14:R')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:45,319 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa9\xb7\xa5\xcd')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:45,721 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xa9\x14:R')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:45,822 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xa9\xb7\xa5\xcd')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:47,025 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xab\xf53\xf2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:47,227 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xab&y\x9a')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:48,230 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xac\xc2\xac\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:48,331 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xac\xaagb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:50,537 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xae\xc1\xc0=')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:50,638 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xae\xc2\x18\n')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:51,241 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xafP\xae\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:51,342 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xaf\xe5\xd9&')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:51,844 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xafP\xae\x88')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:51,946 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xaf\xe5\xd9&')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:52,347 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xb0r\x83\xf2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:52,449 CAN ID: 1024
+Data: bytearray(b"\x00f\xec?\xb0\x8ed\'")
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:53,251 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xb1\x97\xb2\x81')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:53,353 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xb1g\t\xae')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:54,957 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xb2\x97\xbb\\')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:55,058 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xb3\x07v8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:55,560 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xb3\xdc\xa9\xac')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:55,661 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xb3\x07v8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-09-19 16:13:56,764 CAN ID: 1024
+Data: bytearray(b'\x01f\xec?\xb4\xc5\xa8\xf2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-09-19 16:13:56,866 CAN ID: 1024
+Data: bytearray(b'\x00f\xec?\xb4\x0fH8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+

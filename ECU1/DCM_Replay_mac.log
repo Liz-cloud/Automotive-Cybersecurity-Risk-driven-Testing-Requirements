@@ -1,0 +1,93 @@
+2024-09-19 16:08:14,568 Created a socket
+2024-09-19 16:08:14,584 CAN ID: 512
+Data: bytearray(b'\x03f\xec>^\x1e6\xb6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:16,675 CAN ID: 512
+Data: bytearray(b'\x02f\xec>`\xdf;b')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:17,382 CAN ID: 512
+Data: bytearray(b'\x03f\xec>ah\x9eO')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:17,966 CAN ID: 512
+Data: bytearray(b'\x02f\xec>a\x0c\x83\x84')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:18,044 CAN ID: 512
+Data: bytearray(b'\x03f\xec>b\x1d\x85m')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:18,045 CAN ID: 512
+Data: bytearray(b'\x02f\xec>b\xffZ\x9b')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:18,046 CAN ID: 512
+Data: bytearray(b'\x03f\xec>b\x1d\x85m')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:18,047 CAN ID: 512
+Data: bytearray(b'\x02f\xec>b\xffZ\x9b')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:18,047 CAN ID: 512
+Data: bytearray(b'\x03f\xec>b\x1d\x85m')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:18,048 CAN ID: 512
+Data: bytearray(b'\x02f\xec>b\xffZ\x9b')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:18,048 CAN ID: 512
+Data: bytearray(b'\x03f\xec>b\x1d\x85m')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:19,063 CAN ID: 512
+Data: bytearray(b'\x02f\xec>cB\xcc\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:08:19,165 CAN ID: 512
+Data: bytearray(b'\x03f\xec>c\x7f\x17\x00')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:08:27,498 KeyboardInterrupt detected, stopping status transmission.
