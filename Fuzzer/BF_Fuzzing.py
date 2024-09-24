@@ -77,4 +77,4 @@ class BruteForce_Fuzzer:
      
 if __name__ == '__main__':
     fuzzer = BruteForce_Fuzzer('can0')
-    fuzzer.brute_force_fuzz(duration=60)
+    fuzzer.brute_force_fuzz(duration=120)

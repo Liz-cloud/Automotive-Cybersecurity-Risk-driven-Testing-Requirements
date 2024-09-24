@@ -36,4 +36,4 @@ def send_can_message_2(duration_seconds):
             time.sleep(0.1)  # Sleep for 100 milliseconds (adjust as needed)
 
 if __name__ == "__main__":
-    send_can_message_2(30) # send messages for 30 sec
+    send_can_message_2(120) # send messages for duration

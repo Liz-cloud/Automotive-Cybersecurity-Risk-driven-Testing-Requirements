@@ -92,4 +92,4 @@ class Linear_Fuzzer:
 
 if __name__ == '__main__':
     fuzzer = Linear_Fuzzer('can0')
-    fuzzer.run(duration=60)
+    fuzzer.run(duration=120)

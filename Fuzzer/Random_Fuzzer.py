@@ -15,7 +15,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Set up logging
-log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing_DNS.log'
+log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing_mac.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 with open(log_path,'w'):
     pass
@@ -83,4 +83,4 @@ class Random_Fuzzer:
 
 if __name__ == '__main__':
     fuzzer = Random_Fuzzer('can0')
-    fuzzer.run(duration=30)
+    fuzzer.run(duration=120)

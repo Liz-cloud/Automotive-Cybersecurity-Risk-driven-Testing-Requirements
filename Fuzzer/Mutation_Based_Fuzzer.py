@@ -93,4 +93,4 @@ class Mutation_Based_Fuzzer:
 
 if __name__ == '__main__':
     mbf=Mutation_Based_Fuzzer('can0')
-    mbf.mutation_based_fuzzing(duration=60)
+    mbf.mutation_based_fuzzing(duration=120)
