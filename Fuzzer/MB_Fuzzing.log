@@ -1,0 +1,1783 @@
+2024-09-19 15:58:45,068 Created a socket
+2024-09-19 15:58:45,169 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,270 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,371 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,472 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,572 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,673 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,774 CAN ID: 256
+Data: [12, 16, 16, 32, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,875 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:45,975 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,076 CAN ID: 1024
+Data: [132, 8, 1, 32, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,177 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,278 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,378 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,479 CAN ID: 512
+Data: [10, 2, 2, 32, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,580 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,681 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,781 CAN ID: 1024
+Data: bytearray(b'\x02')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,882 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:46,983 CAN ID: 1024
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,083 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,184 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,285 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,386 CAN ID: 512
+Data: [6, 8, 2, 128, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,486 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,587 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,688 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,789 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,889 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:47,990 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,091 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,192 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,293 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,394 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,495 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,597 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,698 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,799 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:48,901 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,002 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,103 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,205 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,306 CAN ID: 512
+Data: [65, 2, 2, 16, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,407 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,509 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,610 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,711 CAN ID: 256
+Data: [20]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,813 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:49,914 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,015 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,117 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,221 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,322 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,423 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,525 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,626 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,727 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,829 CAN ID: 256
+Data: [33, 128, 128, 32, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:50,930 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,031 CAN ID: 512
+Data: [18, 2, 2, 128, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,133 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,234 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,335 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,437 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,538 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,639 CAN ID: 512
+Data: bytearray(b'\x02\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,741 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,842 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:51,943 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,045 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,146 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,248 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,349 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,450 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,552 CAN ID: 512
+Data: [18, 4, 128, 4, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,653 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,754 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,856 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:52,957 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,058 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,160 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,261 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,363 CAN ID: 256
+Data: [68, 4, 8, 16, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,464 CAN ID: 256
+Data: [6, 1, 64, 128, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,565 CAN ID: 1024
+Data: [0, 1, 1, 32, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,667 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,768 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,869 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:53,971 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,072 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,173 CAN ID: 1024
+Data: [3, 64, 4, 64, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,275 CAN ID: 256
+Data: [6]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,376 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,478 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,579 CAN ID: 256
+Data: [68, 32, 2, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,681 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,782 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,883 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:54,984 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,086 CAN ID: 256
+Data: [129, 64, 32, 64, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,187 CAN ID: 256
+Data: [68, 1, 128, 128, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,288 CAN ID: 512
+Data: [66, 8, 4, 2, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,390 CAN ID: 1024
+Data: [3, 16, 128, 1, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,491 CAN ID: 256
+Data: [5, 32, 32, 64, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,592 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,694 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,795 CAN ID: 512
+Data: [6, 64, 1, 1, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,896 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:55,997 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,099 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,200 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,301 CAN ID: 1024
+Data: [17, 128, 1, 8, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,403 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,504 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,605 CAN ID: 1024
+Data: [129, 64, 2, 1, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,707 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,813 CAN ID: 512
+Data: [0, 64, 32, 4, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:56,914 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,015 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,117 CAN ID: 512
+Data: bytearray(b'\x02\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,218 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,319 CAN ID: 256
+Data: [20, 16, 4, 32, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,419 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,520 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,621 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,722 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,822 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:57,923 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,024 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,125 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,225 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,326 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,427 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,527 CAN ID: 256
+Data: [36, 128, 2, 64, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,628 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,729 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,830 CAN ID: 256
+Data: [6, 2, 1, 1, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:58,930 CAN ID: 512
+Data: [66, 1, 4, 128, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,031 CAN ID: 1024
+Data: [9, 32, 1, 128, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,132 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,233 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,333 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,434 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,535 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,635 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,736 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,837 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:58:59,938 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,038 CAN ID: 256
+Data: [12, 32, 1, 2, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,139 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,240 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,341 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,442 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,543 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,644 CAN ID: 256
+Data: [5, 16, 2, 64, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,745 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,845 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:00,946 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,047 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,148 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,248 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,349 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,450 CAN ID: 1024
+Data: [129, 1, 128, 128, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,550 CAN ID: 256
+Data: [6, 32, 2, 16, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,651 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,752 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,853 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:01,953 CAN ID: 256
+Data: [0, 128, 16, 16, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,055 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,156 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,257 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,359 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,460 CAN ID: 256
+Data: bytearray(b'\x04')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,562 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,663 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,765 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,866 CAN ID: 512
+Data: [10, 128, 1, 1, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:02,967 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,069 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,170 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,272 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,373 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,475 CAN ID: 512
+Data: [3, 8, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,576 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,677 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,779 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,880 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:03,982 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,083 CAN ID: 512
+Data: [130, 128, 32, 128, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,185 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,286 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,387 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,489 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,590 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,691 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,793 CAN ID: 1024
+Data: [17, 64, 8, 16, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,894 CAN ID: 256
+Data: [68, 16, 8, 4, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:04,996 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,097 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,199 CAN ID: 1024
+Data: [6, 64, 128, 4, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,300 CAN ID: 512
+Data: bytearray(b'\x02\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,402 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,503 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,604 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,706 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,807 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:05,909 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,010 CAN ID: 1024
+Data: bytearray(b'\x01')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,111 CAN ID: 512
+Data: [6, 8, 4, 16, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,213 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,314 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,416 CAN ID: 256
+Data: [132, 16, 8, 32, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,517 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,619 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,720 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,821 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:06,923 CAN ID: 256
+Data: [33, 128, 128, 8, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,024 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,126 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,227 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,329 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,430 CAN ID: 512
+Data: [0, 128, 8, 32, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,532 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,633 CAN ID: 256
+Data: [5, 32, 128, 8, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,735 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,836 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:07,937 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,039 CAN ID: 512
+Data: [0, 8, 4, 128, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,140 CAN ID: 256
+Data: [3, 16, 128, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,242 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,343 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,444 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,546 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,647 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,748 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,850 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:08,951 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,053 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,155 CAN ID: 256
+Data: [36, 1, 2, 8, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,256 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,357 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,459 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,560 CAN ID: 512
+Data: bytearray(b'\x02')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,661 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,763 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,864 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:09,966 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,067 CAN ID: 256
+Data: [36, 64, 2, 2, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,169 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,270 CAN ID: 1024
+Data: [0, 2, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,372 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,473 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,574 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,676 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,777 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,879 CAN ID: 512
+Data: [129, 8, 2, 64, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:10,980 CAN ID: 256
+Data: [12, 1, 16, 2, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,081 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,183 CAN ID: 1024
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,284 CAN ID: 512
+Data: [0, 8, 16, 8, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,385 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,487 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,588 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,689 CAN ID: 256
+Data: [130, 1, 4, 64, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,791 CAN ID: 1024
+Data: [5, 128, 64, 64, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,892 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:11,994 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,095 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,197 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,298 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,399 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,501 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,602 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,703 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,805 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:12,909 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,010 CAN ID: 512
+Data: [129, 4, 2, 32, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,112 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,214 CAN ID: 512
+Data: [130, 16, 2, 8, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,315 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,417 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,518 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,620 CAN ID: 1024
+Data: [0, 16, 2, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,721 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,823 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:13,924 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,026 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,127 CAN ID: 512
+Data: [18, 64, 1, 64, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,229 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,330 CAN ID: 256
+Data: [0, 64, 2, 128, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,431 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,533 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,634 CAN ID: 256
+Data: [132, 4, 4, 1, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,736 CAN ID: 512
+Data: [34, 2, 32, 8, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,837 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:14,939 CAN ID: 256
+Data: [20, 128, 16, 1, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,040 CAN ID: 256
+Data: [18, 64, 64, 16, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,145 CAN ID: 1024
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,246 CAN ID: 512
+Data: [20, 8, 32, 1, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,347 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,448 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,549 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,650 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,751 CAN ID: 256
+Data: [9, 32, 32, 8, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,851 CAN ID: 256
+Data: [36, 64, 1, 64, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:15,952 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,053 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,154 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,255 CAN ID: 512
+Data: [66, 2, 8, 16, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,356 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,457 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,557 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,658 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,759 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,860 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:16,961 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,062 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,162 CAN ID: 1024
+Data: [3, 128, 4, 16, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,263 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,364 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,465 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,565 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,666 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,767 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,868 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:17,968 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,069 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,170 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,270 CAN ID: 256
+Data: [12, 1, 4, 32, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,371 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,472 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,573 CAN ID: 1024
+Data: [20, 1, 4, 8, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,673 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,774 CAN ID: 256
+Data: [9, 1, 1, 64, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,875 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:18,975 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,076 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,177 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,278 CAN ID: 256
+Data: bytearray(b'\x02\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,378 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,479 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,580 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,680 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,781 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,882 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:19,983 CAN ID: 1024
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,083 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,184 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,286 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,387 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,488 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,590 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,691 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,792 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,894 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:20,995 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,096 CAN ID: 512
+Data: [18, 128, 2, 4, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,198 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,299 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,400 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,502 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,603 CAN ID: 256
+Data: [36, 8, 128, 32, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,705 CAN ID: 512
+Data: [0, 8, 4, 8, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,806 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:21,907 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,009 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,110 CAN ID: 512
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,212 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,313 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,415 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,516 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,618 CAN ID: 1024
+Data: [0, 128, 1, 8, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,719 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,820 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:22,922 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,023 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,125 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,226 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,327 CAN ID: 1024
+Data: [9, 16, 8, 1, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,429 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,530 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,632 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,733 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,835 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:23,936 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,037 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,139 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,240 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,341 CAN ID: 256
+Data: [0, 2, 4, 32, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,443 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,544 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,646 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,747 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,849 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:24,950 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,052 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,154 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,256 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,357 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,458 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,560 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,661 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,763 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,864 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:25,966 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,067 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,169 CAN ID: 256
+Data: [6, 64, 16, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,270 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,372 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,473 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,574 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,676 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,777 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,879 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:26,980 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,081 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,183 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,284 CAN ID: 1024
+Data: [17, 32, 128, 128, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,386 CAN ID: 256
+Data: [68, 32, 64, 32, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,487 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,588 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,690 CAN ID: 256
+Data: [20, 1, 64, 128, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,791 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,893 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:27,994 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,095 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,197 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,298 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,400 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,501 CAN ID: 1024
+Data: [17, 16, 1, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,602 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,704 CAN ID: 512
+Data: [18]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,805 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:28,907 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,008 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,110 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,211 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,313 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,414 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,515 CAN ID: 256
+Data: [5, 16, 32, 64, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,617 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,718 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,819 CAN ID: 1024
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:29,921 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,022 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,123 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,225 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,326 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,427 CAN ID: 256
+Data: [12]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,529 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,630 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,731 CAN ID: 512
+Data: [20, 16, 128, 8, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,833 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:30,934 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,035 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,137 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,238 CAN ID: 1024
+Data: [65, 4, 64, 2, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,339 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,441 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,542 CAN ID: 1024
+Data: [33, 1, 64, 8, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,644 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,745 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,846 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:31,948 CAN ID: 256
+Data: [5, 2, 128, 1, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,049 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,151 CAN ID: 1024
+Data: [5, 2, 2, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,252 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,357 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,458 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,559 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,659 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,760 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,861 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:32,961 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,062 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,163 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,264 CAN ID: 256
+Data: [10, 1, 32, 128, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,364 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,465 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,566 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,666 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,767 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,868 CAN ID: 512
+Data: bytearray(b'\x02')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:33,968 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,069 CAN ID: 1024
+Data: [132, 4, 1, 128, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,170 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,271 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,371 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,472 CAN ID: 512
+Data: [3, 1, 16, 16, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,573 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,674 CAN ID: 256
+Data: [68, 64, 1, 32, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,774 CAN ID: 512
+Data: [0, 1, 1, 64, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,875 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:34,976 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,077 CAN ID: 256
+Data: [34, 32, 128, 128, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,177 CAN ID: 1024
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,278 CAN ID: 256
+Data: [20, 128, 64, 2, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,379 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,479 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,580 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,681 CAN ID: 1024
+Data: bytearray(b'\x02\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,782 CAN ID: 1024
+Data: [65, 8, 2, 1, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,882 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:35,983 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,084 CAN ID: 1024
+Data: [9, 2, 128, 2, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,184 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,285 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,386 CAN ID: 1024
+Data: [129, 16, 32, 16, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,487 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,587 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,688 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,789 CAN ID: 512
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,890 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:36,990 CAN ID: 1024
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,091 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,192 CAN ID: 512
+Data: [3, 16, 16, 16, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,292 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,393 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,495 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,596 CAN ID: 512
+Data: [5, 2, 64, 16, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,698 CAN ID: 256
+Data: [6, 128, 4, 64, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,799 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:37,901 CAN ID: 512
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,002 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,103 CAN ID: 256
+Data: [10, 8, 16, 16, 1]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,205 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,306 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,408 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,509 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,611 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,712 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,814 CAN ID: 1024
+Data: [33, 64, 16, 32, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:38,915 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,017 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,118 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,220 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,321 CAN ID: 512
+Data: bytearray(b'\x02')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,422 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,524 CAN ID: 256
+Data: [20, 4, 4, 32, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,626 CAN ID: 512
+Data: [0, 1, 128, 8, 4]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,727 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,829 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:39,930 CAN ID: 512
+Data: [10, 4, 4, 1, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,032 CAN ID: 1024
+Data: [33, 128, 4, 1, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,133 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,235 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,336 CAN ID: 512
+Data: [33, 8, 64, 16, 128]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,438 CAN ID: 1024
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,539 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,640 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,742 CAN ID: 512
+Data: [0, 32, 2, 1, 8]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,843 CAN ID: 512
+Data: [0, 8, 16, 16, 2]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:40,945 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,046 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,148 CAN ID: 1024
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,249 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,350 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,452 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,553 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,655 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,756 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,857 CAN ID: 256
+Data: bytearray(b'\x01\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:41,959 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,060 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,162 CAN ID: 256
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,263 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,365 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,466 CAN ID: 1024
+Data: [5, 16, 1, 128, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,568 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,669 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,770 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,872 CAN ID: 256
+Data: [5, 8, 4, 2, 32]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:42,974 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,075 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,176 CAN ID: 256
+Data: bytearray(b'\x04\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,278 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,379 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,480 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,582 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,683 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,784 CAN ID: 256
+Data: [5, 16, 8, 16, 64]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,886 CAN ID: 256
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:43,987 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,089 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,190 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,291 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,393 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,494 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,595 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,697 CAN ID: 256
+Data: bytearray(b'\x04\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,798 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:44,900 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:45,001 CAN ID: 256
+Data: [0, 128, 16, 16, 16]
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:45,102 CAN ID: 512
+Data: bytearray(b'\x02\x00\x00\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
+2024-09-19 15:59:45,204 CAN ID: 1024
+Data: bytearray(b'\x01\x00\x00')
+Diagonistic message: Mutated Based Fuzzing
