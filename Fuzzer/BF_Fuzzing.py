@@ -3,6 +3,8 @@
 # Date: 10 Sep 2024
 
 # Fuzzing script to exhaustively send random CAN messages to the BCM
+###### Code Source: 
+#   https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 import can
 import time

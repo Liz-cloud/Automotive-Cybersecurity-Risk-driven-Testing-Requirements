@@ -5,6 +5,8 @@
 # Fuzzing script to send sequental CAN messages to the BCM
 # Uses pre-defined sequence of inputs in incrementing oder
 # each input is generated basd on the previous one creating a predicatble pattern
+##### Code Source: 
+#    https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 import can
 import time
