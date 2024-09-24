@@ -1,0 +1,128 @@
+2024-09-19 16:28:21,432 Created a socket
+2024-09-19 16:28:21,448 CAN ID: 512
+Data: bytearray(b'\x03f\xecC\x15J\xc9\x89')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:22,268 CAN ID: 512
+Data: bytearray(b'\x02f\xecC\x164~\xa7')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:22,990 CAN ID: 512
+Data: bytearray(b'\x03f\xecC\x16\xaaa0')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:23,786 CAN ID: 512
+Data: bytearray(b'\x02f\xecC\x17\x18\x89\xd1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:24,768 CAN ID: 512
+Data: bytearray(b'\x03f\xecC\x18k*\xfd')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:24,901 CAN ID: 512
+Data: bytearray(b'\x02f\xecC\x18\xccI\xc8')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:26,724 CAN ID: 512
+Data: bytearray(b'\x03f\xecC\x1aA\xde\x88')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:28,217 CAN ID: 512
+Data: bytearray(b'\x02f\xecC\x1ca\xda_')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:29,756 CAN ID: 512
+Data: bytearray(b'\x03f\xecC\x1d<\xba1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:30,944 CAN ID: 512
+Data: bytearray(b'\x02f\xecC\x1e\xa1 \xc4')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:32,246 CAN ID: 512
+Data: bytearray(b'\x03f\xecC )\x82\xf4')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:33,758 CAN ID: 512
+Data: bytearray(b'\x02f\xecC!\xb9*P')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:34,938 CAN ID: 512
+Data: bytearray(b'\x03f\xecC"\x8c6a')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:40,700 CAN ID: 512
+Data: bytearray(b"\x02f\xecC(\'\x9bx")
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:42,204 CAN ID: 512
+Data: bytearray(b'\x03f\xecC*\x06;\n')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:43,383 CAN ID: 512
+Data: bytearray(b'\x02f\xecC+\xb2\x82\x03')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:28:44,444 CAN ID: 512
+Data: bytearray(b'\x03f\xecC,\x0f\xec\x95')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-19 16:28:45,854 CAN ID: 512
+Data: bytearray(b'\x02f\xecC-\t\x8a;')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-19 16:29:08,797 KeyboardInterrupt detected, stopping status transmission.

@@ -1,0 +1,20 @@
+2024-09-12 16:55:45,628 Created a socket
+2024-09-12 16:55:45,640 DCM: Sending door lock status - 0X03 to BCM
+2024-09-12 16:55:45,641 Lock status response sent: ID=512, Data=bytearray(b'\x03f\xe3\x0f\x01\xcb\xb8\x83')
+2024-09-12 16:55:48,064 DCM: Sending door lock status - 0X02 to BCM
+2024-09-12 16:55:48,065 Lock status response sent: ID=512, Data=bytearray(b'\x02f\xe3\x0f\x04h\xd3]')
+2024-09-12 16:55:49,746 DCM: Sending door lock status - 0X03 to BCM
+2024-09-12 16:55:49,746 Lock status response sent: ID=512, Data=bytearray(b'\x03f\xe3\x0f\x05\x8dW\xd3')
+2024-09-12 16:56:00,791 DCM: Sending door lock status - 0X02 to BCM
+2024-09-12 16:56:00,792 Lock status response sent: ID=512, Data=bytearray(b'\x02f\xe3\x0f\x10~\x83)')
+2024-09-12 16:56:00,987 DCM: Sending door lock status - 0X03 to BCM
+2024-09-12 16:56:00,988 Lock status response sent: ID=512, Data=bytearray(b'\x03f\xe3\x0f\x10\xccj\xcb')
+2024-09-12 16:56:00,989 DCM: Sending door lock status - 0X02 to BCM
+2024-09-12 16:56:00,991 Lock status response sent: ID=512, Data=bytearray(b'\x02f\xe3\x0f\x10~\x83)')
+2024-09-12 16:56:00,992 DCM: Sending door lock status - 0X03 to BCM
+2024-09-12 16:56:00,995 Lock status response sent: ID=512, Data=bytearray(b'\x03f\xe3\x0f\x10\xccj\xcb')
+2024-09-12 16:56:06,015 DCM: Sending door lock status - 0X02 to BCM
+2024-09-12 16:56:06,015 Lock status response sent: ID=512, Data=bytearray(b'\x02f\xe3\x0f\x16\x8fc\xe7')
+2024-09-12 16:56:09,239 DCM: Sending door lock status - 0X03 to BCM
+2024-09-12 16:56:09,240 Lock status response sent: ID=512, Data=bytearray(b'\x03f\xe3\x0f\x19\x081\xa8')
+2024-09-12 16:56:23,558 KeyboardInterrupt detected, stopping status transmission.

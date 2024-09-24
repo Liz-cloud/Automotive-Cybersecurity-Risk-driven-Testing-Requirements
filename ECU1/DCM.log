@@ -1,0 +1,37 @@
+2024-09-24 14:19:18,286 Created a socket
+2024-09-24 14:19:18,302 CAN ID: 512
+Data: bytearray(b'\x03f\xf2\xbcV\xd1\x87\xe6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-24 14:19:20,157 CAN ID: 512
+Data: bytearray(b'\x02f\xf2\xbcX\xd0Z8')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-24 14:19:21,726 CAN ID: 512
+Data: bytearray(b'\x03f\xf2\xbcY\x04\x84T')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-24 14:19:23,157 CAN ID: 512
+Data: bytearray(b'\x02f\xf2\xbc[\x04\x85\x7f')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+Error:None
+
+2024-09-24 14:19:25,106 CAN ID: 512
+Data: bytearray(b'\x03f\xf2\xbc]\xd8\xa3_')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-09-24 14:21:20,798 KeyboardInterrupt detected, stopping status transmission.
