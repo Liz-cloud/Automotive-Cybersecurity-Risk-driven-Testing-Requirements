@@ -22,3 +22,5 @@
         
     4. Run python file BCM
         python3 BCM.py
+    
+    Observe output sensors' behaviour and red log files of error diagnostics
