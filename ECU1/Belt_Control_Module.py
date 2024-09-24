@@ -16,7 +16,7 @@ import hashlib
 from logging.handlers import RotatingFileHandler
 
 #set up logging
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/BeltStatus_Replay.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/BeltStatus_MAC.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
 # Clear the log file at the start of each run
@@ -41,23 +41,27 @@ class Belt_Status_Module:
         self.destination='BCM'
         self.origin='BSM'
         self.d_msg='None'
-        self.error='None'
         
     def generate_mac(self, data): 
         mac = hmac.new(self.SECRET_KEY, data, hashlib.sha256).digest()
         return mac[:3]  # Using first 3 bytes of SHA-256 hash 
 
+    #logg messages
     def log_message(self,message):
-        can_id=message.arbitration_id
-        data=message.data
+        # Extract relevant information
+        can_id = message.arbitration_id
+        data = message.data 
+        origin = self.origin
+        destination = self.destination
+        d_msg = self.d_msg
+
         # Prepare the log entry
         log_entry = (
-            f'CAN ID: {can_id}\n'
+            f'CAN ID: {can_id:X}\n'
             f'Data: {data}\n'
-            f'Origin: {self.origin}\n'
-            f'Destination: { self.destination}\n'
-            f'Diagnostic Msg: {self.d_msg}\n'
-            f'Error:{self.error}\n'
+            f'Origin: {origin}\n'
+            f'Destination: {destination}\n'
+            f'Diagnostic Msg: {d_msg}\n'
         )
 
         # Log the entry
@@ -93,11 +97,12 @@ class Belt_Status_Module:
         
         try:
             self.bus.send(status_message)
-          
+            self.log_message(status_message)
+            # logging.info(f"Belt Status message sent: ID={status_message.arbitration_id}, Data={status_message.data}")
         except can.CanError as e:
             #logging.error(f"Failed to send status message: {e}")
-            self.error=f"Failed to send status message: {e}"
-        self.log_message(status_message)
+            self.d_msg=f"Failed to send status message: {e}"
+            self.log_message(status_message)
 
     def send_belt_data(self,duration): 
         """Continuously send belt status until specified duartion elapses."""
@@ -109,6 +114,7 @@ class Belt_Status_Module:
                 #define the probabiliitoes for belt_off mand belt_on based on elasped time
                 belt_off_weight=max(0.1,1-(elasped_time/duration)) #gradually decreases
                 belt_on_weight=1- belt_off_weight # increases as belt_off_weiht decreases
+                
                 belt_on = random.choices([0x04, 0x05], weights=[belt_off_weight,belt_on_weight])[0]  # Randomly simulate belt on or off
                 
                 if belt_on==0x04: self.d_msg='Belt is OFF'
@@ -124,6 +130,6 @@ class Belt_Status_Module:
 if __name__ == '__main__': 
     bsm = Belt_Status_Module('can0') 
     try:
-        bsm.send_belt_data(duration=30) 
+        bsm.send_belt_data(duration=60) 
     except KeyboardInterrupt:
         logging.info("Program terminated by user.")

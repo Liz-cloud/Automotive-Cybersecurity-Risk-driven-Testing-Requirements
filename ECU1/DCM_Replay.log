@@ -1,37 +1,38 @@
-2024-09-19 15:09:06,450 Created a socket
-2024-09-19 15:09:06,466 CAN ID: 512
-Data: bytearray(b'\x03f\xec0\x82\x9e\xca-')
+2024-09-17 17:35:18,235 Created a socket
+2024-09-17 17:35:18,251 CAN ID: 200
+Data: bytearray(b'\x03f\xe9\xaf\xc6\r\x07\x82')
 Origin: DCM
 Destination: BCM
 Diagnostic Msg: Door is Locked
-Error:None
 
-2024-09-19 15:09:07,935 CAN ID: 512
-Data: bytearray(b'\x02f\xec0\x83>\xcf\xea')
+2024-09-17 17:35:21,791 CAN ID: 200
+Data: bytearray(b'\x02f\xe9\xaf\xc9\xd5\x94\x02')
 Origin: DCM
 Destination: BCM
 Diagnostic Msg: Door is Unlocked
-Error:None
 
-2024-09-19 15:09:09,180 CAN ID: 512
-Data: bytearray(b'\x03f\xec0\x85\xd2\xb3n')
+2024-09-17 17:35:24,615 CAN ID: 200
+Data: bytearray(b'\x03f\xe9\xaf\xcc\x99\x91X')
 Origin: DCM
 Destination: BCM
 Diagnostic Msg: Door is Locked
-Error:None
 
-2024-09-19 15:09:10,485 CAN ID: 512
-Data: bytearray(b'\x02f\xec0\x86\x8c\xd1\x94')
+2024-09-17 17:35:24,776 CAN ID: 200
+Data: bytearray(b'\x02f\xe9\xaf\xcc\x9f\x04\x12')
 Origin: DCM
 Destination: BCM
 Diagnostic Msg: Door is Unlocked
-Error:None
 
-2024-09-19 15:09:11,622 CAN ID: 512
-Data: bytearray(b'\x03f\xec0\x87\xc7Ow')
+2024-09-17 17:35:24,777 CAN ID: 200
+Data: bytearray(b'\x03f\xe9\xaf\xcc\x99\x91X')
 Origin: DCM
 Destination: BCM
 Diagnostic Msg: Door is Locked
-Error:None
 
-2024-09-19 15:09:36,321 KeyboardInterrupt detected, stopping status transmission.
+2024-09-17 17:35:28,489 CAN ID: 200
+Data: bytearray(b'\x02f\xe9\xaf\xd0\xf7\x15\x15')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Unlocked
+
+2024-09-17 17:35:54,252 KeyboardInterrupt detected, stopping status transmission.

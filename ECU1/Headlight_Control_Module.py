@@ -18,7 +18,7 @@ import hashlib
 from logging.handlers import RotatingFileHandler
 
 #set up logging
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/HCM_Replay.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/HCM_MAC.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
 # Clear the log file at the start of each run
@@ -45,20 +45,23 @@ class Headlight_Control_Module:
         self.destination='BCM'
         self.origin='HCM'
         self.d_msg='None'
-        self.error='None'
 
     #logg messages
     def log_message(self,message):
-        can_id=message.arbitration_id
-        data=message.data
+        # Extract relevant information
+        can_id = message.arbitration_id
+        data = message.data 
+        origin = self.origin
+        destination = self.destination
+        d_msg = self.d_msg
+
         # Prepare the log entry
         log_entry = (
-            f'CAN ID: {can_id}\n'
+            f'CAN ID: {can_id:X}\n'
             f'Data: {data}\n'
-            f'Origin: {self.origin}\n'
-            f'Destination: { self.destination}\n'
-            f'Diagnostic Msg: {self.d_msg}\n'
-            f'Error:{self.error}\n'
+            f'Origin: {origin}\n'
+            f'Destination: {destination}\n'
+            f'Diagnostic Msg: {d_msg}\n'
         )
 
         # Log the entry
@@ -106,10 +109,12 @@ class Headlight_Control_Module:
         ) 
         try:
             self.bus.send(command_message)
+            self.log_message(command_message)
+            #logging.info(f"Light Command message sent: ID={command_message.arbitration_id}, Data={command_message.data}")
         except can.CanError as e:
             #logging.error(f"Failed to send command message: {e}")
-            self.error=f"Failed to send command message: {e}"
-        self.log_message(command_message)
+            self.d_msg=f"Failed to send command message: {e}"
+            self.log_message(command_message)
 
 
     def send_light_data(self, duration): 
@@ -125,8 +130,9 @@ class Headlight_Control_Module:
                 #define the probabiliitoes for light_off and light_on based on elasped time
                 light_off_weight=max(0.1,1-(elasped_time/duration)) #gradually decreases
                 light_on_weight=1- light_off_weight # increases as light_off_weiht decreases
+                
                 light_level = random.choices([0x00, 0xFF], weights=[light_off_weight,light_on_weight])[0]  # Randomly simulate light on or off
-    
+                #light_level = random.randint(0x00, 0xFF) #  Randomly simulate ligth on or off
                 # Check if light level is below the threshold
                 if light_level < self.LIGHT_THRESHOLD: 
                     self.send_bcm_command(0x01)  # Command to turn on headlights
@@ -142,6 +148,6 @@ class Headlight_Control_Module:
 if __name__ == '__main__': 
     hcm = Headlight_Control_Module('can0') 
     try:
-        hcm.send_light_data(duration=30) 
+        hcm.send_light_data(duration=60) 
     except KeyboardInterrupt:
         logging.info("Program terminated by user.")
