@@ -6,7 +6,7 @@
 # this script is acting as a combination of BCM and Infotainment Unit (Diagonostic Displays).  
 # Seat Belt Status (On/off), CAN ID =0x100, Priotity High - safety-critical signal -> buzzer ON/OFF
 # Door Status (Locked/Unlocked), CAN ID =0x200, Priotity Medium - safety none critical signal -Yellow LED  ON/OFF
-# Headlights (On/off), CAN ID =0x400, Priotity Lo/Medium - safety not critical signal - Blue LED ON/OFF
+# Headlights (On/off), CAN ID =0x400, Priotity Low/Medium - safety not critical signal - Blue LED ON/OFF
 
 import can 
 import time  
