@@ -3,16 +3,16 @@
 # Date: 10 Sep 2024
 
 # Fuzzing script to exhaustively send random CAN messages to the BCM
+###### Code Source: 
+   #https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 import can
 import time
-import random
-import os
 import logging
 from logging.handlers import RotatingFileHandler
 
 # Set up logging
-log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing.log'
+log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Brute_Force_Fuzzing1.log'
 
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 

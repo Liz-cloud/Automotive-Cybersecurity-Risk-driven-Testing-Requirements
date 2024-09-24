@@ -3,6 +3,8 @@
 # Date: 10 Sep 2024
 
 # Fuzzing script to exhaustively send random CAN messages to the BCM
+###### Code Source: 
+#   https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 import can
 import time
@@ -75,4 +77,4 @@ class BruteForce_Fuzzer:
      
 if __name__ == '__main__':
     fuzzer = BruteForce_Fuzzer('can0')
-    fuzzer.brute_force_fuzz(duration=60)
+    fuzzer.brute_force_fuzz(duration=120)
