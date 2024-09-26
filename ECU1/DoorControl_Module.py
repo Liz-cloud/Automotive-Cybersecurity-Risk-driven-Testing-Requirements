@@ -9,17 +9,13 @@
 # Door lock status sensor systems range from 0x200 - 0x2FF
 # Priority is Medium
 # This status is important but not as safety-critical as seatbelt status.
-<<<<<<< HEAD
+
 # Code foundation :  https://github.com/hardbyte/python-can/tree/main
 
 import can
 import time
-=======
-
 import can
 import time
-import random
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
 import logging
 import hmac
 import hashlib
@@ -27,16 +23,9 @@ from gpiozero import BadPinFactory, Button
 from logging.handlers import RotatingFileHandler
 
 #setup logging
-<<<<<<< HEAD
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_Replay2_mac.log'
-handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
-
-
-=======
 log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_Replay_mac.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
 # Clear the log file at the start of each run
 with open(log_path,'w'):
     pass #this will clear the file content
@@ -57,25 +46,15 @@ class DoorControlECU:
         self.is_locked = False  # Track door lock status
         self.last_command_sent=None # keep track of command sent to avoid redudancy
 
-<<<<<<< HEAD
         # for can messeging logging
         self.destination='BCM'
         self.origin='DCM'
         self.d_msg='None'
         self.error='None'
-=======
-        self.destination='BCM'
-        self.origin='DCM'
-        self.d_msg='None'
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
 
         # Set lock/unlock button
         try:
             self.lock_button = Button(22)  # Set button to GPIO pin 22
-<<<<<<< HEAD
-=======
-            # self.green = LED(17)
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
             self.lock_button.when_pressed = self.on_button_press
         except BadPinFactory as e:
             logging.error(f'Failed to initialize button pin: {e}')
@@ -83,7 +62,6 @@ class DoorControlECU:
     
       #logg messages
     def log_message(self,message):
-<<<<<<< HEAD
         can_id=message.arbitration_id
         data=message.data
         # Prepare the log entry
@@ -93,28 +71,12 @@ class DoorControlECU:
             f'Origin: {self.origin}\n'
             f'Destination: { self.destination}\n'
             f'Diagnostic Msg: {self.d_msg}\n'
-            f'Error:{self.error}\n'
-=======
-        # Extract relevant information
-        can_id = message.arbitration_id
-        data = message.data 
-        origin = self.origin
-        destination = self.destination
-        d_msg = self.d_msg
-
-        # Prepare the log entry
-        log_entry = (
-            f'CAN ID: {can_id:X}\n'
-            f'Data: {data}\n'
-            f'Origin: {origin}\n'
-            f'Destination: {destination}\n'
-            f'Diagnostic Msg: {d_msg}\n'
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
-        )
+            f'Error:{self.error}\n')
 
         # Log the entry
         logging.info(log_entry)
 
+# source: https://github.com/nishantm77/sha256converter/blob/main/sourcefile.py
     def generate_mac(self, data):
         """Generate a Message Authentication Code (MAC) using HMAC with SHA-256."""
         mac = hmac.new(self.SECRET_KEY, data, hashlib.sha256).digest()
@@ -135,18 +97,9 @@ class DoorControlECU:
         
         self.last_command_sent = lock_status
 
-<<<<<<< HEAD
         # Add a timestamp to the message
         timestamp = int(time.time())  # Current time in seconds
-=======
-        # logging.info(f"DCM: Sending door lock status - {lock_status:#04X} to BCM")
 
-        # Add a timestamp to the message
-        timestamp = int(time.time())  # Current time in seconds
-        #t=int(time.time()*1000) 
-        #print('in milli',t)
-        #print('time=',timestamp)
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
         timestamp_bytes = timestamp.to_bytes(4, 'big')
         msg_data = [lock_status] + list(timestamp_bytes)
 
@@ -164,20 +117,11 @@ class DoorControlECU:
 
         try:
             self.bus.send(response_message)
-<<<<<<< HEAD
             #logging.info(f"Lock status response sent: ID={response_message.arbitration_id}, Data={response_message.data}")
         except can.CanError as e:
             self.error=f"Failed to send lock status response: {e}"
             #logging.error(f"Failed to send lock status response: {e}")
         self.log_message(response_message)
-=======
-            self.log_message(response_message)
-            #logging.info(f"Lock status response sent: ID={response_message.arbitration_id}, Data={response_message.data}")
-        except can.CanError as e:
-            self.d_msg=f"Failed to send lock status response: {e}"
-            #logging.error(f"Failed to send lock status response: {e}")
-            self.log_message(response_message)
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
         
     def on_button_press(self):
         """Handle the button press event to toggle the door lock status."""
@@ -190,11 +134,8 @@ class DoorControlECU:
         while True:
             try:
                 self.send_lock_status(self.is_locked)
-<<<<<<< HEAD
+
                 time.sleep(0.1)  # 
-=======
-                time.sleep(1)  # Send every second
->>>>>>> def5c4f3e73a28c71120dae64e2b6b9c7e2b86b5
             except KeyboardInterrupt:
                 logging.info("KeyboardInterrupt detected, stopping status transmission.")
                 break
