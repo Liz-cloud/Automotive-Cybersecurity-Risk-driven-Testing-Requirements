@@ -20,7 +20,7 @@ import hashlib
 from logging.handlers import RotatingFileHandler
 
 #set up logging
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/HCM_Replay.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/HCM.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
 # Clear the log file at the start of each run
@@ -146,6 +146,6 @@ class Headlight_Control_Module:
 if __name__ == '__main__': 
     hcm = Headlight_Control_Module('can0') 
     try:
-        hcm.send_light_data(duration=30) 
+        hcm.send_light_data(duration=120) 
     except KeyboardInterrupt:
         logging.info("Program terminated by user.")
