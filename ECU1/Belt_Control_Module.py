@@ -20,7 +20,7 @@ from logging.handlers import RotatingFileHandler
 
 #set up logging
 
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/BeltStatus_Replay.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/BeltStatus.log'
 
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
@@ -127,6 +127,6 @@ class Belt_Status_Module:
 if __name__ == '__main__': 
     bsm = Belt_Status_Module('can0') 
     try:
-        bsm.send_belt_data(duration=60) 
+        bsm.send_belt_data(duration=120) 
     except KeyboardInterrupt:
         logging.info("Program terminated by user.")
