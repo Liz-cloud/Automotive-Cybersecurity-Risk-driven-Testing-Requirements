@@ -17,7 +17,7 @@ import numpy as np
 from gpiozero import LED,Buzzer,BadPinFactory 
 from logging.handlers import RotatingFileHandler 
 
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU2/BCM_Door_Replay_mac.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU2/BCM_BruteForce.log'
 handler = RotatingFileHandler(log_path, mode='w',maxBytes=5*1024*1024, backupCount=2) 
 
 # Clear the log file at the start of each run
@@ -118,17 +118,17 @@ class BCM:
                     Time_stamp= message.data[1:5] #time stamp 
                     
                     # #if (current_timestamp - self.last_mac_generated) >=5: #check mac every 5 seconds
-                    if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
-                        error='MAC verification failed'
-                        self.warning.on()
-                        #log before continuing
-                        latency=0 # latency not calculated for failed MAC
-                        self.log_message(message,latency,error)
-                        continue # to see how many messages fail
-                    else:
-                        # logging.info('MAC validation succefull for message ID = {message.arbitration_id}')
-                        error='MAC verification successful'
-                        self.warning.off()
+                    # if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
+                    #     error='MAC verification failed'
+                    #     self.warning.on()
+                    #     #log before continuing
+                    #     latency=0 # latency not calculated for failed MAC
+                    #     self.log_message(message,latency,error)
+                    #     continue # to see how many messages fail
+                    # else:
+                    #     # logging.info('MAC validation succefull for message ID = {message.arbitration_id}')
+                    #     error='MAC verification successful'
+                    #     self.warning.off()
                   
                         #self.last_mac_generated=time.time() 
 
