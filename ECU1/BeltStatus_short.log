@@ -1,0 +1,743 @@
+2024-09-26 13:23:08,288 Created a socket
+2024-09-26 13:23:08,289 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R,6Z\xaa')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:09,892 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R-\xdc\xe3f')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:09,993 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R-e\xe4\xe4')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:11,899 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R/>\xb8\x96')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:11,999 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R/\xa3\xb0\x9b')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:12,100 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R0`\x96\xe7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:12,201 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R06\x1e\x91')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:12,302 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R0`\x96\xe7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:12,402 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R06\x1e\x91')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:12,904 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R0`\x96\xe7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:13,105 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R1\x8a\xa1T')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:13,205 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R1\x8e\x06]')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:13,306 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R1\x8a\xa1T')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:13,607 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R1\x8e\x06]')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:13,708 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R1\x8a\xa1T')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:14,009 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R2\x94\x98\xfb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:14,109 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R2\xf6\xc9s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:14,310 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R2\x94\x98\xfb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:14,411 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R2\xf6\xc9s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:14,812 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R2\x94\x98\xfb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:14,913 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R2\xf6\xc9s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:15,014 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R3\xf5\xe9\x18')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:15,114 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R3\x07\x8c\x94')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:15,415 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R3\xf5\xe9\x18')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:15,516 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R3\x07\x8c\x94')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:16,920 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R4\xbd\xbb\r')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:17,021 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R5\xe9\x08\xc8')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:17,724 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R5=\xc9h')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:17,825 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R5\xe9\x08\xc8')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:18,227 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R6\xb9b\xb5')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:18,328 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R6\t\xc8!')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:18,630 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R6\xb9b\xb5')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:18,932 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R6\t\xc8!')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:19,434 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R7\x91)k')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:19,535 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R7i\xa9i')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:19,837 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R7\x91)k')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:20,038 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R8\xd6\xe2J')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:20,239 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R8\xaaL\xaa')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:20,439 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R8\xd6\xe2J')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:20,641 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R8\xaaL\xaa')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:20,741 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R8\xd6\xe2J')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:20,842 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R8\xaaL\xaa')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:21,143 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R9\x0f?p')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:21,344 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R9sb\xae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:21,745 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R9\x0f?p')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:21,846 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R9sb\xae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:21,947 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R9\x0f?p')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:22,148 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R:U\xacr')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:22,248 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R:/\x14L')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:22,750 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R:U\xacr')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:22,951 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R:/\x14L')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:23,252 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R;u\x08s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:23,953 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R;0Z\x89')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:24,154 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R<\x95N\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:24,355 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R<\xba\x1b\xf6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:24,456 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R<\x95N\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:24,858 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R<\xba\x1b\xf6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:24,959 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R<\x95N\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:25,161 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R=\xf0\x0bK')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:25,563 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R=\xcc\xf9\xb7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:25,664 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R=\xf0\x0bK')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:25,765 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R=\xcc\xf9\xb7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:25,867 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R=\xf0\x0bK')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:25,968 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R=\xcc\xf9\xb7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:26,070 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R>\x94\x15E')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:26,472 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R>\xf8YF')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:26,573 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R>\x94\x15E')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:26,674 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R>\xf8YF')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:26,776 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R>\x94\x15E')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:26,979 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R>\xf8YF')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:27,180 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R?:K\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:27,381 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R?\xd8\xc11')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:27,481 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R?:K\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:27,682 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R?\xd8\xc11')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:27,883 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R?:K\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:27,984 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R?\xd8\xc11')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:28,185 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R@\x9a\x85.')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:28,385 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R@9\xe0O')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:28,486 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R@\x9a\x85.')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:28,687 CAN ID: 256
+Data: bytearray(b'\x05f\xf5R@9\xe0O')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:28,888 CAN ID: 256
+Data: bytearray(b'\x04f\xf5R@\x9a\x85.')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:29,189 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RA\xfa\xf2\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:29,290 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RA\xaf\xa9\x1a')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:29,390 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RA\xfa\xf2\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:29,591 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RA\xaf\xa9\x1a')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:29,692 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RA\xfa\xf2\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:29,793 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RA\xaf\xa9\x1a')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:29,893 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RA\xfa\xf2\xbe')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:30,094 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RB<w|')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:30,195 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RBth\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:30,296 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RB<w|')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:30,396 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RBth\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:30,797 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RB<w|')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:30,898 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RBth\t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:31,199 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RC\x88\xaea')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:31,500 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RC\x8ei\xa0')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:33,305 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RE\xf4\xf2d')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:33,506 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RE\xbc~ ')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:33,908 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RE\xf4\xf2d')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:34,013 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RF#\xedA')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:34,816 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RF%\xe1\x8a')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:35,017 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RG\xe0\x1b\x82')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:35,218 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RG\xda\xea}')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:35,319 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RG\xe0\x1b\x82')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+
+2024-09-26 13:23:36,721 CAN ID: 256
+Data: bytearray(b'\x04f\xf5RH\x9e\xed\xe8')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error:None
+
+2024-09-26 13:23:36,822 CAN ID: 256
+Data: bytearray(b'\x05f\xf5RHL\xa1\xde')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error:None
+

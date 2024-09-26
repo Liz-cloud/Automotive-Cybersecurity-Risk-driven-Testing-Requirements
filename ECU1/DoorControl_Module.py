@@ -23,7 +23,7 @@ from gpiozero import BadPinFactory, Button
 from logging.handlers import RotatingFileHandler
 
 #setup logging
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM.log'
+log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_short.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
 # Clear the log file at the start of each run
