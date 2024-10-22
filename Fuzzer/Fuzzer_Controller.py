@@ -41,34 +41,34 @@ bring_up_can_interface(interface='can0', bitrate=500000)
 # Function to carry out Random Fuzzing attack
 def random_fuzzing():
     logging.info("Starting Random Fuzzing Attack...")
-    os.system('python3 /path/to/Random_Fuzzer.py')
+    os.system('python3 /home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzer.py')
 
 # Function to carry out Linear Fuzzing attack
 def linear_fuzzing():
     logging.info("Starting Linear Fuzzing Attack...")
-    os.system('python3 /path/to/Linear_Fuzzer.py')
+    os.system('python3 /home/linda-mafunu/Desktop/Final-Project/Fuzzer/Linear_Fuzzer.py')
 
 # # Function to carry out Brute Force Fuzzing attack
 # def bruteforce_fuzzing():
 #     logging.info("Starting Brute Force Fuzzing Attack...")
-#     os.system('python3 /path/to/BruteForce_Fuzzer.py')
+#     os.system('python3 /home/linda-mafunu/Desktop/Final-Project/Fuzzer/BF_Fuzzer.py')
 
 # # Function to carry out Mutation-Based Fuzzing attack
 # def mutation_fuzzing():
 #     logging.info("Starting Mutation-Based Fuzzing Attack...")
-#     os.system('python3 /path/to/Mutated_Based_Fuzzing.py')
+#     os.system('python3 /home/linda-mafunu/Desktop/Final-Project/Fuzzer/Mutated_Based_Fuzzing.py')
 
 # # Function to carry out Replay Attack
 # def replay_fuzzing():
 #     logging.info("Starting Replay Attack...")
-#     os.system('python3 /path/to/Replay_Fuzzer.py')
+#     os.system('python3 /home/linda-mafunu/Desktop/Final-Project/Fuzzer/Replay_Fuzzer.py')
 
 # Function to stop all attacks
 def stop_attack():
     logging.info("Stopping all attacks...")
     os.system('pkill -f Random_Fuzzer.py')
     os.system('pkill -f Linear_Fuzzer.py')
-    # os.system('pkill -f BruteForce_Fuzzer.py')
+    # os.system('pkill -f BF_Fuzzer.py')
     # os.system('pkill -f Mutated_Based_Fuzzing.py')
     # os.system('pkill -f Replay_Fuzzer.py')
 
