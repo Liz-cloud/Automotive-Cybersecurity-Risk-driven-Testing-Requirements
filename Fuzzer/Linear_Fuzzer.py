@@ -12,6 +12,7 @@ import can
 import time
 import random
 import logging
+import os
 from logging.handlers import RotatingFileHandler
 
 # Set up logging
@@ -20,6 +21,26 @@ handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCo
 with open(log_path,'w'):
     pass
 logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
+
+# # Function to check the status of the CAN interface
+# def is_can_interface_up(interface='can0'):
+#     # Use the 'ip' command to check if the interface is already up
+#     result = os.system(f"ip link show {interface} | grep 'state UP' > /dev/null 2>&1")
+#     return result == 0 # If the command returns 0, the interface is up
+
+# # Function to bring up the CAN interface only if it is down
+# def bring_up_can_interface(interface='can0', bitrate=500000):
+#     if is_can_interface_up(interface):
+#         logging.info(f"{interface} is already up, no need to bring it up.")
+#     else:
+#         try:
+#             logging.info(f"Bringing up {interface} with bitrate {bitrate}...")
+#             os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
+#             os.system(f"sudo ifconfig {interface} txqueuelen 1000")  # Optional: Increase transmit queue length if needed
+#             logging.info(f"{interface} is up with bitrate {bitrate}.")
+#         except Exception as e:
+#             logging.error(f"Failed to bring up CAN interface {interface}: {e}")
+#             exit(1)
 
 class Linear_Fuzzer:
     
@@ -83,7 +104,6 @@ class Linear_Fuzzer:
             start_time = time.time()
             while time.time() - start_time < duration:
                 self.fuzz_can_bus()
-                #time.sleep(interval)  # Adjust the interval for fuzzing speed
                 time.sleep(random.uniform(0.5, 2))  # Random delay between messages
         except KeyboardInterrupt:
             logging.info("KeyboardInterrupt detected, stopping fuzzing.")
@@ -91,5 +111,7 @@ class Linear_Fuzzer:
             logging.error(f"Unexpected error: {e}")
 
 if __name__ == '__main__':
+    # # Bring up the CAN interface before setting up the button and fuzzing
+    # bring_up_can_interface(interface='can0', bitrate=500000)
     fuzzer = Linear_Fuzzer('can0')
     fuzzer.run(duration=120)

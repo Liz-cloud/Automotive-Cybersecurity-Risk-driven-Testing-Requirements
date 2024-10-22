@@ -11,6 +11,7 @@ import time
 import itertools
 import logging
 from logging.handlers import RotatingFileHandler
+import os
 
 # setup logging
 log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/BF_Fuzzing.log'
@@ -20,6 +21,26 @@ with open(log_path,'w'):
     pass
 
 logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
+
+# Function to check the status of the CAN interface
+def is_can_interface_up(interface='can0'):
+    # Use the 'ip' command to check if the interface is already up
+    result = os.system(f"ip link show {interface} | grep 'state UP' > /dev/null 2>&1")
+    return result == 0 # If the command returns 0, the interface is up
+
+# Function to bring up the CAN interface only if it is down
+def bring_up_can_interface(interface='can0', bitrate=500000):
+    if is_can_interface_up(interface):
+        logging.info(f"{interface} is already up, no need to bring it up.")
+    else:
+        try:
+            logging.info(f"Bringing up {interface} with bitrate {bitrate}...")
+            os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
+            os.system(f"sudo ifconfig {interface} txqueuelen 1000")  # Optional: Increase transmit queue length if needed
+            logging.info(f"{interface} is up with bitrate {bitrate}.")
+        except Exception as e:
+            logging.error(f"Failed to bring up CAN interface {interface}: {e}")
+            exit(1)
 
 class BruteForce_Fuzzer:
     def __init__(self, interface):
@@ -76,5 +97,7 @@ class BruteForce_Fuzzer:
             logging.error(f"Unexpected error: {e}")
      
 if __name__ == '__main__':
+    # Bring up the CAN interface before setting up the button and fuzzing
+    bring_up_can_interface(interface='can0', bitrate=500000)
     fuzzer = BruteForce_Fuzzer('can0')
     fuzzer.brute_force_fuzz(duration=120)
