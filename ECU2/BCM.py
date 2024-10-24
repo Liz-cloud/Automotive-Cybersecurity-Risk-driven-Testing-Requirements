@@ -12,27 +12,31 @@ import can
 import time  
 import logging 
 import hmac  
-import hashlib  
+import hashlib 
+import os
 import numpy as np
-from gpiozero import LED,Buzzer,BadPinFactory 
+from gpiozero import LED,Buzzer,BadPinFactory, Device
 from logging.handlers import RotatingFileHandler 
-
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU2/BCM_BruteForce.log'
-handler = RotatingFileHandler(log_path, mode='w',maxBytes=5*1024*1024, backupCount=2) 
-
-# Clear the log file at the start of each run
-with open(log_path, 'w'):
-    pass  # This will clear the file content
-
-logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s') 
-
+from gpiozero.pins.native import NativeFactory
 
 class BCM:  
-
     # Intilise CAN interface  
-    def __init__(self, interface):  
+    def __init__(self, interface,bitrate):
+
+        # reset pins
+        Device.pin_factory=NativeFactory()
+
+        #set up logging
+        log_path='/home/lindamafunu/Desktop/Final-Project/ECU2/BCM.log'
+        handler = RotatingFileHandler(log_path, mode='w',maxBytes=5*1024*1024, backupCount=2) 
+        # Clear the log file at the start of each run
+        with open(log_path, 'w'):
+            pass  # This will clear the file content
+        logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s') 
 
         try: 
+            # Bring up the CAN interface before setting up the button and fuzzing
+            self.bring_up_can_interface(interface, bitrate) 
             self.bus = can.interface.Bus(interface, bustype='socketcan') 
         except Exception as e: 
             logging.error(f"Failed to initialize CAN interface: {e}") 
@@ -56,8 +60,11 @@ class BCM:
         # Shared secret key (this should be securely shared between sender and receiver)  
         self.SECRET_KEY = b'key' 
 
-        # last time macs where generated 
-        self.last_mac_generated=time.time() 
+        # Initialize the last message time to the current time
+        self.last_message_time = time.time()
+
+        # Set a timeout period (e.g., 10 seconds) after which sensors should turn off
+        self.message_timeout = 150 # in seconds 
 
         # List to store latency values
         self.latency_values = []
@@ -67,6 +74,25 @@ class BCM:
         self.origin='None' # origin of can message
         self.destination='BCM' # Destination is BCM
 
+    # Function to check the status of the CAN interface
+    def is_can_interface_up(self,interface):
+        # Use the 'ip' command to check if the interface is already up
+        result = os.system(f"ip link show {interface} | grep 'state UP' > /dev/null 2>&1")
+        return result == 0 # If the command returns 0, the interface is up
+
+    # Function to bring up the CAN interface only if it is down
+    def bring_up_can_interface(self,interface, bitrate):
+        if self.is_can_interface_up(interface):
+            print(f"{interface} is already up, no need to bring it up.")
+        else:
+            try:
+                print(f"Bringing up {interface} with bitrate {bitrate}...")
+                os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
+                os.system(f"sudo ifconfig {interface} txqueuelen 1000")  # Optional: Increase transmit queue length if needed
+                print(f"{interface} is up with bitrate {bitrate}.")
+            except Exception as e:
+                print(f"Failed to bring up CAN interface {interface}: {e}")
+                exit(1)
     
     # The function generate_mac you've provided is designed to 
     # generate a Message Authentication Code (MAC) using 
@@ -107,31 +133,34 @@ class BCM:
         """Process incoming CAN messages in a loop."""
         try:
             while True:  
-                message =self.bus.recv(timeout=0.01) 
+                message =self.bus.recv(timeout=0.01)
                 
+                # Check for timeout
+                if time.time() - self.last_message_time > self.message_timeout:
+                    self.cleanup()
+                    print("No CAN messages received. Sensors turned off due to timeout.")
+
                 if message: 
-                    #logging.info(f"Message ID={message.arbitration_id}, Data = {message.data}")
+                    # Update the last message time when a new message is received
+                    self.last_message_time = time.time()
+                    
                     error='None' # Errors
                     #Extract MAC - comment out lnes 98-11 to tesat without MAC
-                    mac_bytes=message.data[5:8] #received mac
-                    current_timestamp =time.time() # Current time in seconds
+                    mac_bytes=message.data[5:8] #received ma
                     Time_stamp= message.data[1:5] #time stamp 
                     
-                    # #if (current_timestamp - self.last_mac_generated) >=5: #check mac every 5 seconds
-                    # if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
-                    #     error='MAC verification failed'
-                    #     self.warning.on()
-                    #     #log before continuing
-                    #     latency=0 # latency not calculated for failed MAC
-                    #     self.log_message(message,latency,error)
-                    #     continue # to see how many messages fail
-                    # else:
-                    #     # logging.info('MAC validation succefull for message ID = {message.arbitration_id}')
-                    #     error='MAC verification successful'
-                    #     self.warning.off()
-                  
-                        #self.last_mac_generated=time.time() 
-
+                    # Verify CAN message MAC tag received
+                    if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
+                        error='MAC verification failed'
+                        self.warning.on()
+                        #log before continuing
+                        latency=0 # latency not calculated for failed MAC
+                        self.log_message(message,latency,error)
+                        continue # to see how many messages fail
+                    else:
+                        error='MAC verification successful'
+                        self.warning.off()
+                
                     #Process messages based on arbitration ID  
                     if message.arbitration_id == self.BELT_STATUS_ID:
                         self.origin='BSM'   # Belt status
@@ -155,8 +184,6 @@ class BCM:
                     
                     #logg messages
                     self.log_message(message,latency,error)
-               
-                      
     
         except KeyboardInterrupt:
             logging.info("KeyboardInterrupt detected, exiting gracefully.")
@@ -238,13 +265,13 @@ class BCM:
         """Perform any cleanup before exiting."""
         logging.info("Cleaning up resources...")
         # Turn off all LEDs and buzzer
+        self.warning.off()
         self.headlights.off()
         self.interior_lights.off()
         self.belt_status.off()
         
         # Calculate and log the average latency
         if self.latency_values:
-            #avg_latency = sum( self.latency_values) / len( self.latency_values)
             stats = self.calculate_statistics()
             logging.info("Latency Statistics:")
             for metric, value in stats.items():
@@ -255,8 +282,8 @@ class BCM:
 
         logging.info("Cleanup complete. Exiting program.")
 
-if __name__ == '__main__':  
-    bcm = BCM('can0')  
+if __name__ == '__main__': 
+    bcm = BCM('can0',500000)  
     bcm.process_can_Messages() 
 
  
