@@ -18,31 +18,11 @@ from signal import pause
 from threading import Thread
 
 # Set up logging
-log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing_mac.log'
+log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing.log'
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 with open(log_path,'w'):
     pass
 logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
-
-# # Function to check the status of the CAN interface
-# def is_can_interface_up(interface='can0'):
-#     # Use the 'ip' command to check if the interface is already up
-#     result = os.system(f"ip link show {interface} | grep 'state UP' > /dev/null 2>&1")
-#     return result == 0 # If the command returns 0, the interface is up
-
-# # Function to bring up the CAN interface only if it is down
-# def bring_up_can_interface(interface='can0', bitrate=500000):
-#     if is_can_interface_up(interface):
-#         logging.info(f"{interface} is already up, no need to bring it up.")
-#     else:
-#         try:
-#             logging.info(f"Bringing up {interface} with bitrate {bitrate}...")
-#             os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
-#             os.system(f"sudo ifconfig {interface} txqueuelen 1000")  # Optional: Increase transmit queue length if needed
-#             logging.info(f"{interface} is up with bitrate {bitrate}.")
-#         except Exception as e:
-#             logging.error(f"Failed to bring up CAN interface {interface}: {e}")
-#             exit(1)
 
 class Random_Fuzzer:
     
@@ -104,29 +84,6 @@ class Random_Fuzzer:
             logging.error(f"Unexpected error: {e}")
 
 if __name__ == '__main__':
-    # # Bring up the CAN interface before setting up the button and fuzzing
-    # bring_up_can_interface(interface='can0', bitrate=500000)
+ 
     fuzzer = Random_Fuzzer('can0')
     fuzzer.run(duration=120)
-
-# # Function to start fuzzing
-# def start_fuzzing():
-#     logging.info("Button pressed! Starting random fuzzing...")
-    
-#     def run_fuzzer():
-#         fuzzer = Random_Fuzzer('can0')
-#         fuzzer.run(duration=120)  # Adjust the duration as needed
-    
-#     fuzz_thread = Thread(target=run_fuzzer)
-#     fuzz_thread.start()
-
-# # Bring up the CAN interface before setting up the button and fuzzing
-# bring_up_can_interface(interface='can0', bitrate=500000)
-# # Set up the physical button on GPIO pin 17
-# button = Button(17)  # GPIO pin 17
-
-# # Register the button press event to trigger fuzzing
-# button.when_pressed = start_fuzzing
-
-# # Keep the program running and listen for button press
-# pause()  # This will keep it running on button press

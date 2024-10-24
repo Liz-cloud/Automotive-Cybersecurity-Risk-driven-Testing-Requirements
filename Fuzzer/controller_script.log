@@ -1,0 +1,39 @@
+Starting CONTROLLER!
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/native.py", line 237, in export
+    result = self._exports[pin]
+             ~~~~~~~~~~~~~^^^^^
+KeyError: 17
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/native.py", line 247, in export
+    result = os.open(self.path_value(pin),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio17/value'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Fuzzer_Controller.py", line 20, in <module>
+    random_fuzz_button = Button(17)   # Button for Random Fuzzing
+                         ^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/devices.py", line 108, in __call__
+    self = super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/input_devices.py", line 412, in __init__
+    super().__init__(
+  File "/usr/lib/python3/dist-packages/gpiozero/mixins.py", line 417, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/gpiozero/input_devices.py", line 167, in __init__
+    self.pin.edges = 'both'
+    ^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/__init__.py", line 441, in <lambda>
+    lambda self, value: self._set_edges(value),
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/native.py", line 519, in _set_edges
+    self.factory.fs.export(self._number)
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/native.py", line 251, in export
+    with io.open(self.path('export'), 'wb') as f:
+OSError: [Errno 22] Invalid argument
