@@ -10,28 +10,27 @@
 import can
 import time
 import random
-import os
 import logging
+import os
 from logging.handlers import RotatingFileHandler
-from gpiozero import Button  # Import Button from gpiozero
-from signal import pause
-from threading import Thread
-
-# Set up logging
-log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing.log'
-handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
-with open(log_path,'w'):
-    pass
-logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
 
 class Random_Fuzzer:
-    
+ 
     #ECU to send random CAN messages to the BCM ECU every interval. 
     # Generated random CAN ids over a range of 0x00-0x7FF and 
     # payload (data = [random.randint(0, 0xFF) for _ in range(8)] # Random data bytes)'
-    
     def __init__(self, interface):
+        # Set up logging
+        log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Random_Fuzzing.log'
+        handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
+        with open(log_path,'w'):
+            pass
+        logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
+
         try:
+            # # Bring up the CAN interface before setting up the button and fuzzing
+            # self.bring_up_can_interface(interface,bitrate)
+            print('Can Interface UP!')
             self.bus = can.interface.Bus(interface, bustype='socketcan')
         except Exception as e:
             logging.error(f"Failed to initialize CAN interface: {e}")
