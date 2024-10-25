@@ -17,24 +17,26 @@ import time
 import can
 import time
 import logging
+import os
 import hmac
 import hashlib
 from gpiozero import BadPinFactory, Button
 from logging.handlers import RotatingFileHandler
 
-#setup logging
-log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_short.log'
-handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
-
-# Clear the log file at the start of each run
-with open(log_path,'w'):
-    pass #this will clear the file content
-
-logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
 
 class DoorControlECU:
 
     def __init__(self, interface):
+        #setup logging
+        log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_short.log'
+        handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
+
+        # Clear the log file at the start of each run
+        with open(log_path,'w'):
+            pass #this will clear the file content
+
+        logging.basicConfig(handlers=[handler], level=logging.INFO, format='%(asctime)s %(message)s')
+
         try:
             self.bus = can.interface.Bus(interface, bustype='socketcan')
         except Exception as e:
