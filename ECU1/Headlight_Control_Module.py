@@ -136,6 +136,7 @@ class Headlight_Control_Module:
         while time.time()-start_time <duration:
             try:
                 elasped_time=time.time()- start_time
+                
                 #define the probabiliitoes for light_off and light_on based on elasped time
                 light_off_weight=max(0.1,1-(elasped_time/duration)) #gradually decreases
                 light_on_weight=1- light_off_weight # increases as light_off_weiht decreases

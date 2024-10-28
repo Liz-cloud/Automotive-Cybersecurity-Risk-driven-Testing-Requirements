@@ -15,8 +15,8 @@ Device.pins_factor=NativeFactory()
 
 # Set buttons
 try:
-    lock_button = Button(17)  # Adjust GPIO pin for Belt Status
-    headlight_button=Button(27) # Adjust GPIO pin for Door Control
+    door_button = Button(17)  # Adjust GPIO pin for Belt Status
+    light_button=Button(27) # Adjust GPIO pin for Door Control
     belt_button=Button(22)  # Adjust GPIO pin for Headlight Control
 except BadPinFactory as e:
     print(f'Failed to initialize button pin: {e}')
@@ -52,16 +52,16 @@ def run_door_control():
     print('Ending Door Lock/Unlock Simulation')
 
 def run_headlight_control():
-    print('Starting Headlight status Simulation')
+    print('Starting Light Level status Simulation')
     hcm = Headlight_Control_Module('can0') 
     hcm.send_light_data(duration=30)
-    print('Ending Headlight status Simulation')
+    print('Ending Light Level  status Simulation')
 
 def main():
     #Attach the button press events to the respective functions
     belt_button.when_pressed  = lambda: threading.Thread(target=run_belt_status).start()
-    lock_button.when_pressed = lambda: threading.Thread(target=run_door_control).start()
-    headlight_button.when_pressed=lambda: threading.Thread(target=run_headlight_control).start()
+    door_button.when_pressed = lambda: threading.Thread(target=run_door_control).start()
+    light_button.when_pressed=lambda: threading.Thread(target=run_headlight_control).start()
     print("Press each button to run its respective module.")
     
     # Keep the script running to listen for button presses
