@@ -18,11 +18,10 @@ import can
 import time
 import logging
 import os
+import random
 import hmac
 import hashlib
-from gpiozero import BadPinFactory, Button
 from logging.handlers import RotatingFileHandler
-
 
 class DoorControlECU:
 
@@ -54,14 +53,6 @@ class DoorControlECU:
         self.d_msg='None'
         self.error='None'
 
-        # Set lock/unlock button
-        try:
-            self.lock_button = Button(22)  # Set button to GPIO pin 22
-            self.lock_button.when_pressed = self.on_button_press
-        except BadPinFactory as e:
-            logging.error(f'Failed to initialize button pin: {e}')
-            exit(1)
-    
       #logg messages
     def log_message(self,message):
         can_id=message.arbitration_id
@@ -84,67 +75,79 @@ class DoorControlECU:
         mac = hmac.new(self.SECRET_KEY, data, hashlib.sha256).digest()
         return mac[:3]  # Using first 3 bytes of SHA-256 hash
 
-    def send_lock_status(self, is_locked):
-        """Send the door lock status message via CAN."""
-        if is_locked:
-            lock_status = 0x02
-            self.d_msg='Door is Unlocked'  
-        else :
-            lock_status=0x03
-            self.d_msg='Door is Locked'
+    def send_lock_status(self, lock_status, max_retries=3):
+        """Send the door lock status message via CANwith retries and CAN interface restart."""
+        retry_count = 0
+        while retry_count < max_retries:
+    
+            # Avoid sending the same command repeatedly
+            if self.last_command_sent == lock_status:
+                return  # If the command is the same as the last one, do not send it again
+            
+            self.last_command_sent = lock_status
 
-        # Avoid sending the same command repeatedly
-        if self.last_command_sent == lock_status:
-            return  # If the command is the same as the last one, do not send it again
-        
-        self.last_command_sent = lock_status
+            # Add a timestamp to the message
+            timestamp = int(time.time())  # Current time in seconds
 
-        # Add a timestamp to the message
-        timestamp = int(time.time())  # Current time in seconds
+            timestamp_bytes = timestamp.to_bytes(4, 'big')
+            msg_data = [lock_status] + list(timestamp_bytes)
 
-        timestamp_bytes = timestamp.to_bytes(4, 'big')
-        msg_data = [lock_status] + list(timestamp_bytes)
+            # Authenticate CAN messages by adding MAC tags to CAN messages
+            mac = self.generate_mac(bytearray(msg_data))
+            msg_data = msg_data + list(mac)
 
-        # Authenticate CAN messages by adding MAC tags to CAN messages
-        mac = self.generate_mac(bytearray(msg_data))
-        msg_data = msg_data + list(mac)
+            msg_data = msg_data[:8]  # Truncate to 8 bytes
 
-        msg_data = msg_data[:8]  # Truncate to 8 bytes
+            response_message = can.Message(
+                arbitration_id=self.LOCK_STATUS_ID,
+                data=msg_data,
+                is_extended_id=False
+            )
 
-        response_message = can.Message(
-            arbitration_id=self.LOCK_STATUS_ID,
-            data=msg_data,
-            is_extended_id=False
-        )
-
-        try:
-            self.bus.send(response_message)
-            #logging.info(f"Lock status response sent: ID={response_message.arbitration_id}, Data={response_message.data}")
-        except can.CanError as e:
-            self.error=f"Failed to send lock status response: {e}"
-            #logging.error(f"Failed to send lock status response: {e}")
-        self.log_message(response_message)
-        
-    def on_button_press(self):
-        """Handle the button press event to toggle the door lock status."""
-        self.is_locked = not self.is_locked
-        self.send_lock_status(self.is_locked)
-        
-
-    def continuous_send(self):
-        """Continuously send door lock status until keyboard interrupt."""
-        while True:
             try:
-                self.send_lock_status(self.is_locked)
+                self.bus.send(response_message)
+                self.log_message(response_message)
+                break  # Exit loop on success
+            except can.CanError as e:
+                self.error=f"Failed to send lock status response: {e}"
+                retry_count += 1
+                logging.error(f"Retry {retry_count}/{max_retries} - CAN send failed: {e}")
+                time.sleep(0.5)
 
-                time.sleep(0.1)  # 
+            # If max retries are reached, restart CAN interface
+            if retry_count == max_retries:
+                logging.error("Max retries reached, restarting CAN interface.")
+                self.restart_can_interface('can0', 500000)
+
+    def restart_can_interface(self, interface, bitrate):
+        """Restart CAN interface with specified bitrate and txqueuelen."""
+        os.system(f"sudo ip link set {interface} down")
+        time.sleep(1)
+        os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
+        os.system(f"sudo ifconfig {interface} txqueuelen 5000")
+        time.sleep(2)
+        logging.info(f"{interface} interface restarted with bitrate {bitrate}.")
+
+    def continuous_send(self,duration):
+        """Continuously send door lock status until keyboard interrupt."""
+    
+        start_time = time.time()
+        while time.time() - start_time < duration:
+            try:
+                elapsed_time = time.time() - start_time
+                # Define probabilities for door locked and door unlocked based on elapsed time
+                door_unlocked_weight = max(0.1, 1 - (elapsed_time / duration))  # Gradually decreases
+                door_locked_weight = 1 - door_unlocked_weight # Increases as door_unlocked_weight decreases
+
+                lock_status = random.choices([0x02, 0x03], weights=[door_unlocked_weight, door_locked_weight])[0]
+                self.d_msg = 'Door is Unlocked' if lock_status == 0x04 else 'Door is Locked'
+
+                self.send_lock_status(lock_status)
+                time.sleep(0.01)  # Adjust the sleep duration as needed
+
             except KeyboardInterrupt:
-                logging.info("KeyboardInterrupt detected, stopping status transmission.")
+                logging.info("KeyboardInterrupt detected, stopping belt status transmission.")
                 break
 
-if __name__ == '__main__':
-    dcm = DoorControlECU('can0')
-    try:
-        dcm.continuous_send()
-    except KeyboardInterrupt:
-        logging.info("Program terminated by user.")
+
+ 

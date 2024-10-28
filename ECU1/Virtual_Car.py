@@ -4,7 +4,6 @@ from gpiozero import Button, BadPinFactory, Device
 from gpiozero.pins.native import NativeFactory
 import os
 import threading
-from concurrent.futures import ThreadPoolExecutor
 import time
 import subprocess
 from Belt_Control_Module import Belt_Status_Module # bsm
@@ -49,7 +48,7 @@ def run_belt_status():
 def run_door_control():
     print('Starting Door Lock/Unlock Simulation')
     dcm = DoorControlECU('can0')
-    dcm.continuous_send()
+    dcm.continuous_send(duration=30)
     print('Ending Door Lock/Unlock Simulation')
 
 def run_headlight_control():
@@ -61,7 +60,7 @@ def run_headlight_control():
 def main():
     #Attach the button press events to the respective functions
     belt_button.when_pressed  = lambda: threading.Thread(target=run_belt_status).start()
-    #lock_button.when_pressed = lambda: threading.Thread(target=run_headlight_control).start()
+    lock_button.when_pressed = lambda: threading.Thread(target=run_door_control).start()
     headlight_button.when_pressed=lambda: threading.Thread(target=run_headlight_control).start()
     print("Press each button to run its respective module.")
     
