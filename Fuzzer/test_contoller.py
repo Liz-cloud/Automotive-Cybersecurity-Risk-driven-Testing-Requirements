@@ -5,7 +5,8 @@ from gpiozero.pins.native import NativeFactory
 from Random_Fuzzer import Random_Fuzzer # import Random Fuzzer Script
 from Linear_Fuzzer import Linear_Fuzzer # import Linear Fuzzer
 from BF_Fuzzing import BruteForce_Fuzzer # import Brute Force Fuzzing
-from Mutation_Based_Fuzzer import Mutation_Based_Fuzzer #import Mutated Basd Fuzzinbg
+from Mutation_Based_Fuzzer import Mutation_Based_Fuzzer #import Mutated Basd Fuzzing
+from Replay_Fuzzing import Replay_Fuzzer #import Replay Fuzzing
 import threading
 import time
 import os
@@ -22,6 +23,7 @@ try:
     linear_button = Button(27)
     bruteforce_button=Button(22)
     mutatedbased_button=Button(23)
+    replay_button=Button(21)
 except BadPinFactory as e:
     print('failed to set pins')
     exit(1)
@@ -122,6 +124,22 @@ def start_mutatetedbased_fuzzing():
     restart_can_interface('can0', 500000)  # Restart CAN after fuzzing
     fuzzing_in_progress = False
 
+# Define a function to run the fuzzing process
+def start_replay_attack():
+    """Function to start replay attack process."""
+    global fuzzing_in_progress
+    if fuzzing_in_progress:
+        print("Fuzzing is already in progress. Please wait.")
+        return
+    fuzzing_in_progress = True
+
+    print("Starting Replay Attack..")
+    rf=Replay_Fuzzer('can0', duration=60, interval=0.01)
+    rf.run()
+    print("Replay Attack completed.")
+    restart_can_interface('can0', 500000)  # Restart CAN after fuzzing
+    fuzzing_in_progress = False
+
 # Bring up the CAN interface before setting up the button and fuzzing
 bring_up_can_interface('can0',500000)
 print('CAN interface is UP!')
@@ -131,6 +149,7 @@ random_button.when_pressed = lambda: threading.Thread(target=start_random_fuzzin
 linear_button.when_pressed = lambda: threading.Thread(target=start_linear_fuzzing).start()
 bruteforce_button.when_pressed = lambda: threading.Thread(target=start_bruteforce_fuzzing).start()
 mutatedbased_button.when_pressed = lambda: threading.Thread(target=start_mutatetedbased_fuzzing).start()
+replay_button.when_pressed=lambda:threading.Thread(target=start_replay_attack).start()
 
 # Keep the script running to listen for button presses
 print("Press the button to start fuzzing.")

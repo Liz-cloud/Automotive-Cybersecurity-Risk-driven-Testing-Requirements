@@ -107,12 +107,13 @@ import pickle
 import logging
 from logging.handlers import RotatingFileHandler
 import os
+import pprint
 
 class Replay_Fuzzer:
     
     def __init__(self, interface, duration, interval):
         # Set up logging
-        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Replay_Fuzzing_Door_mac.log'
+        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Replay_Attack.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
@@ -142,6 +143,7 @@ class Replay_Fuzzer:
         logging.info(log_entry)
     
     def capture_can_frames(self):
+        '''Capture CAN Messages send over CAN bus and save them'''
         start_time = time.time()
         print('Start Capturing ...')
         while time.time() - start_time < self.capture_duration:
@@ -157,12 +159,14 @@ class Replay_Fuzzer:
         print('CAN message capture complete')
         self.save_captured_messages()
     
-    def save_captured_messages(self, filename='captured_frames.pkl'):
+    def save_captured_messages(self, filename='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frames.pkl'):
+        '''Save the captured CAN messages to a file'''
         with open(filename, 'wb') as f:
             pickle.dump(self.capture_frames, f)
         self.d_msg = f'Captured frames saved to {filename}'
 
     def replay_frames(self):
+        '''Replay the captured CAN messages to CAN bus'''
         retry_limit = 3  # Number of retries before attempting a CAN interface restart
         for frame in self.capture_frames:
             retry_count = 0
@@ -198,12 +202,28 @@ class Replay_Fuzzer:
             logging.error(f"Failed to restart CAN interface: {e}")
             exit(1)
     
+    def read_file(self):
+    
+        obj = pickle.load(open("/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frames.pkl", "rb"))
+
+        with open("'/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frame.txt", "a") as f:
+            print(f"Loaded {len(obj)} captured frames from captured_frames.pkl", file=f)
+            print('!')
+            pprint.pprint(obj, stream=f)
+    
     def run(self):
+        '''Send captured CAN message to the bus for a specified duration'''
         try:
             self.capture_can_frames()
             self.replay_frames()
+            self.read_file()
         except KeyboardInterrupt:
             logging.info("KeyboardInterrupt detected, stopping fuzzing.")
         except Exception as e:
             logging.error(f"Unexpected error: {e}")
 
+
+# if __name__ == '__main__':
+    
+#     rf=Replay_Fuzzer('can0', duration=60, interval=0.01)
+#     rf.run()
