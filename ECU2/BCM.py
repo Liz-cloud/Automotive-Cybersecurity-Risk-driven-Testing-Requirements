@@ -149,17 +149,17 @@ class BCM:
                     mac_bytes=message.data[5:8] #received ma
                     Time_stamp= message.data[1:5] #time stamp 
                     
-                    # # Verify CAN message MAC tag received
-                    # if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
-                    #     error='MAC verification failed'
-                    #     self.warning.on()
-                    #     #log before continuing
-                    #     latency=0 # latency not calculated for failed MAC
-                    #     self.log_message(message,latency,error)
-                    #     continue # to see how many messages fail
-                    # else:
-                    #     error='MAC verification successful'
-                    #     self.warning.off()
+                    # Verify CAN message MAC tag received
+                    if not self.verify_mac(message.data[:5],bytes(mac_bytes)):
+                        error='MAC verification failed'
+                        self.warning.on()
+                        #log before continuing
+                        latency=0 # latency not calculated for failed MAC
+                        self.log_message(message,latency,error)
+                        continue # to see how many messages fail
+                    else:
+                        error='MAC verification successful'
+                        self.warning.off()
                 
                     #Process messages based on arbitration ID  
                     if message.arbitration_id == self.BELT_STATUS_ID:
