@@ -1,3 +1,5 @@
+# Test the use of raspeberry pi gpio pins with sensors
+
 import RPi.GPIO as GPIO
 from time import sleep
 

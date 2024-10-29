@@ -1,4 +1,5 @@
 # send_can_2.py
+#test sending of CAN messages on can bus
 import can
 import time
 import random

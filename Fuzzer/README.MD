@@ -6,21 +6,22 @@
 
 ### Attacker ECU:
 
-#### Instructions to run  code:
-    1. Bring Up the CAN Interface: 
-        - Set can0 interface speed to 500 Kbps:  
-            sudo ip link set can0 up type can bitrate 500000 sample-point 0.875  
+### Fuzzer
+- Contains Python scripts to launch fuzz tests on the Body Control Module (BCM) ECU
+- Fuzzing_Controller.py controlls how the tests are launched
+- Associated log files for sent fuzzing messages from sessions
+- test_buttons.py file is a file used to the use of input  and output devices from  gpio signals
+- test_send.py file to test the sending of CAN messages via the CAN protocol to see if connection was established
 
-        - Set to can0 to “steady” state (steady green led on USBD-CAN Adapter):
-            sudo ip link set can0 up  
-
-    2. To bring down interface (steady red led on USBD-CAN Adapter):  
-        sudo ip link set can0 down 
-
-    3. Check status of can
-        sudo ip link
-        
-    4. python3 python_file_name
+#### Fuzz Tests:
+1. Random Fuzzing
+2. Linear Fuzzing
+3. Brute Force Fuzzing
+4. Mutation-Based Fuzzing
+5. Replay Attacks
+   
+  
+***NB: Lauch One attack each given time***
 
 ##### Code Source: 
    https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
