@@ -17,7 +17,7 @@ from logging.handlers import RotatingFileHandler
 class Linear_Fuzzer:
     def __init__(self, interface):
         # Set up logging
-        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Linear_Fuzzing.log'
+        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
