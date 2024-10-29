@@ -27,7 +27,7 @@ class DoorControlECU:
 
     def __init__(self, interface):
         #setup logging
-        log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/DCM_short.log'
+        log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/Sensor.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
         # Clear the log file at the start of each run
@@ -143,7 +143,7 @@ class DoorControlECU:
                 self.d_msg = 'Door is Unlocked' if lock_status == 0x04 else 'Door is Locked'
 
                 self.send_lock_status(lock_status)
-                time.sleep(0.01)  # Adjust the sleep duration as needed
+                time.sleep(0.1 ) # Adjust the sleep duration as needed
 
             except KeyboardInterrupt:
                 logging.info("KeyboardInterrupt detected, stopping belt status transmission.")

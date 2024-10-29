@@ -131,8 +131,12 @@ class Belt_Status_Module:
                 self.d_msg = 'Belt is OFF' if belt_status == 0x04 else 'Belt is ON'
 
                 self.send_bcm_command(belt_status)
-                time.sleep(0.01)  # Adjust the sleep duration as needed
+                time.sleep(0.1)  # Adjust the sleep duration as needed
 
             except KeyboardInterrupt:
                 logging.info("KeyboardInterrupt detected, stopping belt status transmission.")
                 break
+
+# if __name__ == '__main__':
+#     bsm = Belt_Status_Module('can0')
+#     bsm.send_belt_data(duration=30)

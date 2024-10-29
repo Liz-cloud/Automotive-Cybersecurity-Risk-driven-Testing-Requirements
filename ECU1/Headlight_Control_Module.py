@@ -149,7 +149,7 @@ class Headlight_Control_Module:
                 else:
                     self.send_bcm_command(0x00)  # Command to turn off headlights
                     self.d_msg='Headlights OFF'
-                time.sleep(0.01) 
+                time.sleep(0.1) 
             except KeyboardInterrupt:
                 logging.info("KeyboardInterrupt detected, stopping status transmission.")
                 break

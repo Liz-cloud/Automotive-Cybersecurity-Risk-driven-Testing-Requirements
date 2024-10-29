@@ -5,10 +5,9 @@ from gpiozero.pins.native import NativeFactory
 import os
 import threading
 import time
-import subprocess
 from Belt_Control_Module import Belt_Status_Module # bsm
-from DoorControl_Module import DoorControlECU
-from Headlight_Control_Module import Headlight_Control_Module
+from DoorControl_Module import DoorControlECU #dcm
+from Headlight_Control_Module import Headlight_Control_Module #hcm
 
 # rest pins
 Device.pins_factor=NativeFactory()
@@ -22,22 +21,25 @@ except BadPinFactory as e:
     print(f'Failed to initialize button pin: {e}')
     exit(1)
 
+# Function to check the status of the CAN interface
+def is_can_interface_up(interface):
+    # Use the 'ip' command to check if the interface is already up
+    result = os.system(f"ip link show {interface} | grep 'state UP' > /dev/null 2>&1")
+    return result == 0 # If the command returns 0, the interface is up
 
-def bring_up_can_interface(interface="can0"):
-    """Check if CAN interface is up; if not, bring it up and adjust queue length."""
-    try:
-        result = subprocess.run(["ip", "link", "show", interface], capture_output=True, text=True)
-        if "state DOWN" in result.stdout:
-            print(f"{interface} is down. Bringing it up...")
-            subprocess.run(["sudo", "ip", "link", "set", interface, "up"])
-            subprocess.run(["sudo", "ip", "link", "set", interface, "type", "can", "bitrate", "500000"])
-            os.system(f"sudo ifconfig {interface} txqueuelen 2000")  # Increase transmit queue length
-            print(f"{interface} is now up with transmit queue length set to 2000.")
-        else:
-            print(f"{interface} is already up.")
-            os.system(f"sudo ifconfig {interface} txqueuelen 2000")  # Adjust transmit queue length if needed
-    except Exception as e:
-        print(f"Failed to check or bring up CAN interface: {e}")
+# Function to bring up the CAN interface only if it is down
+def bring_up_can_interface(interface, bitrate):
+    if is_can_interface_up(interface):
+        print(f"{interface} is already up, no need to bring it up.")
+    else:
+        try:
+            print(f"Bringing up {interface} with bitrate {bitrate}...")
+            os.system(f"sudo ip link set {interface} up type can bitrate {bitrate}")
+            os.system(f"sudo ifconfig {interface} txqueuelen 5000")  # Optional: Increase transmit queue length if needed
+            print(f"{interface} is up with bitrate {bitrate}.")
+        except Exception as e:
+            print(f"Failed to bring up CAN interface {interface}: {e}")
+            exit(1)
 
 def run_belt_status():
     print('Starting Belt Status Simulation')
@@ -59,9 +61,9 @@ def run_headlight_control():
 
 def main():
     #Attach the button press events to the respective functions
-    belt_button.when_pressed  = lambda: threading.Thread(target=run_belt_status).start()
-    door_button.when_pressed = lambda: threading.Thread(target=run_door_control).start()
-    light_button.when_pressed=lambda: threading.Thread(target=run_headlight_control).start()
+    belt_button.when_pressed  = lambda: threading.Thread(target=run_belt_status,daemon=True).start()
+    door_button.when_pressed = lambda: threading.Thread(target=run_door_control,daemon=True).start()
+    light_button.when_pressed=lambda: threading.Thread(target=run_headlight_control,daemon=True).start()
     print("Press each button to run its respective module.")
     
     # Keep the script running to listen for button presses
@@ -72,5 +74,6 @@ def main():
         print("Exiting program.")
 
 if __name__ == '__main__':
-    bring_up_can_interface("can0")
+    bring_up_can_interface("can0",50000)
+    time.sleep(2)
     main()
