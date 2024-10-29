@@ -52,10 +52,11 @@
   - This will send sensor data from Door Control Module,Headlight Control Module and Belt Control Module to Body Control Module influence output sensors's behavoir
   - If you press Door button it will simulate Door Lock and Unlock status 
   - If you press Light button it will simulate Light levels (low and hight) status
-  - If you press Belt button it will simulate Belt ON and OFF status 
+  - If you press Belt button it will simulate Belt ON and OFF status
+  - The print and error output for running the BCMM.py are found in the Sensor_data_script.log file 
 
 **3. Start Attacker ECU**
-  - This will lauch different kinds offf fuzzing attacks onto the CAN bus to manipulate BCM behaviour
+  - This will lauch different kinds of fuzzing attacks onto the CAN bus to manipulate BCM behaviour
   - The print and error output for running the fuzzing scripts are found in the controller_script.log file
   - If you press Random button it will run Random Fuzzing python script
   - If you press Linear button it will run Linear Fuzzing python script
