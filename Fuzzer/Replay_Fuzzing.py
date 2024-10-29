@@ -206,7 +206,7 @@ class Replay_Fuzzer:
     
         obj = pickle.load(open("/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frames.pkl", "rb"))
 
-        with open("'/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frame.txt", "a") as f:
+        with open("/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_messages.txt", "a") as f:
             print(f"Loaded {len(obj)} captured frames from captured_frames.pkl", file=f)
             print('!')
             pprint.pprint(obj, stream=f)
