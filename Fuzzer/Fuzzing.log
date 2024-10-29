@@ -1,0 +1,951 @@
+2024-10-29 14:47:57,723 Created a socket
+2024-10-29 14:47:57,779 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9dc\xd7\xd4')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:47:57,880 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9d\x8b\x95\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:47:58,886 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9e\xbe\xd6\xd9')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:47:58,988 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9e\x91\xadw')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:47:59,794 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9f\x962,')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:47:59,899 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9f\xa4-\x98')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:00,102 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa0OF ')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:00,204 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa0\xfc\x1af')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:01,410 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa1w\x92\x9b')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:01,613 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa1\x8c/u')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:01,816 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa1w\x92\x9b')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,017 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,122 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,325 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,426 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,528 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,730 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:02,831 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,033 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,134 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,235 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,438 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,540 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:03,640 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,042 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,143 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,345 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,446 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,546 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,748 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,849 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:04,951 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:05,053 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:05,255 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa5\x1e*\xd2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:05,658 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:05,759 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa5\x1e*\xd2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:05,861 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:06,263 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:06,464 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa69\xef\x11')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:06,566 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:06,766 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa69\xef\x11')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:06,867 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:07,068 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa7\xa7\x9b?')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:07,172 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa7ljx')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:07,673 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa7\xa7\x9b?')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:07,775 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa7ljx')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:08,077 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:08,377 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa81k\xf7')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:08,479 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:08,580 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa81k\xf7')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:08,983 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:09,085 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa9\x0c\xecu')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:09,185 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa9\x85\xba\x05')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:09,788 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa9\x0c\xecu')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:10,090 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaa\xa1\xc9\x18')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:10,694 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaa\x82>G')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:11,297 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xab/\xb4\x9f')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:11,498 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xab\r\xbf\x94')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:11,598 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xab/\xb4\x9f')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:11,901 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xab\r\xbf\x94')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:12,306 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xac\xcf\x890')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:12,707 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xac\xd7\xeb\x04')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:12,808 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xac\xcf\x890')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:12,909 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xac\xd7\xeb\x04')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:13,011 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:13,413 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xad;\xef\xea')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:13,515 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:13,619 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xad;\xef\xea')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:13,718 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,123 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,325 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,427 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,529 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,631 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:14,734 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:15,337 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaf!@\xca')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:15,442 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaf\x8a\xb1\xf0')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:15,543 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaf!@\xca')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:15,645 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaf\x8a\xb1\xf0')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:16,047 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb0\xea\xb2\xf5')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:16,349 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb0\xaf8\xb1')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:17,454 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb16G\xab')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:17,656 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb1\x9c_\x19')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,060 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,163 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,366 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,467 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,570 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,672 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:18,981 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:19,183 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb3\xe95\x18')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:19,785 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb3\xcc\xf9\xce')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:19,887 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb3\xe95\x18')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:21,092 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb5\xb3gT')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:21,294 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb5\xa27I')
+Diagnostic message: Captured frame
+Error: None
+
+2024-10-29 14:48:57,784 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9dc\xd7\xd4')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,795 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9d\x8b\x95\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,805 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9e\xbe\xd6\xd9')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,816 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9e\x91\xadw')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,827 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\x9f\x962,')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,837 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\x9f\xa4-\x98')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,848 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa0OF ')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,858 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa0\xfc\x1af')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,869 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa1w\x92\x9b')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,880 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa1\x8c/u')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,890 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa1w\x92\x9b')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,901 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,911 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,922 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,932 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,942 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,953 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa2\xbb]\xe2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,963 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa2\xdb\xdfH')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,973 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,984 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:57,994 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,004 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,015 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa3\xe2\x9c\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,025 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa3D\xe02')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,036 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,046 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,056 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,067 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,077 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,087 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,098 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa4\x87(_')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,108 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa4IP\xae')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,119 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,129 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa5\x1e*\xd2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,139 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,150 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa5\x1e*\xd2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,160 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa5\x96?\xb7')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,171 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,182 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa69\xef\x11')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,193 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,203 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa69\xef\x11')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,214 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa6\x1f{\xa1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,225 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa7\xa7\x9b?')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,235 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa7ljx')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,245 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa7\xa7\x9b?')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,256 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa7ljx')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,266 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,277 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa81k\xf7')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,287 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,298 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa81k\xf7')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,308 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa8\xf9\x9fy')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,318 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa9\x0c\xecu')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,329 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xa9\x85\xba\x05')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,339 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xa9\x0c\xecu')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,350 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaa\xa1\xc9\x18')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,361 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaa\x82>G')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,372 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xab/\xb4\x9f')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,383 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xab\r\xbf\x94')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,393 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xab/\xb4\x9f')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,404 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xab\r\xbf\x94')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,415 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xac\xcf\x890')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,426 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xac\xd7\xeb\x04')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,437 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xac\xcf\x890')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,448 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xac\xd7\xeb\x04')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,458 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,471 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xad;\xef\xea')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,482 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,493 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xad;\xef\xea')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,504 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xad\x81b\xb2')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,515 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,525 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,536 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,549 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,559 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xae\xae>\x86')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,570 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xae\x08\x9e\xca')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,584 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaf!@\xca')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,595 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaf\x8a\xb1\xf0')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,609 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xaf!@\xca')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,620 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xaf\x8a\xb1\xf0')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,631 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb0\xea\xb2\xf5')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,645 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb0\xaf8\xb1')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,655 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb16G\xab')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,666 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb1\x9c_\x19')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,677 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,689 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,700 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,711 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,722 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,734 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb2\xd5t\x8a')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,745 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb2\xf4\x0c\xc4')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,759 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb3\xe95\x18')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,770 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb3\xcc\xf9\xce')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,789 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb3\xe95\x18')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,802 CAN ID: 256
+Data: bytearray(b'\x04g \xf5\xb5\xb3gT')
+Diagnostic message: Replayed frame
+Error: None
+
+2024-10-29 14:48:58,814 CAN ID: 256
+Data: bytearray(b'\x05g \xf5\xb5\xa27I')
+Diagnostic message: Replayed frame
+Error: None
+
