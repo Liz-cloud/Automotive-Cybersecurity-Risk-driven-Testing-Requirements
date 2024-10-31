@@ -124,10 +124,11 @@ class Belt_Status_Module:
             try:
                 elapsed_time = time.time() - start_time
                 # Define probabilities for belt_off and belt_on based on elapsed time
-                belt_off_weight = max(0.1, 1 - (elapsed_time / duration))  # Gradually decreases
-                belt_on_weight = 1 - belt_off_weight  # Increases as belt_off_weight decreases
+                # belt_off_weight = max(0.1, 1 - (elapsed_time / duration))  # Gradually decreases
+                # belt_on_weight = 1 - belt_off_weight  # Increases as belt_off_weight decreases
 
-                belt_status = random.choices([0x04, 0x05], weights=[belt_off_weight, belt_on_weight])[0]
+                # belt_status = random.choices([0x04, 0x05], weights=[belt_off_weight, belt_on_weight])[0]
+                belt_status=0x04
                 self.d_msg = 'Belt is OFF' if belt_status == 0x04 else 'Belt is ON'
 
                 self.send_bcm_command(belt_status)
