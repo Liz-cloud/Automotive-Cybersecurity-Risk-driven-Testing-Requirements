@@ -27,7 +27,7 @@ class DoorControlECU:
 
     def __init__(self, interface):
         #setup logging
-        log_path='/home/lindamafunu/Desktop/Final-Project/ECU1/Sensor.log'
+        log_path='/ECU1/Sensor.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
         # Clear the log file at the start of each run
