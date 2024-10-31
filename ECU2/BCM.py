@@ -15,7 +15,7 @@ import hmac
 import hashlib 
 import os
 import numpy as np
-from gpiozero import LED,Buzzer,BadPinFactory, Device
+from gpiozero import LED,BadPinFactory, Device
 from logging.handlers import RotatingFileHandler 
 from gpiozero.pins.native import NativeFactory
 
@@ -27,7 +27,7 @@ class BCM:
         Device.pin_factory=NativeFactory()
 
         #set up logging
-        log_path='ECU2/BCM.log'
+        log_path='/home/lindamafunu/Desktop/Automotive-Cybersecurity-Risk-driven-Testing-Requirements/ECU2/BCM.log'
         handler = RotatingFileHandler(log_path, mode='w',maxBytes=5*1024*1024, backupCount=2) 
         # Clear the log file at the start of each run
         with open(log_path, 'w'):
@@ -44,7 +44,7 @@ class BCM:
 
         #initialise output devices using gpio pins
         try: 
-            self.warning=Buzzer(24) # unverified can messages
+            self.warning=LED(24) # unverified can messages
             self.headlights=LED(23) # blue led 
             self.interior_lights=LED(27) # yellow led 
             self.belt_status=LED(22)#RED LED 
