@@ -1,0 +1,2159 @@
+2024-10-31 13:12:53,504 Created a socket
+2024-10-31 13:12:53,506 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82U\xbd\x11b')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: None
+Error:None
+
+2024-10-31 13:12:56,119 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82X\x10\x17t')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:56,223 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82X|\x96\xd2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:56,326 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82X\x10\x17t')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:56,428 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82X|\x96\xd2')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:57,736 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82Y?\x15\xf3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:57,838 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82Y\xf2o\x0e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:58,042 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ZR\xe2\xd5')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:58,244 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82Z\xbf\xfb ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:58,848 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ZR\xe2\xd5')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:58,951 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82Z\xbf\xfb ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:59,254 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82[(\rN')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:59,357 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82[}\x84\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:12:59,660 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82[(\rN')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:12:59,763 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82[}\x84\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:00,166 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82\\*D\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:00,267 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82\\\x88\x01=')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:00,369 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82\\*D\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:00,471 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82\\\x88\x01=')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:00,874 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82\\*D\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:00,975 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82\\\x88\x01=')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:01,077 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82].\xea\x7f')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:01,180 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82]9~\x08')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:01,666 Created a socket
+2024-10-31 13:13:01,667 CAN ID: 512
+Data: bytearray(b'\x02g#\x82]}b\xb2')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:01,785 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82].\xea\x7f')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:01,887 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82]9~\x08')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:02,091 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82^\x01\xb5\x93')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:02,171 CAN ID: 512
+Data: bytearray(b'\x03g#\x82^ 6c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:02,274 CAN ID: 512
+Data: bytearray(b'\x02g#\x82^mN\xf3')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:02,295 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82^\xeaW\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:02,499 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82^\x01\xb5\x93')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:02,602 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82^\xeaW\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:02,806 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82^\x01\xb5\x93')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:02,915 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82^\xeaW\xe9')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:03,420 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82_\xba\xe7\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:03,485 CAN ID: 512
+Data: bytearray(b'\x03g#\x82_\xf1*\x8f')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:03,523 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82_d\x94\xe8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:03,589 CAN ID: 512
+Data: bytearray(b'\x02g#\x82_\xe7\xb2I')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:03,626 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82_\xba\xe7\xa3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:03,732 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82_d\x94\xe8')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:04,340 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82`\x90\xe34')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:04,342 Created a socket
+2024-10-31 13:13:04,345 CAN ID: 256
+Data: bytearray(b'\x04g#\x82`\x18~3')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:04,443 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82`\xd2\xe7\x85')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:04,496 CAN ID: 512
+Data: bytearray(b'\x03g#\x82`\x13\x10\xf9')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:04,599 CAN ID: 512
+Data: bytearray(b'\x02g#\x82`\x99\xf1+')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:05,048 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ap\xa20')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:05,104 CAN ID: 512
+Data: bytearray(b'\x03g#\x82a\xe9\x8a\xea')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:05,152 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82a\xffr\x9e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:05,309 CAN ID: 512
+Data: bytearray(b'\x02g#\x82a\xb3\xec\xbf')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:05,356 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ap\xa20')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:05,558 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82a\xffr\x9e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:05,660 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ap\xa20')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:05,763 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82a\xffr\x9e')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:05,966 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ap\xa20')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:06,016 CAN ID: 512
+Data: bytearray(b'\x03g#\x82b"\xf7-')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:06,070 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82b\xb3l\xce')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:06,121 CAN ID: 512
+Data: bytearray(b'\x02g#\x82bi\xb2u')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:06,272 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82b?\x95\xc4')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:06,324 CAN ID: 512
+Data: bytearray(b'\x03g#\x82b"\xf7-')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:06,429 CAN ID: 512
+Data: bytearray(b'\x02g#\x82bi\xb2u')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:06,475 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82b\xb3l\xce')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:06,679 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82b?\x95\xc4')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:06,784 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82b\xb3l\xce')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:07,236 CAN ID: 512
+Data: bytearray(b'\x03g#\x82c\xba\x0c\xb7')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:07,288 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82c\xba\xbf\xf7')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:07,340 CAN ID: 512
+Data: bytearray(b'\x02g#\x82cp\xb5\xa0')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:07,467 CAN ID: 256
+Data: bytearray(b'\x05g#\x82c\xbe\x03\xc6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:07,493 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82c\xd8\xce\x02')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:07,569 CAN ID: 256
+Data: bytearray(b'\x04g#\x82c>\xba\x88')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:07,643 CAN ID: 512
+Data: bytearray(b'\x03g#\x82c\xba\x0c\xb7')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:07,850 CAN ID: 512
+Data: bytearray(b'\x02g#\x82cp\xb5\xa0')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:08,096 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82d\xd5\x0e\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:08,297 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82d\x08j\xfa')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:08,373 CAN ID: 256
+Data: bytearray(b'\x05g#\x82d\xf0>=')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:08,399 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82d\xd5\x0e\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:08,476 CAN ID: 256
+Data: bytearray(b'\x04g#\x82d7\xef\x88')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:08,500 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82d\x08j\xfa')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:08,702 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82d\xd5\x0e\xa1')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:08,754 CAN ID: 512
+Data: bytearray(b'\x03g#\x82da\\\x93')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:08,778 CAN ID: 256
+Data: bytearray(b'\x05g#\x82d\xf0>=')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:08,856 CAN ID: 512
+Data: bytearray(b'\x02g#\x82d\xe524')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:08,879 CAN ID: 256
+Data: bytearray(b'\x04g#\x82d7\xef\x88')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:09,004 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82ei\x9f\xca')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:09,106 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82e\xd4{\x17')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:09,259 CAN ID: 512
+Data: bytearray(b'\x03g#\x82e\x1c-9')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:09,308 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82ei\x9f\xca')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:09,460 CAN ID: 512
+Data: bytearray(b'\x02g#\x82e\xc98c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:09,610 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82e\xd4{\x17')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:09,812 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82ei\x9f\xca')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:09,862 CAN ID: 512
+Data: bytearray(b'\x03g#\x82e\x1c-9')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:09,884 CAN ID: 256
+Data: bytearray(b'\x05g#\x82e\xd4\xe8\x85')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:09,913 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82e\xd4{\x17')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:09,963 CAN ID: 512
+Data: bytearray(b'\x02g#\x82e\xc98c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:09,985 CAN ID: 256
+Data: bytearray(b'\x04g#\x82e\xef\xdfz')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:10,086 CAN ID: 256
+Data: bytearray(b'\x05g#\x82f\xac\xa0}')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:10,114 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82f~\xc66')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:10,187 CAN ID: 256
+Data: bytearray(b'\x04g#\x82f\xeb34')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:10,289 CAN ID: 256
+Data: bytearray(b'\x05g#\x82f\xac\xa0}')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:10,465 CAN ID: 512
+Data: bytearray(b'\x03g#\x82f\xdc\x1e<')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:10,491 CAN ID: 256
+Data: bytearray(b'\x04g#\x82f\xeb34')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:10,567 CAN ID: 512
+Data: bytearray(b'\x02g#\x82fM\x0er')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:10,617 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82f\x81\\^')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:10,669 CAN ID: 512
+Data: bytearray(b'\x03g#\x82f\xdc\x1e<')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:10,771 CAN ID: 512
+Data: bytearray(b'\x02g#\x82fM\x0er')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:10,793 CAN ID: 256
+Data: bytearray(b'\x05g#\x82f\xac\xa0}')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:10,818 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82f~\xc66')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:10,894 CAN ID: 256
+Data: bytearray(b'\x04g#\x82f\xeb34')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:10,919 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82f\x81\\^')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:11,020 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82g\tp\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:11,173 CAN ID: 512
+Data: bytearray(b'\x03g#\x82gg\x91\x90')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:11,222 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82g?\x19\x8a')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:11,275 CAN ID: 512
+Data: bytearray(b'\x02g#\x82gc\x81\x88')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:11,424 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82g\tp\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:11,477 CAN ID: 512
+Data: bytearray(b'\x03g#\x82gg\x91\x90')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:11,528 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82g?\x19\x8a')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:11,597 CAN ID: 256
+Data: bytearray(b'\x05g#\x82g\x1f2\x19')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:11,629 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82g\tp\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:11,680 CAN ID: 512
+Data: bytearray(b'\x02g#\x82gc\x81\x88')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:11,698 CAN ID: 256
+Data: bytearray(b'\x04g#\x82g\xebWN')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:11,731 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82g?\x19\x8a')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:11,805 CAN ID: 256
+Data: bytearray(b'\x05g#\x82g\x1f2\x19')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:11,907 CAN ID: 256
+Data: bytearray(b'\x04g#\x82g\xebWN')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:11,933 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82g\tp\x94')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:12,043 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82hP\xae\xac')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:12,210 CAN ID: 256
+Data: bytearray(b'\x05g#\x82h\xf4<t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:12,285 CAN ID: 512
+Data: bytearray(b'\x03g#\x82h\xd6\x12\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:12,346 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82h\x06,\x03')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:12,391 CAN ID: 512
+Data: bytearray(b'\x02g#\x82h4\xb7\x8f')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:12,413 CAN ID: 256
+Data: bytearray(b'\x04g#\x82h\xb4;\xdc')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:12,549 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82hP\xae\xac')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:12,595 CAN ID: 512
+Data: bytearray(b'\x03g#\x82h\xd6\x12\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:12,697 CAN ID: 512
+Data: bytearray(b'\x02g#\x82h4\xb7\x8f')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:12,715 CAN ID: 256
+Data: bytearray(b'\x05g#\x82h\xf4<t')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:12,800 CAN ID: 512
+Data: bytearray(b'\x03g#\x82h\xd6\x12\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:12,819 CAN ID: 256
+Data: bytearray(b'\x04g#\x82h\xb4;\xdc')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:12,853 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82h\x06,\x03')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:12,902 CAN ID: 512
+Data: bytearray(b'\x02g#\x82h4\xb7\x8f')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:13,059 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ipD\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:13,222 CAN ID: 256
+Data: bytearray(b'\x05g#\x82iJQ\xa0')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:13,304 CAN ID: 512
+Data: bytearray(b'\x03g#\x82iP\x128')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:13,323 CAN ID: 256
+Data: bytearray(b'\x04g#\x82i\x7f\x1ct')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:13,361 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82i\xb3\xff_')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:13,405 CAN ID: 512
+Data: bytearray(b'\x02g#\x82i\xd6\x19\xb4')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:13,425 CAN ID: 256
+Data: bytearray(b'\x05g#\x82iJQ\xa0')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:13,463 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82ipD\xbb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:13,526 CAN ID: 256
+Data: bytearray(b'\x04g#\x82i\x7f\x1ct')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:13,707 CAN ID: 512
+Data: bytearray(b'\x03g#\x82iP\x128')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:13,808 CAN ID: 512
+Data: bytearray(b'\x02g#\x82i\xd6\x19\xb4')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:13,828 CAN ID: 256
+Data: bytearray(b'\x05g#\x82iJQ\xa0')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:13,929 CAN ID: 256
+Data: bytearray(b'\x04g#\x82i\x7f\x1ct')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:14,068 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82jB\xdf\xcb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:14,110 CAN ID: 512
+Data: bytearray(b'\x03g#\x82j\x8f\x8e\xb6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:14,131 CAN ID: 256
+Data: bytearray(b'\x05g#\x82jt\xeai')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:14,170 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82j\x1d\x0fe')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:14,211 CAN ID: 512
+Data: bytearray(b'\x02g#\x82j\xea\xe0\xf5')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:14,233 CAN ID: 256
+Data: bytearray(b'\x04g#\x82j\xe3\xaa\xe5')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:14,313 CAN ID: 512
+Data: bytearray(b'\x03g#\x82j\x8f\x8e\xb6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:14,514 CAN ID: 512
+Data: bytearray(b'\x02g#\x82j\xea\xe0\xf5')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:14,636 CAN ID: 256
+Data: bytearray(b'\x05g#\x82jt\xeai')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:14,673 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82jB\xdf\xcb')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:14,738 CAN ID: 256
+Data: bytearray(b'\x04g#\x82j\xe3\xaa\xe5')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:14,839 CAN ID: 256
+Data: bytearray(b'\x05g#\x82jt\xeai')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:14,940 CAN ID: 256
+Data: bytearray(b'\x04g#\x82j\xe3\xaa\xe5')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:14,975 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82j\x1d\x0fe')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:15,016 CAN ID: 512
+Data: bytearray(b'\x03g#\x82k\xb3\xa0\xfe')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:15,041 CAN ID: 256
+Data: bytearray(b'\x05g#\x82k<-\xb9')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:15,118 CAN ID: 512
+Data: bytearray(b'\x02g#\x82k\x8bG\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:15,243 CAN ID: 256
+Data: bytearray(b'\x04g#\x82k\x97b\xd7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:15,277 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82k\x9d\xec\xb3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:15,378 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82k&\xa9\x86')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:15,621 CAN ID: 512
+Data: bytearray(b'\x03g#\x82k\xb3\xa0\xfe')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:15,645 CAN ID: 256
+Data: bytearray(b'\x05g#\x82k<-\xb9')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:15,681 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82k\x9d\xec\xb3')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:15,722 CAN ID: 512
+Data: bytearray(b'\x02g#\x82k\x8bG\x0c')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:15,782 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82k&\xa9\x86')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:15,848 CAN ID: 256
+Data: bytearray(b'\x04g#\x82k\x97b\xd7')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:16,050 CAN ID: 256
+Data: bytearray(b'\x05g#\x82lU\x8c\x16')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:16,084 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82l\x11(\xac')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:16,126 CAN ID: 512
+Data: bytearray(b'\x03g#\x82l\\\xd9W')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:16,185 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82l^~\x99')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:16,253 CAN ID: 256
+Data: bytearray(b'\x04g#\x82l\xc7\x7f\xb8')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:16,328 CAN ID: 512
+Data: bytearray(b'\x02g#\x82l\xab\xd4\x0e')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:16,355 CAN ID: 256
+Data: bytearray(b'\x05g#\x82lU\x8c\x16')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:16,587 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82l\x11(\xac')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:16,631 CAN ID: 512
+Data: bytearray(b'\x03g#\x82l\\\xd9W')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:16,660 CAN ID: 256
+Data: bytearray(b'\x04g#\x82l\xc7\x7f\xb8')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:16,733 CAN ID: 512
+Data: bytearray(b'\x02g#\x82l\xab\xd4\x0e')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:16,889 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82l^~\x99')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:17,035 CAN ID: 512
+Data: bytearray(b'\x03g#\x82m\x0c\x80\xfb')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:17,064 CAN ID: 256
+Data: bytearray(b'\x05g#\x82m\x07\xea\xae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:17,266 CAN ID: 256
+Data: bytearray(b'\x04g#\x82m]Q\xd6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:17,337 CAN ID: 512
+Data: bytearray(b'\x02g#\x82m_bC')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:17,370 CAN ID: 256
+Data: bytearray(b'\x05g#\x82m\x07\xea\xae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:17,492 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82mY\xdb,')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:17,571 CAN ID: 256
+Data: bytearray(b'\x04g#\x82m]Q\xd6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:17,594 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82mPn!')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:17,641 CAN ID: 512
+Data: bytearray(b'\x03g#\x82m\x0c\x80\xfb')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:17,746 CAN ID: 512
+Data: bytearray(b'\x02g#\x82m_bC')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:17,776 CAN ID: 256
+Data: bytearray(b'\x05g#\x82m\x07\xea\xae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:17,850 CAN ID: 512
+Data: bytearray(b'\x03g#\x82m\x0c\x80\xfb')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:17,877 CAN ID: 256
+Data: bytearray(b'\x04g#\x82m]Q\xd6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:18,180 CAN ID: 256
+Data: bytearray(b'\x05g#\x82n\xab"\x84')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:18,355 CAN ID: 512
+Data: bytearray(b'\x02g#\x82n\xae\t\xec')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:18,383 CAN ID: 256
+Data: bytearray(b'\x04g#\x82n\xa7\x95\x80')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:18,458 CAN ID: 512
+Data: bytearray(b'\x03g#\x82nP7g')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:18,499 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82n\xcaZQ')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:18,560 CAN ID: 512
+Data: bytearray(b'\x02g#\x82n\xae\t\xec')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:18,587 CAN ID: 256
+Data: bytearray(b'\x05g#\x82n\xab"\x84')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:18,602 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82n(\x05#')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:18,790 CAN ID: 256
+Data: bytearray(b'\x04g#\x82n\xa7\x95\x80')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:18,867 CAN ID: 512
+Data: bytearray(b'\x03g#\x82nP7g')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:19,501 CAN ID: 256
+Data: bytearray(b'\x05g#\x82o\x83\x8b?')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:19,607 CAN ID: 256
+Data: bytearray(b'\x04g#\x82o\xa3v\xac')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:19,610 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82o#\xe1\xab')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:19,716 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82o\x8a\xb2V')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:19,775 CAN ID: 512
+Data: bytearray(b'\x02g#\x82o\xeb\x80T')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:19,815 CAN ID: 256
+Data: bytearray(b'\x05g#\x82o\x83\x8b?')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:19,920 CAN ID: 256
+Data: bytearray(b'\x04g#\x82o\xa3v\xac')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:20,022 CAN ID: 256
+Data: bytearray(b'\x05g#\x82p\xe2\xd1\xe1')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:20,124 CAN ID: 256
+Data: bytearray(b'\x04g#\x82p\xd4\xee\xc6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:20,278 CAN ID: 512
+Data: bytearray(b'\x03g#\x82pu\xc4\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:20,327 CAN ID: 256
+Data: bytearray(b'\x05g#\x82p\xe2\xd1\xe1')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:20,428 CAN ID: 256
+Data: bytearray(b'\x04g#\x82p\xd4\xee\xc6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:20,480 CAN ID: 512
+Data: bytearray(b'\x02g#\x82p\x05\xa1@')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:20,629 CAN ID: 256
+Data: bytearray(b'\x05g#\x82p\xe2\xd1\xe1')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:20,681 CAN ID: 512
+Data: bytearray(b'\x03g#\x82pu\xc4\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:20,732 CAN ID: 256
+Data: bytearray(b'\x04g#\x82p\xd4\xee\xc6')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:20,782 CAN ID: 512
+Data: bytearray(b'\x02g#\x82p\x05\xa1@')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:20,883 CAN ID: 512
+Data: bytearray(b'\x03g#\x82pu\xc4\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:20,935 CAN ID: 256
+Data: bytearray(b'\x05g#\x82p\xe2\xd1\xe1')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:21,036 CAN ID: 256
+Data: bytearray(b'\x04g#\x82q\x8co\xb2')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:21,139 CAN ID: 256
+Data: bytearray(b'\x05g#\x82qfG\xda')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:21,285 CAN ID: 512
+Data: bytearray(b'\x02g#\x82q\xa5o\xc3')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:21,386 CAN ID: 512
+Data: bytearray(b'\x03g#\x82q\x9d\xe7\xd7')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:21,588 CAN ID: 512
+Data: bytearray(b'\x02g#\x82q\xa5o\xc3')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:21,741 CAN ID: 256
+Data: bytearray(b'\x04g#\x82q\x8co\xb2')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:21,889 CAN ID: 512
+Data: bytearray(b'\x03g#\x82q\x9d\xe7\xd7')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:22,024 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82r\x19\x02S')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:22,091 CAN ID: 512
+Data: bytearray(b'\x02g#\x82r\xd0\xcct')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:22,125 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82r:D.')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:22,193 CAN ID: 512
+Data: bytearray(b'\x03g#\x82rMW?')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:22,242 CAN ID: 256
+Data: bytearray(b'\x05g#\x82r\x03\xd1A')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:22,294 CAN ID: 512
+Data: bytearray(b'\x02g#\x82r\xd0\xcct')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:22,344 CAN ID: 256
+Data: bytearray(b'\x04g#\x82r\x1b\xed\xaf')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:22,427 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82r\x19\x02S')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:22,445 CAN ID: 256
+Data: bytearray(b'\x05g#\x82r\x03\xd1A')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:22,496 CAN ID: 512
+Data: bytearray(b'\x03g#\x82rMW?')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:22,527 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82r:D.')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:22,931 CAN ID: 1024
+Data: bytearray(b'\x01g#\x82r\x19\x02S')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights OFF
+Error:None
+
+2024-10-31 13:13:23,032 CAN ID: 1024
+Data: bytearray(b'\x00g#\x82s&\xd9k')
+Origin: HCM
+Destination: BCM
+Diagnostic Msg: Headlights ON
+Error:None
+
+2024-10-31 13:13:23,149 CAN ID: 256
+Data: bytearray(b'\x04g#\x82sQ\xb6s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:23,251 CAN ID: 256
+Data: bytearray(b'\x05g#\x82s\x1e\t\x00')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:23,352 CAN ID: 256
+Data: bytearray(b'\x04g#\x82sQ\xb6s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:23,453 CAN ID: 256
+Data: bytearray(b'\x05g#\x82s\x1e\t\x00')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:23,498 CAN ID: 512
+Data: bytearray(b'\x02g#\x82sB\x99\x08')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:23,599 CAN ID: 512
+Data: bytearray(b'\x03g#\x82s<xV')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:23,654 CAN ID: 256
+Data: bytearray(b'\x04g#\x82sQ\xb6s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:23,855 CAN ID: 256
+Data: bytearray(b'\x05g#\x82s\x1e\t\x00')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:23,955 CAN ID: 256
+Data: bytearray(b'\x04g#\x82sQ\xb6s')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:24,056 CAN ID: 256
+Data: bytearray(b'\x05g#\x82t\x94\xbdR')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:24,301 CAN ID: 512
+Data: bytearray(b'\x02g#\x82tF\xd5\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:24,357 CAN ID: 256
+Data: bytearray(b'\x04g#\x82t\xad_Y')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:24,458 CAN ID: 256
+Data: bytearray(b'\x05g#\x82t\x94\xbdR')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:24,502 CAN ID: 512
+Data: bytearray(b'\x03g#\x82t\xb3ZS')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:24,759 CAN ID: 256
+Data: bytearray(b'\x04g#\x82t\xad_Y')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:24,903 CAN ID: 512
+Data: bytearray(b'\x02g#\x82tF\xd5\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:24,960 CAN ID: 256
+Data: bytearray(b'\x05g#\x82t\x94\xbdR')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:25,060 CAN ID: 256
+Data: bytearray(b'\x04g#\x82u\x1cQ\xbb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:25,104 CAN ID: 512
+Data: bytearray(b'\x03g#\x82u\xa9\xbb\x10')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:25,161 CAN ID: 256
+Data: bytearray(b'\x05g#\x82uR\xc7\x95')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:25,205 CAN ID: 512
+Data: bytearray(b'\x02g#\x82u\x97\x90\xb6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:25,262 CAN ID: 256
+Data: bytearray(b'\x04g#\x82u\x1cQ\xbb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:25,305 CAN ID: 512
+Data: bytearray(b'\x03g#\x82u\xa9\xbb\x10')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:25,362 CAN ID: 256
+Data: bytearray(b'\x05g#\x82uR\xc7\x95')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:25,707 CAN ID: 512
+Data: bytearray(b'\x02g#\x82u\x97\x90\xb6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:25,763 CAN ID: 256
+Data: bytearray(b'\x04g#\x82u\x1cQ\xbb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:25,807 CAN ID: 512
+Data: bytearray(b'\x03g#\x82u\xa9\xbb\x10')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:25,964 CAN ID: 256
+Data: bytearray(b'\x05g#\x82uR\xc7\x95')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:26,209 CAN ID: 512
+Data: bytearray(b'\x02g#\x82v\xf3\xbd\xb0')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:26,309 CAN ID: 512
+Data: bytearray(b'\x03g#\x82v\x04\xf8\\')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:26,365 CAN ID: 256
+Data: bytearray(b'\x04g#\x82v\xfcx,')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:26,566 CAN ID: 256
+Data: bytearray(b'\x05g#\x82v\xa4\x1b\x0b')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:26,767 CAN ID: 256
+Data: bytearray(b'\x04g#\x82v\xfcx,')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:26,810 CAN ID: 512
+Data: bytearray(b'\x02g#\x82v\xf3\xbd\xb0')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:26,868 CAN ID: 256
+Data: bytearray(b'\x05g#\x82v\xa4\x1b\x0b')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:26,911 CAN ID: 512
+Data: bytearray(b'\x03g#\x82v\x04\xf8\\')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:27,412 CAN ID: 512
+Data: bytearray(b'\x02g#\x82w\x92N\xf6')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:27,513 CAN ID: 512
+Data: bytearray(b'\x03g#\x82w\x90|\xc2')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:28,771 CAN ID: 256
+Data: bytearray(b'\x04g#\x82x\xc4\x0c\xbb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:28,972 CAN ID: 256
+Data: bytearray(b'\x05g#\x82x\xe3\xfae')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:29,173 CAN ID: 256
+Data: bytearray(b'\x04g#\x82yy\xff\x15')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:29,274 CAN ID: 256
+Data: bytearray(b'\x05g#\x82yKv"')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:29,316 CAN ID: 512
+Data: bytearray(b'\x02g#\x82yhP\x98')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:29,417 CAN ID: 512
+Data: bytearray(b'\x03g#\x82y\xd7\x1e\x90')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:29,777 CAN ID: 256
+Data: bytearray(b'\x04g#\x82yy\xff\x15')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:29,877 CAN ID: 256
+Data: bytearray(b'\x05g#\x82yKv"')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:30,279 CAN ID: 256
+Data: bytearray(b'\x04g#\x82zJ\xd9\xdb')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:30,380 CAN ID: 256
+Data: bytearray(b'\x05g#\x82z\xf8\xe6\xdd')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:31,082 CAN ID: 256
+Data: bytearray(b'\x04g#\x82{\x91\xfaU')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:31,184 CAN ID: 256
+Data: bytearray(b'\x05g#\x82{\xa9`B')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:31,421 CAN ID: 512
+Data: bytearray(b'\x02g#\x82{\xc6u\x9b')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:31,523 CAN ID: 512
+Data: bytearray(b'\x03g#\x82{\xd9\xfc\xf1')
+Origin: DCM
+Destination: BCM
+Diagnostic Msg: Door is Locked
+Error:None
+
+2024-10-31 13:13:31,986 CAN ID: 256
+Data: bytearray(b'\x04g#\x82{\x91\xfaU')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:32,088 CAN ID: 256
+Data: bytearray(b'\x05g#\x82|:\x92\x86')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:32,490 CAN ID: 256
+Data: bytearray(b'\x04g#\x82|\x06\xa1\xd3')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:32,591 CAN ID: 256
+Data: bytearray(b'\x05g#\x82|:\x92\x86')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
+2024-10-31 13:13:33,895 CAN ID: 256
+Data: bytearray(b'\x04g#\x82}\x05\xbeW')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is OFF
+Error: None
+
+2024-10-31 13:13:33,996 CAN ID: 256
+Data: bytearray(b'\x05g#\x82}\x98\xeaQ')
+Origin: BSM
+Destination: BCM
+Diagnostic Msg: Belt is ON
+Error: None
+
