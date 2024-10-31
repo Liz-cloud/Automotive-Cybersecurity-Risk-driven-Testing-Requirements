@@ -19,7 +19,7 @@ from logging.handlers import RotatingFileHandler
 class Mutation_Based_Fuzzer:
     def __init__(self, interface):
         # Set up logging
-        log_path = '/Fuzzer/Fuzzing.log'
+        log_path = 'Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
