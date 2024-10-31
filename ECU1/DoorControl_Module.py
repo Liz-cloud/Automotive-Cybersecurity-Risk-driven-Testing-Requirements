@@ -136,11 +136,12 @@ class DoorControlECU:
             try:
                 elapsed_time = time.time() - start_time
                 # Define probabilities for door locked and door unlocked based on elapsed time
-                door_unlocked_weight = max(0.1, 1 - (elapsed_time / duration))  # Gradually decreases
-                door_locked_weight = 1 - door_unlocked_weight # Increases as door_unlocked_weight decreases
+                # door_unlocked_weight = max(0.1, 1 - (elapsed_time / duration))  # Gradually decreases
+                # door_locked_weight = 1 - door_unlocked_weight # Increases as door_unlocked_weight decreases
 
-                lock_status = random.choices([0x02, 0x03], weights=[door_unlocked_weight, door_locked_weight])[0]
-                self.d_msg = 'Door is Unlocked' if lock_status == 0x04 else 'Door is Locked'
+                # lock_status = random.choices([0x02, 0x03], weights=[door_unlocked_weight, door_locked_weight])[0]
+                lock_status=0x02
+                self.d_msg = 'Door is Unlocked' if lock_status == 0x02 else 'Door is Locked'
 
                 self.send_lock_status(lock_status)
                 time.sleep(0.1 ) # Adjust the sleep duration as needed
