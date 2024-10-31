@@ -6,6 +6,7 @@
 ### Date: 12/09/2024
 
 #### Fuzzer Folder
+- Attacker ECU
 - Contains Python scripts to launch fuzz tests on the Body Control Module (BCM) ECU
 - Associated log files for sent fuzzing messages from sessions
   
@@ -16,13 +17,14 @@
 4. Mutation-Based Fuzzing
 5. Replay Attacks
    
-#### ECU2 Folder (Reciever/Listerner)
+#### ECU2 Folder 
+- Reciever/Listerner ECU
 - Contains python script for Body Control Module (BCM) ECU to simulate sensors based on received CAN messages
 - Recieved messages from Belt, Door and Headlight Control Modules
 - Associated response log files for sessions
 
-
-#### ECU1 Folder (Sender)
+#### ECU1 Folder
+- Sender ECU
 - Contains python script for Belt Status Module (BSM) , Door Control Modules (DCM) and Headlight Control Modules (HCM)
 - CAN Messages sent to BCM to trigger sessors on circuit
 - Associated log files for messages from sessions
