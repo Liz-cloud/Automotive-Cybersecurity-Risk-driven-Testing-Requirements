@@ -19,7 +19,7 @@ class Replay_Fuzzer:
     
     def __init__(self, interface, duration, interval):
         # Set up logging
-        log_path = '/Fuzzer/Fuzzing.log'
+        log_path = 'Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
@@ -65,7 +65,7 @@ class Replay_Fuzzer:
         print('CAN message capture complete')
         self.save_captured_messages()
     
-    def save_captured_messages(self, filename='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frames.pkl'):
+    def save_captured_messages(self, filename='Fuzzer/captured_frames.pkl'):
         '''Save the captured CAN messages to a file'''
         with open(filename, 'wb') as f:
             pickle.dump(self.capture_frames, f)
@@ -110,9 +110,9 @@ class Replay_Fuzzer:
     
     def read_file(self):
     
-        obj = pickle.load(open("/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_frames.pkl", "rb"))
+        obj = pickle.load(open("Fuzzer/captured_frames.pkl", "rb"))
 
-        with open("/home/linda-mafunu/Desktop/Final-Project/Fuzzer/captured_messages.txt", "a") as f:
+        with open("Fuzzer/captured_messages.txt", "a") as f:
             print(f"Loaded {len(obj)} captured frames from captured_frames.pkl", file=f)
             print('!')
             pprint.pprint(obj, stream=f)
