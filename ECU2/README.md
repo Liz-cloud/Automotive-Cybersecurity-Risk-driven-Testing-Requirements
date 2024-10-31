@@ -7,20 +7,9 @@
 ### Receiver ECU:
 
 #### Instructions to run  code:
-    1. Bring Up the CAN Interface: 
-        - Set can0 interface speed to 500 Kbps:  
-            sudo ip link set can0 up type can bitrate 500000 sample-point 0.875  
-
-        - Set to can0 to “steady” state:
-            sudo ip link set can0 up  
-
-    2. To bring down interface :  
-        sudo ip link set can0 down 
-
-    3. Check status of can
-        sudo ip link
-        
-    4. Run python file BCM
-        python3 BCM.py
+- Receiver/Listerner ECU
+- Contains Python script for Body Control Module (BCM) ECU to simulate sensors based on received CAN messages
+- Received messages from the Belt, Door and Headlight Control Modules
+- Associated response log files for sessions
     
-    Observe output sensors' behaviour and red log files of error diagnostics
+#### Observe output sensors' behaviour and red log files of error diagnostics
