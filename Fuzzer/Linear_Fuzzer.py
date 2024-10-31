@@ -1,12 +1,12 @@
-# # Student name: Linda Mafunu
-# # Student number: 2216686
-# # Date: 12 Sep 2024
+# Student name: Linda Mafunu
+# Student number: 2216686
+# Date: 12 Sep 2024
 
-# # Fuzzing script to send sequental CAN messages to the BCM
-# # Uses pre-defined sequence of inputs in incrementing oder
-# # each input is generated basd on the previous one creating a predicatble pattern
-# ##### Code Source: 
-# #    https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
+# Fuzzing script to send sequental CAN messages to the BCM
+# Uses pre-defined sequence of inputs in incrementing oder
+# each input is generated basd on the previous one creating a predicatble pattern
+##### Code Source: 
+#    https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 import can
 import time
@@ -17,7 +17,7 @@ from logging.handlers import RotatingFileHandler
 class Linear_Fuzzer:
     def __init__(self, interface):
         # Set up logging
-        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Fuzzing.log'
+        log_path = '/Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
