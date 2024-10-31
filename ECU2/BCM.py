@@ -15,7 +15,7 @@ import hmac
 import hashlib 
 import os
 import numpy as np
-from gpiozero import LED,Buzzer,BadPinFactory, Device
+from gpiozero import LED,BadPinFactory, Device
 from logging.handlers import RotatingFileHandler 
 from gpiozero.pins.native import NativeFactory
 
@@ -44,7 +44,7 @@ class BCM:
 
         #initialise output devices using gpio pins
         try: 
-            self.warning=Buzzer(24) # unverified can messages
+            self.warning=LED(24) # unverified can messages
             self.headlights=LED(23) # blue led 
             self.interior_lights=LED(27) # yellow led 
             self.belt_status=LED(22)#RED LED 
