@@ -27,7 +27,7 @@ class BCM:
         Device.pin_factory=NativeFactory()
 
         #set up logging
-        log_path='/ECU2/BCM.log'
+        log_path='ECU2/BCM.log'
         handler = RotatingFileHandler(log_path, mode='w',maxBytes=5*1024*1024, backupCount=2) 
         # Clear the log file at the start of each run
         with open(log_path, 'w'):
