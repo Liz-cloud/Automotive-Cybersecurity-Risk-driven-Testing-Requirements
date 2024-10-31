@@ -12,7 +12,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Set up logging
-log_path='/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Brute_Force_Fuzzing1.log'
+log_path='/Brute_Force_Fuzzing1.log'
 
 handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
 
