@@ -4,8 +4,7 @@
 
 # Fuzzing script to send Replayed CAN messages to the BCM
 # capture CAN frames from CAN bus store them and the  replay them in a loop
-###### Code Source: 
-#  https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
+# Code Source: https://github.com/FrostTusk/CAN-Fuzzer/blob/master/fuzzer.py
 
 
 import can
@@ -20,7 +19,7 @@ class Replay_Fuzzer:
     
     def __init__(self, interface, duration, interval):
         # Set up logging
-        log_path = '/home/linda-mafunu/Desktop/Final-Project/Fuzzer/Fuzzing.log'
+        log_path = '/Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
