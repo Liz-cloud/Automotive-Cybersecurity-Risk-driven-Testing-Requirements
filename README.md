@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pen-Testing ECU using Py-CAN
 
 ## Student Name: Linda Mafunu
@@ -63,3 +64,7 @@
   - If you press BF button it will run Brute Force Fuzzing python script
   - If you press MBT button it will run Mutated Based Fuzzing python script
   - If you press Replay button it will run Replay Fuzzing python script
+=======
+# Automotive-Cybersecurity-Risk-driven-Testing-Requirements
+Implementing MAC Tags for Fuzz Testing Resistance and Performance Analysis in Vehicle Networks
+>>>>>>> 51fddb3c0aa24efe1fd0d0f5f5f9e22e1c2f49fe
