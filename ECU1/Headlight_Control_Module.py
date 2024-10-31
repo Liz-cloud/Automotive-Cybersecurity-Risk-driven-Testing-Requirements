@@ -140,7 +140,7 @@ class Headlight_Control_Module:
                 #define the probabiliitoes for light_off and light_on based on elasped time
                 light_off_weight=max(0.1,1-(elasped_time/duration)) #gradually decreases
                 light_on_weight=1- light_off_weight # increases as light_off_weiht decreases
-                light_level = random.choices([0x00, 0xFF], weights=[light_off_weight,light_on_weight])[0]  # Randomly simulate light on or off
+                light_level = random.choices([0x00, 0x3F], weights=[light_off_weight,light_on_weight])[0]  # Randomly simulate light on or off
     
                 # Check if light level is below the threshold
                 if light_level < self.LIGHT_THRESHOLD: 
