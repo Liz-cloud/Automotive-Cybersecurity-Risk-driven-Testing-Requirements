@@ -63,7 +63,7 @@
   - The print and error output for running the fuzzing scripts are found in the controller_script.log file
   - If you press Random button it will run Random Fuzzing python script
   - If you press Linear button it will run Linear Fuzzing python script
-  - If you press BF button it will run Brute Force Fuzzing python script
-  - If you press MBT button it will run Mutated Based Fuzzing python script
+  - If you press Brute Foce button it will run Brute Force Fuzzing python script
+  - If you press Mutated Based button it will run Mutated Based Fuzzing python script
   - If you press Replay button it will run Replay Fuzzing python script
 
