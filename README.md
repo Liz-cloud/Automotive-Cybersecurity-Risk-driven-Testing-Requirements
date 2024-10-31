@@ -1,33 +1,33 @@
-<<<<<<< HEAD
-# Pen-Testing ECU using Py-CAN
+# Automotive-Cybersecurity-Risk-driven-Testing-Requirements
+## Implementing MAC Tags for Fuzz Testing Resistance and Performance Analysis in Vehicle Networks
 
-## Student Name: Linda Mafunu
-## Student Number: 2216686
-## Date: 12/09/2024
+### Student Name: Linda Mafunu
+### Student Number: 2216686
+### Date: 12/09/2024
 
-### Fuzzer Folder
+#### Fuzzer Folder
 - Contains Python scripts to launch fuzz tests on the Body Control Module (BCM) ECU
 - Associated log files for sent fuzzing messages from sessions
   
-#### Fuzz Tests:
+##### Fuzz Tests:
 1. Random Fuzzing
 2. Linear Fuzzing
 3. Brute Force Fuzzing
 4. Mutation-Based Fuzzing
 5. Replay Attacks
    
-### ECU2 Folder (Reciever/Listerner)
+#### ECU2 Folder (Reciever/Listerner)
 - Contains python script for Body Control Module (BCM) ECU to simulate sensors based on received CAN messages
 - Recieved messages from Belt, Door and Headlight Control Modules
 - Associated response log files for sessions
 
 
-### ECU1 Folder (Sender)
+#### ECU1 Folder (Sender)
 - Contains python script for Belt Status Module (BSM) , Door Control Modules (DCM) and Headlight Control Modules (HCM)
 - CAN Messages sent to BCM to trigger sessors on circuit
 - Associated log files for messages from sessions
 
-### Analysis Jupiter Notebook
+#### Analysis Jupiter Notebook
   - Analysis the BCM log files for the ECU communication and Fuzz tests using statistical data and graphs
 
 ## How to run simulation
@@ -64,7 +64,4 @@
   - If you press BF button it will run Brute Force Fuzzing python script
   - If you press MBT button it will run Mutated Based Fuzzing python script
   - If you press Replay button it will run Replay Fuzzing python script
-=======
-# Automotive-Cybersecurity-Risk-driven-Testing-Requirements
-Implementing MAC Tags for Fuzz Testing Resistance and Performance Analysis in Vehicle Networks
->>>>>>> 51fddb3c0aa24efe1fd0d0f5f5f9e22e1c2f49fe
+
