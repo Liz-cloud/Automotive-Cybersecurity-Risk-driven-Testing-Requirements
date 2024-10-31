@@ -19,7 +19,7 @@ class Replay_Fuzzer:
     
     def __init__(self, interface, duration, interval):
         # Set up logging
-        log_path = 'Fuzzer/Fuzzing.log'
+        log_path = '/home/linda-mafunu/Desktop/Automotive-Cybersecurity-Risk-driven-Testing-Requirements/Fuzzer/Fuzzing.log'
         handler = RotatingFileHandler(log_path, mode='w', maxBytes=5*1024*1024, backupCount=2)
         with open(log_path, 'w'):
             pass
