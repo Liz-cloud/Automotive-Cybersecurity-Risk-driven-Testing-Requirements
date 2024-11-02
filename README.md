@@ -67,3 +67,7 @@
   - If you press the Mutated Based button it will run the Mutated Based Fuzzing Python script
   - If you press the Replay button it will run the Replay Fuzzing Python script
 
+### Test Bed Setup
+
+![Test bed](test_bed.jpeg)
+
