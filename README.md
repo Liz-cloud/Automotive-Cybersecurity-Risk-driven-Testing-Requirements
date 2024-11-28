@@ -26,7 +26,7 @@
 #### ECU1 Folder
 - Sender ECU
 - Contains Python script for Belt Status Module (BSM), Door Control Modules (DCM) and Headlight Control Modules (HCM)
-- CAN Messages sent to BCM to trigger sensors on circuit
+- CAN Messages sent to BCM to trigger sensors on the circuit
 - Associated log files for messages from sessions
 
 #### Analysis Jupiter Notebook
@@ -68,6 +68,5 @@
   - If you press the Replay button it will run the Replay Fuzzing Python script
 
 ### Test Bed Setup
-
-![Test bed](test_bed.jpeg)
+![Test Bed](Dissertation_Report/Setup.jpg)
 
